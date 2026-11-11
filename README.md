@@ -1,44 +1,6 @@
 # 雅思学习台 · IELTS Study Workbench
-
-本地优先的雅思备考静态工具。纯 HTML + Tailwind CSS v3 + 原生 JavaScript，无后端、无账号、无第三方运行时请求（Tailwind 已本地编译）。学习记录保存在浏览器 `localStorage`。
-
-> `word.md` 中的 500 条词库已接入本应用的「单词」模块，词书名为 **雅思500高频乱序词**，可与原有示例词书切换。另有一个独立的 Vue 3 + Vite + ECharts 练习应用作为可选示例，见 [`word-quiz/README.md`](word-quiz/README.md)。
-
-## 快速开始
-
-浏览器不允许通过 `file://` 直接 `fetch` 本地 JSON，所以需要用一个静态 HTTP 服务打开：
-
-```bash
-# Node 18+（本项目使用 Node 24 验证）
-npm run dev
-# 打开 http://localhost:8000
-```
-
-`npm run dev` 会先执行 `npm run parse:words`，从根目录 `word.md` 生成 `data/ielts500.json`，再启动静态服务器。也可以直接运行 `node serve.js`（使用已生成的词库文件）。
-
-只更新词库时：
-
-```bash
-npm run parse:words
-```
-
-Windows 也可以运行：
-
-```powershell
-.\start-local.ps1
-```
-
-`serve.js` 只是本地预览用的静态文件服务器，不处理任何数据，不是应用后端。部署到静态托管（GitHub Pages / Cloudflare Pages / Netlify / Nginx）时不需要它。
-
-### 修改样式后重新编译 Tailwind
-
-```bash
-npm install        # 首次
-npm run build:css  # 生成 tailwind.css
-```
-
-`index.html` 直接引用 `tailwind.css`，因此部署时不需要 Node，也不依赖 CDN。开发样式时可运行 `npm run watch:css`。
-
+访问地址：
+https://koukou164.github.io/ielts22/
 ## 目录结构
 
 ```
@@ -247,27 +209,10 @@ npm run dev
 
 更换设备或清理浏览器前，请在「设置 → 数据备份」导出 JSON。
 
-## 版权风险（公开上线前必须处理）
 
-演示素材均为原创或通用表达，但以下位置在替换为正式素材后存在版权风险：
-
-1. `data/wordlist.json` — 来自《剑桥雅思》《柯林斯》《牛津》等词书的释义、例句、搭配。
-2. `data/longsentence.json` — 剑桥真题原文、雅思官方材料、商业备考书长难句。
-3. `data/speaking.json` — 商业备考书高分答案、机经回忆题库。
-4. `data/writing.json` — 官方 band descriptors、范文、商业书句型库；自查表若直接引用官方评分描述也需注意。
-5. `data/synonym.json` — 商业备考书的同义替换清单。
-6. `data/ielts500.json` — 由根目录 `word.md` 生成；公开部署前请确认该 500 词词库的来源与授权。
-
-每个 JSON 顶部的 `_copyrightWarning` 字段也标明了对应风险。上线前请替换为自有、原创或已获授权的内容。
 
 ## AI 功能
 
 写作页保留了「AI 批改（预留）」面板：文本框、字数统计、提交按钮与说明，但不发送任何网络请求。后续可在 `app.js` 的 `ai:check` 分支接入自己的 API 代理；不要在前端硬编码密钥。
 
-## 已知限制
 
-- 数据存于当前浏览器的当前 origin；`localhost:8000` 与部署域名、不同端口的存储不互通。
-- Web Speech API 的语音取决于操作系统安装的语音包；没有 `en-GB` 时会退回其他英语语音。
-- 词库列表一次性渲染，正式导入数千词后可考虑分页/虚拟列表。
-- 雅思 500 词书没有例句、搭配和标签：B 模式使用中文释义挖空，标签筛选对该词书不生效。
-- 无 Service Worker，离线使用需静态文件本地可访问（已无外部运行时请求）。
