@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+  <meta name="color-scheme" content="light dark" />
+  <meta name="theme-color" content="#f6f7f9" />
+  <title> IELTS Study</title>
+  <meta name="description" content="本地优先的雅思备考静态工具：SM-2 单词复习、同义替换、长难句、写作与口语练习、模考计时。" />
+
+  <!-- 内联 SVG favicon，避免额外请求 -->
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%2335577c'/%3E%3Ctext x='16' y='22' font-family='Georgia,serif' font-size='16' fill='white' text-anchor='middle'%3EAa%3C/text%3E%3C/svg%3E" />
+
+  <!-- 首屏主题：在样式加载前应用，避免深色模式闪白 -->
+  <script>
+    (function () {
+      try {
+        var raw = localStorage.getItem('ielts.v1.settings');
+        var cfg = raw ? JSON.parse(raw) : {};
+        var theme = cfg && cfg.theme;
+        if (theme !== 'light' && theme !== 'dark') {
+          theme = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+        }
+        document.documentElement.classList.toggle('dark', theme === 'dark');
+      } catch (e) { /* 忽略损坏的本地设置 */ }
+    })();
+  </script>
+
+  <!-- Tailwind CSS v3：本地编译产物（npm run build:css），无运行时 CDN 依赖 -->
+  <link rel="stylesheet" href="./tailwind.css" />
+</head>
+
+<body class="bg-ink-50 text-ink-900 dark:bg-ink-950 dark:text-ink-100">
+  <div id="app" class="min-h-screen">
+    <div class="flex min-h-screen items-center justify-center px-6 text-sm text-ink-400">
+      正在加载本地学习数据…
+    </div>
+  </div>
+
+  <script src="./sm2.js"></script>
+  <script src="./app.js"></script>
+</body>
+</html>

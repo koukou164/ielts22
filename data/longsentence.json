@@ -1,0 +1,93 @@
+{
+  "_note": "长难句练习。words 为 wordlist.json 的 id 数组，用于句内自动关联词库；glossary 放未收录词。",
+  "_copyrightWarning": "以下句子为演示用原创例句。若替换为《剑桥雅思》真题原文、雅思官方材料或商业备考书长难句，公开部署前必须获得授权。",
+  "sentences": [
+    {
+      "id": "ls-001",
+      "sentence": "Although the initial investment required for renewable energy infrastructure is substantial, the long-term savings in fuel costs and the environmental benefits make it a compelling option for governments seeking to reduce their carbon footprint.",
+      "translation": "尽管可再生能源基础设施所需的初始投资十分巨大，但长期节省的燃料成本以及环境效益，使其成为寻求减少碳足迹的政府的一个有吸引力的选择。",
+      "skeleton": "主干：the long-term savings ... and the environmental benefits make it a compelling option（主语 + 谓语 + 宾语 + 宾补）。",
+      "clauses": [
+        {
+          "text": "Although the initial investment required for renewable energy infrastructure is substantial",
+          "type": "让步状语从句",
+          "note": "Although 引导让步；从句主语 the initial investment 后置定语 required for ... 修饰。"
+        },
+        {
+          "text": "required for renewable energy infrastructure",
+          "type": "过去分词后置定语",
+          "note": "修饰 investment，相当于 which is required for ...。"
+        },
+        {
+          "text": "seeking to reduce their carbon footprint",
+          "type": "现在分词短语",
+          "note": "作后置定语修饰 governments，相当于 who seek to ...。"
+        }
+      ],
+      "words": ["w003"],
+      "glossary": [
+        { "term": "renewable energy infrastructure", "cn": "可再生能源基础设施" },
+        { "term": "compelling option", "cn": "有吸引力的选择" },
+        { "term": "carbon footprint", "cn": "碳足迹" }
+      ],
+      "question": "用一句话概括作者对可再生能源投资的看法。",
+      "reference": "尽管前期投入巨大，但长期燃料节约与环境收益使可再生能源成为政府减碳的划算选择。"
+    },
+    {
+      "id": "ls-002",
+      "sentence": "If the quality of air in urban areas continues to deteriorate at its current rate, the long-term consequences for public health, particularly among children and the elderly, could be far more serious than most policymakers currently anticipate.",
+      "translation": "如果城市地区的空气质量继续以目前的速度恶化，那么对公共健康——尤其是儿童和老年人——的长期影响，可能远比多数政策制定者目前预想的更为严重。",
+      "skeleton": "主干：the long-term consequences ... could be far more serious（主语 + 系动词 + 表语 + 比较状语）。",
+      "clauses": [
+        {
+          "text": "If the quality of air in urban areas continues to deteriorate at its current rate",
+          "type": "条件状语从句",
+          "note": "If 引导真实条件句；deteriorate 为不及物动词，at its current rate 作方式状语。"
+        },
+        {
+          "text": "for public health, particularly among children and the elderly",
+          "type": "介词短语",
+          "note": "修饰 consequences；particularly ... 为插入性补充说明。"
+        },
+        {
+          "text": "than most policymakers currently anticipate",
+          "type": "比较状语从句",
+          "note": "与 far more serious 呼应；than 后接完整从句。"
+        }
+      ],
+      "words": ["w002"],
+      "glossary": [
+        { "term": "long-term consequences", "cn": "长期后果" },
+        { "term": "policymaker", "cn": "政策制定者" },
+        { "term": "anticipate", "cn": "预料，预见" }
+      ],
+      "question": "这句话的因果关系是什么？",
+      "reference": "空气质量持续恶化是条件/原因，公共健康后果远比预期严重是结果，作者用比较结构强调严重性被低估。"
+    },
+    {
+      "id": "ls-003",
+      "sentence": "Although the organisers had originally booked a larger venue, the conference was postponed until October because the keynote speaker's flight was cancelled at short notice.",
+      "translation": "尽管组织者原本预订了一个更大的场地，但由于主旨演讲者的航班在临出发前被取消，会议被推迟到了十月。",
+      "skeleton": "主干：the conference was postponed until October（主语 + 被动谓语 + 时间状语）。",
+      "clauses": [
+        {
+          "text": "Although the organisers had originally booked a larger venue",
+          "type": "让步状语从句",
+          "note": "Although 引导让步；had booked 为过去完成时，表示先于主句动作。"
+        },
+        {
+          "text": "because the keynote speaker's flight was cancelled at short notice",
+          "type": "原因状语从句",
+          "note": "because 引导原因；at short notice 意为“在很短的通知时间内、临时”。"
+        }
+      ],
+      "words": ["w101", "w102"],
+      "glossary": [
+        { "term": "keynote speaker", "cn": "主旨演讲嘉宾" },
+        { "term": "at short notice", "cn": "临时通知，仓促地" }
+      ],
+      "question": "会议为什么被推迟？",
+      "reference": "因为主旨演讲者的航班临时取消，尽管主办方原本已经订好了更大的场地。"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+/* ============================================================================
+ * src/input.css — Tailwind 源文件
+ * 构建：npm run build:css  →  输出 ./tailwind.css
+ * ========================================================================== */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    -webkit-text-size-adjust: 100%;
+    scroll-behavior: auto;
+  }
+
+  body {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  ::selection {
+    background: #c0d3e6;
+    color: #1d2530;
+  }
+
+  .dark ::selection {
+    background: #2c4664;
+    color: #eceef2;
+  }
+
+  /* 避免 iOS 输入框自动放大 */
+  @media (max-width: 640px) {
+    input,
+    select,
+    textarea {
+      font-size: 16px;
+    }
+  }
+
+  /* 尊重系统「减少动态效果」 */
+  @media (prefers-reduced-motion: reduce) {
+    *,
+    *::before,
+    *::after {
+      animation: none !important;
+      transition: none !important;
+    }
+  }
+}
+
+@layer components {
+  /* 挖空下划线 */
+  .cloze-blank {
+    display: inline-block;
+    min-width: 5.5rem;
+    border-bottom: 2px solid #c3cad4;
+    transform: translateY(-0.15em);
+  }
+
+  .dark .cloze-blank {
+    border-bottom-color: #4d5b70;
+  }
+
+  /* 底部安全区（iPhone） */
+  .safe-bottom {
+    padding-bottom: max(1rem, env(safe-area-inset-bottom));
+  }
+}

@@ -1,0 +1,9041 @@
+{
+  "meta": {
+    "source": "word.md",
+    "title": "雅思500高频核心词汇（乱序版）",
+    "total": 500,
+    "unique": 498,
+    "duplicates": [
+      {
+        "word": "appetite",
+        "count": 2
+      },
+      {
+        "word": "colleague",
+        "count": 2
+      }
+    ]
+  },
+  "words": [
+    {
+      "id": 1,
+      "word": "advocate",
+      "phonetic": "/ˈædvəkət/",
+      "phonetics": [
+        "/ˈædvəkət/",
+        "/ˈædvəkeɪt/"
+      ],
+      "meaning": "n. 支持者；v. 提倡",
+      "promptMeaning": "n. 支持者；v. 提倡",
+      "pos": [
+        "n",
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "支持者",
+        "提倡"
+      ]
+    },
+    {
+      "id": 2,
+      "word": "artificial",
+      "phonetic": "/ˌɑːtɪˈfɪʃl/",
+      "phonetics": [
+        "/ˌɑːtɪˈfɪʃl/"
+      ],
+      "meaning": "adj. 人造的，人工的",
+      "promptMeaning": "adj. 人造的，人工的",
+      "pos": [
+        "adj"
+      ],
+      "aliases": [],
+      "senses": [
+        "人造的",
+        "人工的"
+      ]
+    },
+    {
+      "id": 3,
+      "word": "abundant",
+      "phonetic": "/əˈbʌndənt/",
+      "phonetics": [
+        "/əˈbʌndənt/"
+      ],
+      "meaning": "adj. 大量的，丰富的",
+      "promptMeaning": "adj. 大量的，丰富的",
+      "pos": [
+        "adj"
+      ],
+      "aliases": [],
+      "senses": [
+        "大量的",
+        "丰富的"
+      ]
+    },
+    {
+      "id": 4,
+      "word": "attribute",
+      "phonetic": "/əˈtrɪbjuːt/",
+      "phonetics": [
+        "/əˈtrɪbjuːt/",
+        "/ˈætrɪbjuːt/"
+      ],
+      "meaning": "v. 归因于；n. 属性",
+      "promptMeaning": "v. 归因于；n. 属性",
+      "pos": [
+        "v",
+        "n"
+      ],
+      "aliases": [],
+      "senses": [
+        "归因于",
+        "属性"
+      ]
+    },
+    {
+      "id": 5,
+      "word": "adapt",
+      "phonetic": "/əˈdæpt/",
+      "phonetics": [
+        "/əˈdæpt/"
+      ],
+      "meaning": "v. 适应；改编",
+      "promptMeaning": "v. 适应；改编",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "适应",
+        "改编"
+      ]
+    },
+    {
+      "id": 6,
+      "word": "archive",
+      "phonetic": "/ˈɑːkaɪv/",
+      "phonetics": [
+        "/ˈɑːkaɪv/"
+      ],
+      "meaning": "n. 档案 v. 存档",
+      "promptMeaning": "n. 档案 v. 存档",
+      "pos": [
+        "n",
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "档案 存档",
+        "档案存档"
+      ]
+    },
+    {
+      "id": 7,
+      "word": "applaud",
+      "phonetic": "/əˈplɔːd/",
+      "phonetics": [
+        "/əˈplɔːd/"
+      ],
+      "meaning": "v. 鼓掌；赞许",
+      "promptMeaning": "v. 鼓掌；赞许",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "鼓掌",
+        "赞许"
+      ]
+    },
+    {
+      "id": 8,
+      "word": "aggravate",
+      "phonetic": "/ˈæɡrəveɪt/",
+      "phonetics": [
+        "/ˈæɡrəveɪt/"
+      ],
+      "meaning": "v. 加重，恶化",
+      "promptMeaning": "v. 加重，恶化",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "加重",
+        "恶化"
+      ]
+    },
+    {
+      "id": 9,
+      "word": "arbitrary",
+      "phonetic": "/ˈɑːbɪtrəri/",
+      "phonetics": [
+        "/ˈɑːbɪtrəri/"
+      ],
+      "meaning": "adj. 随意的，武断的",
+      "promptMeaning": "adj. 随意的，武断的",
+      "pos": [
+        "adj"
+      ],
+      "aliases": [],
+      "senses": [
+        "随意的",
+        "武断的"
+      ]
+    },
+    {
+      "id": 10,
+      "word": "anticipate",
+      "phonetic": "/ænˈtɪsɪpeɪt/",
+      "phonetics": [
+        "/ænˈtɪsɪpeɪt/"
+      ],
+      "meaning": "v. 预期，预见",
+      "promptMeaning": "v. 预期，预见",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "预期",
+        "预见"
+      ]
+    },
+    {
+      "id": 11,
+      "word": "accommodate",
+      "phonetic": "/əˈkɒmədeɪt/",
+      "phonetics": [
+        "/əˈkɒmədeɪt/"
+      ],
+      "meaning": "v. 容纳；适应",
+      "promptMeaning": "v. 容纳；适应",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "容纳",
+        "适应"
+      ]
+    },
+    {
+      "id": 12,
+      "word": "authentic",
+      "phonetic": "/ɔːˈθentɪk/",
+      "phonetics": [
+        "/ɔːˈθentɪk/"
+      ],
+      "meaning": "adj. 真实的，可靠的",
+      "promptMeaning": "adj. 真实的，可靠的",
+      "pos": [
+        "adj"
+      ],
+      "aliases": [],
+      "senses": [
+        "真实的",
+        "可靠的"
+      ]
+    },
+    {
+      "id": 13,
+      "word": "accelerate",
+      "phonetic": "/əkˈseləreɪt/",
+      "phonetics": [
+        "/əkˈseləreɪt/"
+      ],
+      "meaning": "v. 加速，促进",
+      "promptMeaning": "v. 加速，促进",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "加速",
+        "促进"
+      ]
+    },
+    {
+      "id": 14,
+      "word": "affiliate",
+      "phonetic": "/əˈfɪlieɪt/",
+      "phonetics": [
+        "/əˈfɪlieɪt/"
+      ],
+      "meaning": "v. 隶属，并入",
+      "promptMeaning": "v. 隶属，并入",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "隶属",
+        "并入"
+      ]
+    },
+    {
+      "id": 15,
+      "word": "adequate",
+      "phonetic": "/ˈædɪkwət/",
+      "phonetics": [
+        "/ˈædɪkwət/"
+      ],
+      "meaning": "adj. 充足的，适当的",
+      "promptMeaning": "adj. 充足的，适当的",
+      "pos": [
+        "adj"
+      ],
+      "aliases": [],
+      "senses": [
+        "充足的",
+        "适当的"
+      ]
+    },
+    {
+      "id": 16,
+      "word": "assemble",
+      "phonetic": "/əˈsembl/",
+      "phonetics": [
+        "/əˈsembl/"
+      ],
+      "meaning": "v. 组装；集合",
+      "promptMeaning": "v. 组装；集合",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "组装",
+        "集合"
+      ]
+    },
+    {
+      "id": 17,
+      "word": "abandon",
+      "phonetic": "/əˈbændən/",
+      "phonetics": [
+        "/əˈbændən/"
+      ],
+      "meaning": "v. 抛弃，放弃",
+      "promptMeaning": "v. 抛弃，放弃",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "抛弃",
+        "放弃"
+      ]
+    },
+    {
+      "id": 18,
+      "word": "ambiguous",
+      "phonetic": "/æmˈbɪɡjuəs/",
+      "phonetics": [
+        "/æmˈbɪɡjuəs/"
+      ],
+      "meaning": "adj. 模棱两可的",
+      "promptMeaning": "adj. 模棱两可的",
+      "pos": [
+        "adj"
+      ],
+      "aliases": [],
+      "senses": [
+        "模棱两可的"
+      ]
+    },
+    {
+      "id": 19,
+      "word": "allocate",
+      "phonetic": "/ˈæləkeɪt/",
+      "phonetics": [
+        "/ˈæləkeɪt/"
+      ],
+      "meaning": "v. 分配，划拨",
+      "promptMeaning": "v. 分配，划拨",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "分配",
+        "划拨"
+      ]
+    },
+    {
+      "id": 20,
+      "word": "apparent",
+      "phonetic": "/əˈpærənt/",
+      "phonetics": [
+        "/əˈpærənt/"
+      ],
+      "meaning": "adj. 明显的，表面的",
+      "promptMeaning": "adj. 明显的，表面的",
+      "pos": [
+        "adj"
+      ],
+      "aliases": [],
+      "senses": [
+        "明显的",
+        "表面的"
+      ]
+    },
+    {
+      "id": 21,
+      "word": "access",
+      "phonetic": "/ˈækses/",
+      "phonetics": [
+        "/ˈækses/"
+      ],
+      "meaning": "n. 通道；使用权 v. 获取",
+      "promptMeaning": "n. 通道；使用权 v. 获取",
+      "pos": [
+        "n",
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "通道",
+        "使用权 获取",
+        "使用权获取"
+      ]
+    },
+    {
+      "id": 22,
+      "word": "adverse",
+      "phonetic": "/ˈædvɜːs/",
+      "phonetics": [
+        "/ˈædvɜːs/"
+      ],
+      "meaning": "adj. 不利的，有害的",
+      "promptMeaning": "adj. 不利的，有害的",
+      "pos": [
+        "adj"
+      ],
+      "aliases": [],
+      "senses": [
+        "不利的",
+        "有害的"
+      ]
+    },
+    {
+      "id": 23,
+      "word": "analyse",
+      "phonetic": "/ˈænəlaɪz/",
+      "phonetics": [
+        "/ˈænəlaɪz/"
+      ],
+      "meaning": "v. 分析",
+      "promptMeaning": "v. 分析",
+      "pos": [
+        "v"
+      ],
+      "aliases": [
+        "analyze"
+      ],
+      "senses": [
+        "分析"
+      ]
+    },
+    {
+      "id": 24,
+      "word": "attain",
+      "phonetic": "/əˈteɪn/",
+      "phonetics": [
+        "/əˈteɪn/"
+      ],
+      "meaning": "v. 获得，达到",
+      "promptMeaning": "v. 获得，达到",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "获得",
+        "达到"
+      ]
+    },
+    {
+      "id": 25,
+      "word": "accompany",
+      "phonetic": "/əˈkʌmpəni/",
+      "phonetics": [
+        "/əˈkʌmpəni/"
+      ],
+      "meaning": "v. 陪伴；伴随",
+      "promptMeaning": "v. 陪伴；伴随",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "陪伴",
+        "伴随"
+      ]
+    },
+    {
+      "id": 26,
+      "word": "appliance",
+      "phonetic": "/əˈplaɪəns/",
+      "phonetics": [
+        "/əˈplaɪəns/"
+      ],
+      "meaning": "n. 器具，设备",
+      "promptMeaning": "n. 器具，设备",
+      "pos": [
+        "n"
+      ],
+      "aliases": [],
+      "senses": [
+        "器具",
+        "设备"
+      ]
+    },
+    {
+      "id": 27,
+      "word": "alter",
+      "phonetic": "/ˈɔːltə(r)/",
+      "phonetics": [
+        "/ˈɔːltə(r)/"
+      ],
+      "meaning": "v. 改变，更改",
+      "promptMeaning": "v. 改变，更改",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "改变",
+        "更改"
+      ]
+    },
+    {
+      "id": 28,
+      "word": "avert",
+      "phonetic": "/əˈvɜːt/",
+      "phonetics": [
+        "/əˈvɜːt/"
+      ],
+      "meaning": "v. 避免，转移",
+      "promptMeaning": "v. 避免，转移",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "避免",
+        "转移"
+      ]
+    },
+    {
+      "id": 29,
+      "word": "accomplish",
+      "phonetic": "/əˈkʌmplɪʃ/",
+      "phonetics": [
+        "/əˈkʌmplɪʃ/"
+      ],
+      "meaning": "v. 完成，实现",
+      "promptMeaning": "v. 完成，实现",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "完成",
+        "实现"
+      ]
+    },
+    {
+      "id": 30,
+      "word": "amateur",
+      "phonetic": "/ˈæmətə(r)/",
+      "phonetics": [
+        "/ˈæmətə(r)/"
+      ],
+      "meaning": "n. 业余爱好者",
+      "promptMeaning": "n. 业余爱好者",
+      "pos": [
+        "n"
+      ],
+      "aliases": [],
+      "senses": [
+        "业余爱好者"
+      ]
+    },
+    {
+      "id": 31,
+      "word": "amend",
+      "phonetic": "/əˈmend/",
+      "phonetics": [
+        "/əˈmend/"
+      ],
+      "meaning": "v. 修改，修订",
+      "promptMeaning": "v. 修改，修订",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "修改",
+        "修订"
+      ]
+    },
+    {
+      "id": 32,
+      "word": "appetite",
+      "phonetic": "/ˈæpətaɪt/",
+      "phonetics": [
+        "/ˈæpətaɪt/"
+      ],
+      "meaning": "n. 食欲；欲望",
+      "promptMeaning": "n. 食欲；欲望",
+      "pos": [
+        "n"
+      ],
+      "aliases": [],
+      "senses": [
+        "食欲",
+        "欲望"
+      ]
+    },
+    {
+      "id": 33,
+      "word": "accumulate",
+      "phonetic": "/əˈkjuːmjəleɪt/",
+      "phonetics": [
+        "/əˈkjuːmjəleɪt/"
+      ],
+      "meaning": "v. 积累，积聚",
+      "promptMeaning": "v. 积累，积聚",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "积累",
+        "积聚"
+      ]
+    },
+    {
+      "id": 34,
+      "word": "ancestor",
+      "phonetic": "/ˈænsestə(r)/",
+      "phonetics": [
+        "/ˈænsestə(r)/"
+      ],
+      "meaning": "n. 祖先，前辈",
+      "promptMeaning": "n. 祖先，前辈",
+      "pos": [
+        "n"
+      ],
+      "aliases": [],
+      "senses": [
+        "祖先",
+        "前辈"
+      ]
+    },
+    {
+      "id": 35,
+      "word": "applicable",
+      "phonetic": "/əˈplɪkəbl/",
+      "phonetics": [
+        "/əˈplɪkəbl/"
+      ],
+      "meaning": "adj. 适用的",
+      "promptMeaning": "adj. 适用的",
+      "pos": [
+        "adj"
+      ],
+      "aliases": [],
+      "senses": [
+        "适用的"
+      ]
+    },
+    {
+      "id": 36,
+      "word": "approach",
+      "phonetic": "/əˈprəʊtʃ/",
+      "phonetics": [
+        "/əˈprəʊtʃ/"
+      ],
+      "meaning": "v. 接近 n. 方法，途径",
+      "promptMeaning": "v. 接近 n. 方法，途径",
+      "pos": [
+        "v",
+        "n"
+      ],
+      "aliases": [],
+      "senses": [
+        "接近 方法",
+        "接近方法",
+        "途径"
+      ]
+    },
+    {
+      "id": 37,
+      "word": "accurate",
+      "phonetic": "/ˈækjərət/",
+      "phonetics": [
+        "/ˈækjərət/"
+      ],
+      "meaning": "adj. 准确的，精确的",
+      "promptMeaning": "adj. 准确的，精确的",
+      "pos": [
+        "adj"
+      ],
+      "aliases": [],
+      "senses": [
+        "准确的",
+        "精确的"
+      ]
+    },
+    {
+      "id": 38,
+      "word": "anecdote",
+      "phonetic": "/ˈænɪkdəʊt/",
+      "phonetics": [
+        "/ˈænɪkdəʊt/"
+      ],
+      "meaning": "n. 轶事，趣闻",
+      "promptMeaning": "n. 轶事，趣闻",
+      "pos": [
+        "n"
+      ],
+      "aliases": [],
+      "senses": [
+        "轶事",
+        "趣闻"
+      ]
+    },
+    {
+      "id": 39,
+      "word": "appoint",
+      "phonetic": "/əˈpɔɪnt/",
+      "phonetics": [
+        "/əˈpɔɪnt/"
+      ],
+      "meaning": "v. 任命；约定",
+      "promptMeaning": "v. 任命；约定",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "任命",
+        "约定"
+      ]
+    },
+    {
+      "id": 40,
+      "word": "approximate",
+      "phonetic": "/əˈprɒksɪmət/",
+      "phonetics": [
+        "/əˈprɒksɪmət/"
+      ],
+      "meaning": "adj. 大约的",
+      "promptMeaning": "adj. 大约的",
+      "pos": [
+        "adj"
+      ],
+      "aliases": [],
+      "senses": [
+        "大约的"
+      ]
+    },
+    {
+      "id": 41,
+      "word": "achieve",
+      "phonetic": "/əˈtʃiːv/",
+      "phonetics": [
+        "/əˈtʃiːv/"
+      ],
+      "meaning": "v. 达成，实现",
+      "promptMeaning": "v. 达成，实现",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "达成",
+        "实现"
+      ]
+    },
+    {
+      "id": 42,
+      "word": "annotate",
+      "phonetic": "/ˈænəteɪt/",
+      "phonetics": [
+        "/ˈænəteɪt/"
+      ],
+      "meaning": "v. 注释，注解",
+      "promptMeaning": "v. 注释，注解",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "注释",
+        "注解"
+      ]
+    },
+    {
+      "id": 43,
+      "word": "appreciate",
+      "phonetic": "/əˈpriːʃieɪt/",
+      "phonetics": [
+        "/əˈpriːʃieɪt/"
+      ],
+      "meaning": "v. 欣赏；重视；增值",
+      "promptMeaning": "v. 欣赏；重视；增值",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "欣赏",
+        "重视",
+        "增值"
+      ]
+    },
+    {
+      "id": 44,
+      "word": "arrange",
+      "phonetic": "/əˈreɪndʒ/",
+      "phonetics": [
+        "/əˈreɪndʒ/"
+      ],
+      "meaning": "v. 安排，整理",
+      "promptMeaning": "v. 安排，整理",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "安排",
+        "整理"
+      ]
+    },
+    {
+      "id": 45,
+      "word": "acquire",
+      "phonetic": "/əˈkwaɪə(r)/",
+      "phonetics": [
+        "/əˈkwaɪə(r)/"
+      ],
+      "meaning": "v. 获得；习得",
+      "promptMeaning": "v. 获得；习得",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "获得",
+        "习得"
+      ]
+    },
+    {
+      "id": 46,
+      "word": "appeal",
+      "phonetic": "/əˈpiːl/",
+      "phonetics": [
+        "/əˈpiːl/"
+      ],
+      "meaning": "v./n. 吸引；呼吁；上诉",
+      "promptMeaning": "v./n. 吸引；呼吁；上诉",
+      "pos": [
+        "v",
+        "n"
+      ],
+      "aliases": [],
+      "senses": [
+        "吸引",
+        "呼吁",
+        "上诉"
+      ]
+    },
+    {
+      "id": 47,
+      "word": "appropriate",
+      "phonetic": "/əˈprəʊpriət/",
+      "phonetics": [
+        "/əˈprəʊpriət/"
+      ],
+      "meaning": "adj. 合适的",
+      "promptMeaning": "adj. 合适的",
+      "pos": [
+        "adj"
+      ],
+      "aliases": [],
+      "senses": [
+        "合适的"
+      ]
+    },
+    {
+      "id": 48,
+      "word": "arise",
+      "phonetic": "/əˈraɪz/",
+      "phonetics": [
+        "/əˈraɪz/"
+      ],
+      "meaning": "v. 出现，产生",
+      "promptMeaning": "v. 出现，产生",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "出现",
+        "产生"
+      ]
+    },
+    {
+      "id": 49,
+      "word": "adjust",
+      "phonetic": "/əˈdʒʌst/",
+      "phonetics": [
+        "/əˈdʒʌst/"
+      ],
+      "meaning": "v. 调整，校正",
+      "promptMeaning": "v. 调整，校正",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "调整",
+        "校正"
+      ]
+    },
+    {
+      "id": 50,
+      "word": "appetite",
+      "phonetic": "/ˈæpətaɪt/",
+      "phonetics": [
+        "/ˈæpətaɪt/"
+      ],
+      "meaning": "n. 食欲；欲望",
+      "promptMeaning": "n. 食欲；欲望",
+      "pos": [
+        "n"
+      ],
+      "aliases": [],
+      "senses": [
+        "食欲",
+        "欲望"
+      ]
+    },
+    {
+      "id": 51,
+      "word": "administer",
+      "phonetic": "/ədˈmɪnɪstə(r)/",
+      "phonetics": [
+        "/ədˈmɪnɪstə(r)/"
+      ],
+      "meaning": "v. 管理，执行",
+      "promptMeaning": "v. 管理，执行",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "管理",
+        "执行"
+      ]
+    },
+    {
+      "id": 52,
+      "word": "assess",
+      "phonetic": "/əˈses/",
+      "phonetics": [
+        "/əˈses/"
+      ],
+      "meaning": "v. 评估，评价",
+      "promptMeaning": "v. 评估，评价",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "评估",
+        "评价"
+      ]
+    },
+    {
+      "id": 53,
+      "word": "affluent",
+      "phonetic": "/ˈæfluənt/",
+      "phonetics": [
+        "/ˈæfluənt/"
+      ],
+      "meaning": "adj. 富裕的",
+      "promptMeaning": "adj. 富裕的",
+      "pos": [
+        "adj"
+      ],
+      "aliases": [],
+      "senses": [
+        "富裕的"
+      ]
+    },
+    {
+      "id": 54,
+      "word": "assign",
+      "phonetic": "/əˈsaɪn/",
+      "phonetics": [
+        "/əˈsaɪn/"
+      ],
+      "meaning": "v. 分配，指派",
+      "promptMeaning": "v. 分配，指派",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "分配",
+        "指派"
+      ]
+    },
+    {
+      "id": 55,
+      "word": "adopt",
+      "phonetic": "/əˈdɒpt/",
+      "phonetics": [
+        "/əˈdɒpt/"
+      ],
+      "meaning": "v. 采纳；收养",
+      "promptMeaning": "v. 采纳；收养",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "采纳",
+        "收养"
+      ]
+    },
+    {
+      "id": 56,
+      "word": "assist",
+      "phonetic": "/əˈsɪst/",
+      "phonetics": [
+        "/əˈsɪst/"
+      ],
+      "meaning": "v. 协助，帮助",
+      "promptMeaning": "v. 协助，帮助",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "协助",
+        "帮助"
+      ]
+    },
+    {
+      "id": 57,
+      "word": "advance",
+      "phonetic": "/ədˈvɑːns/",
+      "phonetics": [
+        "/ədˈvɑːns/"
+      ],
+      "meaning": "v. 前进；推进 n. 进步",
+      "promptMeaning": "v. 前进；推进 n. 进步",
+      "pos": [
+        "v",
+        "n"
+      ],
+      "aliases": [],
+      "senses": [
+        "前进",
+        "推进 进步",
+        "推进进步"
+      ]
+    },
+    {
+      "id": 58,
+      "word": "associate",
+      "phonetic": "/əˈsəʊsieɪt/",
+      "phonetics": [
+        "/əˈsəʊsieɪt/"
+      ],
+      "meaning": "v. 联系，关联",
+      "promptMeaning": "v. 联系，关联",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "联系",
+        "关联"
+      ]
+    },
+    {
+      "id": 59,
+      "word": "affect",
+      "phonetic": "/əˈfekt/",
+      "phonetics": [
+        "/əˈfekt/"
+      ],
+      "meaning": "v. 影响；使感动",
+      "promptMeaning": "v. 影响；使感动",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "影响",
+        "使感动"
+      ]
+    },
+    {
+      "id": 60,
+      "word": "assume",
+      "phonetic": "/əˈsjuːm/",
+      "phonetics": [
+        "/əˈsjuːm/"
+      ],
+      "meaning": "v. 假定；承担",
+      "promptMeaning": "v. 假定；承担",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "假定",
+        "承担"
+      ]
+    },
+    {
+      "id": 61,
+      "word": "aggregate",
+      "phonetic": "/ˈæɡrɪɡət/",
+      "phonetics": [
+        "/ˈæɡrɪɡət/"
+      ],
+      "meaning": "adj. 合计的 n. 总和",
+      "promptMeaning": "adj. 合计的 n. 总和",
+      "pos": [
+        "adj",
+        "n"
+      ],
+      "aliases": [],
+      "senses": [
+        "合计的 总和",
+        "合计的总和"
+      ]
+    },
+    {
+      "id": 62,
+      "word": "assure",
+      "phonetic": "/əˈʃʊə(r)/",
+      "phonetics": [
+        "/əˈʃʊə(r)/"
+      ],
+      "meaning": "v. 确保，使确信",
+      "promptMeaning": "v. 确保，使确信",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "确保",
+        "使确信"
+      ]
+    },
+    {
+      "id": 63,
+      "word": "alleviate",
+      "phonetic": "/əˈliːvieɪt/",
+      "phonetics": [
+        "/əˈliːvieɪt/"
+      ],
+      "meaning": "v. 减轻，缓和",
+      "promptMeaning": "v. 减轻，缓和",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "减轻",
+        "缓和"
+      ]
+    },
+    {
+      "id": 64,
+      "word": "authority",
+      "phonetic": "/ɔːˈθɒrəti/",
+      "phonetics": [
+        "/ɔːˈθɒrəti/"
+      ],
+      "meaning": "n. 权威；当局",
+      "promptMeaning": "n. 权威；当局",
+      "pos": [
+        "n"
+      ],
+      "aliases": [],
+      "senses": [
+        "权威",
+        "当局"
+      ]
+    },
+    {
+      "id": 65,
+      "word": "ample",
+      "phonetic": "/ˈæmpl/",
+      "phonetics": [
+        "/ˈæmpl/"
+      ],
+      "meaning": "adj. 充足的，充裕的",
+      "promptMeaning": "adj. 充足的，充裕的",
+      "pos": [
+        "adj"
+      ],
+      "aliases": [],
+      "senses": [
+        "充足的",
+        "充裕的"
+      ]
+    },
+    {
+      "id": 66,
+      "word": "automatic",
+      "phonetic": "/ˌɔːtəˈmætɪk/",
+      "phonetics": [
+        "/ˌɔːtəˈmætɪk/"
+      ],
+      "meaning": "adj. 自动的",
+      "promptMeaning": "adj. 自动的",
+      "pos": [
+        "adj"
+      ],
+      "aliases": [],
+      "senses": [
+        "自动的"
+      ]
+    },
+    {
+      "id": 67,
+      "word": "alternative",
+      "phonetic": "/ɔːlˈtɜːnətɪv/",
+      "phonetics": [
+        "/ɔːlˈtɜːnətɪv/"
+      ],
+      "meaning": "adj. 可供选择的 n. 备选方案",
+      "promptMeaning": "adj. 可供选择的 n. 备选方案",
+      "pos": [
+        "adj",
+        "n"
+      ],
+      "aliases": [],
+      "senses": [
+        "可供选择的 备选方案",
+        "可供选择的备选方案"
+      ]
+    },
+    {
+      "id": 68,
+      "word": "available",
+      "phonetic": "/əˈveɪləbl/",
+      "phonetics": [
+        "/əˈveɪləbl/"
+      ],
+      "meaning": "adj. 可获得的，可用的",
+      "promptMeaning": "adj. 可获得的，可用的",
+      "pos": [
+        "adj"
+      ],
+      "aliases": [],
+      "senses": [
+        "可获得的",
+        "可用的"
+      ]
+    },
+    {
+      "id": 69,
+      "word": "account",
+      "phonetic": "/əˈkaʊnt/",
+      "phonetics": [
+        "/əˈkaʊnt/"
+      ],
+      "meaning": "n. 账户；解释 v. 占比",
+      "promptMeaning": "n. 账户；解释 v. 占比",
+      "pos": [
+        "n",
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "账户",
+        "解释 占比",
+        "解释占比"
+      ]
+    },
+    {
+      "id": 70,
+      "word": "bargain",
+      "phonetic": "/ˈbɑːɡən/",
+      "phonetics": [
+        "/ˈbɑːɡən/"
+      ],
+      "meaning": "n. 廉价货 v. 讨价还价",
+      "promptMeaning": "n. 廉价货 v. 讨价还价",
+      "pos": [
+        "n",
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "廉价货 讨价还价",
+        "廉价货讨价还价"
+      ]
+    },
+    {
+      "id": 71,
+      "word": "barrier",
+      "phonetic": "/ˈbæriə(r)/",
+      "phonetics": [
+        "/ˈbæriə(r)/"
+      ],
+      "meaning": "n. 障碍，屏障",
+      "promptMeaning": "n. 障碍，屏障",
+      "pos": [
+        "n"
+      ],
+      "aliases": [],
+      "senses": [
+        "障碍",
+        "屏障"
+      ]
+    },
+    {
+      "id": 72,
+      "word": "bias",
+      "phonetic": "/ˈbaɪəs/",
+      "phonetics": [
+        "/ˈbaɪəs/"
+      ],
+      "meaning": "n. 偏见，偏爱",
+      "promptMeaning": "n. 偏见，偏爱",
+      "pos": [
+        "n"
+      ],
+      "aliases": [],
+      "senses": [
+        "偏见",
+        "偏爱"
+      ]
+    },
+    {
+      "id": 73,
+      "word": "boom",
+      "phonetic": "/buːm/",
+      "phonetics": [
+        "/buːm/"
+      ],
+      "meaning": "v./n. 激增，繁荣",
+      "promptMeaning": "v./n. 激增，繁荣",
+      "pos": [
+        "v",
+        "n"
+      ],
+      "aliases": [],
+      "senses": [
+        "激增",
+        "繁荣"
+      ]
+    },
+    {
+      "id": 74,
+      "word": "boost",
+      "phonetic": "/buːst/",
+      "phonetics": [
+        "/buːst/"
+      ],
+      "meaning": "v. 促进，推动",
+      "promptMeaning": "v. 促进，推动",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "促进",
+        "推动"
+      ]
+    },
+    {
+      "id": 75,
+      "word": "boundary",
+      "phonetic": "/ˈbaʊndəri/",
+      "phonetics": [
+        "/ˈbaʊndəri/"
+      ],
+      "meaning": "n. 边界，界限",
+      "promptMeaning": "n. 边界，界限",
+      "pos": [
+        "n"
+      ],
+      "aliases": [],
+      "senses": [
+        "边界",
+        "界限"
+      ]
+    },
+    {
+      "id": 76,
+      "word": "brief",
+      "phonetic": "/briːf/",
+      "phonetics": [
+        "/briːf/"
+      ],
+      "meaning": "adj. 简短的 v. 简要说明",
+      "promptMeaning": "adj. 简短的 v. 简要说明",
+      "pos": [
+        "adj",
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "简短的 简要说明",
+        "简短的简要说明"
+      ]
+    },
+    {
+      "id": 77,
+      "word": "brilliant",
+      "phonetic": "/ˈbrɪliənt/",
+      "phonetics": [
+        "/ˈbrɪliənt/"
+      ],
+      "meaning": "adj. 杰出的；灿烂的",
+      "promptMeaning": "adj. 杰出的；灿烂的",
+      "pos": [
+        "adj"
+      ],
+      "aliases": [],
+      "senses": [
+        "杰出的",
+        "灿烂的"
+      ]
+    },
+    {
+      "id": 78,
+      "word": "bulk",
+      "phonetic": "/bʌlk/",
+      "phonetics": [
+        "/bʌlk/"
+      ],
+      "meaning": "n. 大部分；体积",
+      "promptMeaning": "n. 大部分；体积",
+      "pos": [
+        "n"
+      ],
+      "aliases": [],
+      "senses": [
+        "大部分",
+        "体积"
+      ]
+    },
+    {
+      "id": 79,
+      "word": "burden",
+      "phonetic": "/ˈbɜːdn/",
+      "phonetics": [
+        "/ˈbɜːdn/"
+      ],
+      "meaning": "n. 负担 v. 加重压于",
+      "promptMeaning": "n. 负担 v. 加重压于",
+      "pos": [
+        "n",
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "负担 加重压于",
+        "负担加重压于"
+      ]
+    },
+    {
+      "id": 80,
+      "word": "bypass",
+      "phonetic": "/ˈbaɪpɑːs/",
+      "phonetics": [
+        "/ˈbaɪpɑːs/"
+      ],
+      "meaning": "v. 绕过，避开",
+      "promptMeaning": "v. 绕过，避开",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "绕过",
+        "避开"
+      ]
+    },
+    {
+      "id": 81,
+      "word": "calculate",
+      "phonetic": "/ˈkælkjuleɪt/",
+      "phonetics": [
+        "/ˈkælkjuleɪt/"
+      ],
+      "meaning": "v. 计算，估算",
+      "promptMeaning": "v. 计算，估算",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "计算",
+        "估算"
+      ]
+    },
+    {
+      "id": 82,
+      "word": "capacity",
+      "phonetic": "/kəˈpæsəti/",
+      "phonetics": [
+        "/kəˈpæsəti/"
+      ],
+      "meaning": "n. 容量；能力",
+      "promptMeaning": "n. 容量；能力",
+      "pos": [
+        "n"
+      ],
+      "aliases": [],
+      "senses": [
+        "容量",
+        "能力"
+      ]
+    },
+    {
+      "id": 83,
+      "word": "capture",
+      "phonetic": "/ˈkæptʃə(r)/",
+      "phonetics": [
+        "/ˈkæptʃə(r)/"
+      ],
+      "meaning": "v. 捕获；捕捉",
+      "promptMeaning": "v. 捕获；捕捉",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "捕获",
+        "捕捉"
+      ]
+    },
+    {
+      "id": 84,
+      "word": "cautious",
+      "phonetic": "/ˈkɔːʃəs/",
+      "phonetics": [
+        "/ˈkɔːʃəs/"
+      ],
+      "meaning": "adj. 谨慎的",
+      "promptMeaning": "adj. 谨慎的",
+      "pos": [
+        "adj"
+      ],
+      "aliases": [],
+      "senses": [
+        "谨慎的"
+      ]
+    },
+    {
+      "id": 85,
+      "word": "cease",
+      "phonetic": "/siːs/",
+      "phonetics": [
+        "/siːs/"
+      ],
+      "meaning": "v. 停止，终止",
+      "promptMeaning": "v. 停止，终止",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "停止",
+        "终止"
+      ]
+    },
+    {
+      "id": 86,
+      "word": "certify",
+      "phonetic": "/ˈsɜːtɪfaɪ/",
+      "phonetics": [
+        "/ˈsɜːtɪfaɪ/"
+      ],
+      "meaning": "v. 证明，证实",
+      "promptMeaning": "v. 证明，证实",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "证明",
+        "证实"
+      ]
+    },
+    {
+      "id": 87,
+      "word": "chaos",
+      "phonetic": "/ˈkeɪɒs/",
+      "phonetics": [
+        "/ˈkeɪɒs/"
+      ],
+      "meaning": "n. 混乱，无序",
+      "promptMeaning": "n. 混乱，无序",
+      "pos": [
+        "n"
+      ],
+      "aliases": [],
+      "senses": [
+        "混乱",
+        "无序"
+      ]
+    },
+    {
+      "id": 88,
+      "word": "characteristic",
+      "phonetic": "/ˌkærəktəˈrɪstɪk/",
+      "phonetics": [
+        "/ˌkærəktəˈrɪstɪk/"
+      ],
+      "meaning": "adj. 典型的 n. 特征",
+      "promptMeaning": "adj. 典型的 n. 特征",
+      "pos": [
+        "adj",
+        "n"
+      ],
+      "aliases": [],
+      "senses": [
+        "典型的 特征",
+        "典型的特征"
+      ]
+    },
+    {
+      "id": 89,
+      "word": "circulate",
+      "phonetic": "/ˈsɜːkjəleɪt/",
+      "phonetics": [
+        "/ˈsɜːkjəleɪt/"
+      ],
+      "meaning": "v. 循环，流通",
+      "promptMeaning": "v. 循环，流通",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "循环",
+        "流通"
+      ]
+    },
+    {
+      "id": 90,
+      "word": "cite",
+      "phonetic": "/saɪt/",
+      "phonetics": [
+        "/saɪt/"
+      ],
+      "meaning": "v. 引用，引证",
+      "promptMeaning": "v. 引用，引证",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "引用",
+        "引证"
+      ]
+    },
+    {
+      "id": 91,
+      "word": "clarify",
+      "phonetic": "/ˈklærɪfaɪ/",
+      "phonetics": [
+        "/ˈklærɪfaɪ/"
+      ],
+      "meaning": "v. 澄清，阐明",
+      "promptMeaning": "v. 澄清，阐明",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "澄清",
+        "阐明"
+      ]
+    },
+    {
+      "id": 92,
+      "word": "clash",
+      "phonetic": "/klæʃ/",
+      "phonetics": [
+        "/klæʃ/"
+      ],
+      "meaning": "v./n. 冲突，碰撞",
+      "promptMeaning": "v./n. 冲突，碰撞",
+      "pos": [
+        "v",
+        "n"
+      ],
+      "aliases": [],
+      "senses": [
+        "冲突",
+        "碰撞"
+      ]
+    },
+    {
+      "id": 93,
+      "word": "colleague",
+      "phonetic": "/ˈkɒliːɡ/",
+      "phonetics": [
+        "/ˈkɒliːɡ/"
+      ],
+      "meaning": "n. 同事",
+      "promptMeaning": "n. 同事",
+      "pos": [
+        "n"
+      ],
+      "aliases": [],
+      "senses": [
+        "同事"
+      ]
+    },
+    {
+      "id": 94,
+      "word": "collapse",
+      "phonetic": "/kəˈlæps/",
+      "phonetics": [
+        "/kəˈlæps/"
+      ],
+      "meaning": "v./n. 倒塌；崩溃",
+      "promptMeaning": "v./n. 倒塌；崩溃",
+      "pos": [
+        "v",
+        "n"
+      ],
+      "aliases": [],
+      "senses": [
+        "倒塌",
+        "崩溃"
+      ]
+    },
+    {
+      "id": 95,
+      "word": "colleague",
+      "phonetic": "/ˈkɒliːɡ/",
+      "phonetics": [
+        "/ˈkɒliːɡ/"
+      ],
+      "meaning": "n. 同事",
+      "promptMeaning": "n. 同事",
+      "pos": [
+        "n"
+      ],
+      "aliases": [],
+      "senses": [
+        "同事"
+      ]
+    },
+    {
+      "id": 96,
+      "word": "combine",
+      "phonetic": "/kəmˈbaɪn/",
+      "phonetics": [
+        "/kəmˈbaɪn/"
+      ],
+      "meaning": "v. 联合，结合",
+      "promptMeaning": "v. 联合，结合",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "联合",
+        "结合"
+      ]
+    },
+    {
+      "id": 97,
+      "word": "commence",
+      "phonetic": "/kəˈmens/",
+      "phonetics": [
+        "/kəˈmens/"
+      ],
+      "meaning": "v. 开始，着手",
+      "promptMeaning": "v. 开始，着手",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "开始",
+        "着手"
+      ]
+    },
+    {
+      "id": 98,
+      "word": "comment",
+      "phonetic": "/ˈkɒment/",
+      "phonetics": [
+        "/ˈkɒment/"
+      ],
+      "meaning": "n./v. 评论",
+      "promptMeaning": "n./v. 评论",
+      "pos": [
+        "n",
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "评论"
+      ]
+    },
+    {
+      "id": 99,
+      "word": "commerce",
+      "phonetic": "/ˈkɒmɜːs/",
+      "phonetics": [
+        "/ˈkɒmɜːs/"
+      ],
+      "meaning": "n. 商业，贸易",
+      "promptMeaning": "n. 商业，贸易",
+      "pos": [
+        "n"
+      ],
+      "aliases": [],
+      "senses": [
+        "商业",
+        "贸易"
+      ]
+    },
+    {
+      "id": 100,
+      "word": "commission",
+      "phonetic": "/kəˈmɪʃn/",
+      "phonetics": [
+        "/kəˈmɪʃn/"
+      ],
+      "meaning": "n. 委员会；佣金",
+      "promptMeaning": "n. 委员会；佣金",
+      "pos": [
+        "n"
+      ],
+      "aliases": [],
+      "senses": [
+        "委员会",
+        "佣金"
+      ]
+    },
+    {
+      "id": 101,
+      "word": "commit",
+      "phonetic": "/kəˈmɪt/",
+      "phonetics": [
+        "/kəˈmɪt/"
+      ],
+      "meaning": "v. 承诺；犯（错）",
+      "promptMeaning": "v. 承诺；犯（错）",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "承诺",
+        "犯",
+        "犯错"
+      ]
+    },
+    {
+      "id": 102,
+      "word": "compatible",
+      "phonetic": "/kəmˈpætəbl/",
+      "phonetics": [
+        "/kəmˈpætəbl/"
+      ],
+      "meaning": "adj. 兼容的；和睦的",
+      "promptMeaning": "adj. 兼容的；和睦的",
+      "pos": [
+        "adj"
+      ],
+      "aliases": [],
+      "senses": [
+        "兼容的",
+        "和睦的"
+      ]
+    },
+    {
+      "id": 103,
+      "word": "compensate",
+      "phonetic": "/ˈkɒmpenseɪt/",
+      "phonetics": [
+        "/ˈkɒmpenseɪt/"
+      ],
+      "meaning": "v. 补偿，赔偿",
+      "promptMeaning": "v. 补偿，赔偿",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "补偿",
+        "赔偿"
+      ]
+    },
+    {
+      "id": 104,
+      "word": "compile",
+      "phonetic": "/kəmˈpaɪl/",
+      "phonetics": [
+        "/kəmˈpaɪl/"
+      ],
+      "meaning": "v. 汇编，编纂",
+      "promptMeaning": "v. 汇编，编纂",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "汇编",
+        "编纂"
+      ]
+    },
+    {
+      "id": 105,
+      "word": "complement",
+      "phonetic": "/ˈkɒmplɪmənt/",
+      "phonetics": [
+        "/ˈkɒmplɪmənt/"
+      ],
+      "meaning": "n./v. 补充，补足",
+      "promptMeaning": "n./v. 补充，补足",
+      "pos": [
+        "n",
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "补充",
+        "补足"
+      ]
+    },
+    {
+      "id": 106,
+      "word": "complicate",
+      "phonetic": "/ˈkɒmplɪkeɪt/",
+      "phonetics": [
+        "/ˈkɒmplɪkeɪt/"
+      ],
+      "meaning": "v. 使复杂化",
+      "promptMeaning": "v. 使复杂化",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "使复杂化"
+      ]
+    },
+    {
+      "id": 107,
+      "word": "component",
+      "phonetic": "/kəmˈpəʊnənt/",
+      "phonetics": [
+        "/kəmˈpəʊnənt/"
+      ],
+      "meaning": "n. 组件，成分",
+      "promptMeaning": "n. 组件，成分",
+      "pos": [
+        "n"
+      ],
+      "aliases": [],
+      "senses": [
+        "组件",
+        "成分"
+      ]
+    },
+    {
+      "id": 108,
+      "word": "comprehend",
+      "phonetic": "/ˌkɒmprɪˈhend/",
+      "phonetics": [
+        "/ˌkɒmprɪˈhend/"
+      ],
+      "meaning": "v. 理解，领会",
+      "promptMeaning": "v. 理解，领会",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "理解",
+        "领会"
+      ]
+    },
+    {
+      "id": 109,
+      "word": "compress",
+      "phonetic": "/kəmˈpres/",
+      "phonetics": [
+        "/kəmˈpres/"
+      ],
+      "meaning": "v. 压缩，压紧",
+      "promptMeaning": "v. 压缩，压紧",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "压缩",
+        "压紧"
+      ]
+    },
+    {
+      "id": 110,
+      "word": "compromise",
+      "phonetic": "/ˈkɒmprəmaɪz/",
+      "phonetics": [
+        "/ˈkɒmprəmaɪz/"
+      ],
+      "meaning": "n./v. 妥协，折中",
+      "promptMeaning": "n./v. 妥协，折中",
+      "pos": [
+        "n",
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "妥协",
+        "折中"
+      ]
+    },
+    {
+      "id": 111,
+      "word": "conceive",
+      "phonetic": "/kənˈsiːv/",
+      "phonetics": [
+        "/kənˈsiːv/"
+      ],
+      "meaning": "v. 构想；怀孕",
+      "promptMeaning": "v. 构想；怀孕",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "构想",
+        "怀孕"
+      ]
+    },
+    {
+      "id": 112,
+      "word": "concentrate",
+      "phonetic": "/ˈkɒnsntreɪt/",
+      "phonetics": [
+        "/ˈkɒnsntreɪt/"
+      ],
+      "meaning": "v. 集中，专心",
+      "promptMeaning": "v. 集中，专心",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "集中",
+        "专心"
+      ]
+    },
+    {
+      "id": 113,
+      "word": "concept",
+      "phonetic": "/ˈkɒnsept/",
+      "phonetics": [
+        "/ˈkɒnsept/"
+      ],
+      "meaning": "n. 概念，观念",
+      "promptMeaning": "n. 概念，观念",
+      "pos": [
+        "n"
+      ],
+      "aliases": [],
+      "senses": [
+        "概念",
+        "观念"
+      ]
+    },
+    {
+      "id": 114,
+      "word": "concern",
+      "phonetic": "/kənˈsɜːn/",
+      "phonetics": [
+        "/kənˈsɜːn/"
+      ],
+      "meaning": "n./v. 担心；涉及",
+      "promptMeaning": "n./v. 担心；涉及",
+      "pos": [
+        "n",
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "担心",
+        "涉及"
+      ]
+    },
+    {
+      "id": 115,
+      "word": "confirm",
+      "phonetic": "/kənˈfɜːm/",
+      "phonetics": [
+        "/kənˈfɜːm/"
+      ],
+      "meaning": "v. 确认，证实",
+      "promptMeaning": "v. 确认，证实",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "确认",
+        "证实"
+      ]
+    },
+    {
+      "id": 116,
+      "word": "conserve",
+      "phonetic": "/kənˈsɜːv/",
+      "phonetics": [
+        "/kənˈsɜːv/"
+      ],
+      "meaning": "v. 保护，保存",
+      "promptMeaning": "v. 保护，保存",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "保护",
+        "保存"
+      ]
+    },
+    {
+      "id": 117,
+      "word": "considerable",
+      "phonetic": "/kənˈsɪdərəbl/",
+      "phonetics": [
+        "/kənˈsɪdərəbl/"
+      ],
+      "meaning": "adj. 相当多的",
+      "promptMeaning": "adj. 相当多的",
+      "pos": [
+        "adj"
+      ],
+      "aliases": [],
+      "senses": [
+        "相当多的"
+      ]
+    },
+    {
+      "id": 118,
+      "word": "consistent",
+      "phonetic": "/kənˈsɪstənt/",
+      "phonetics": [
+        "/kənˈsɪstənt/"
+      ],
+      "meaning": "adj. 一致的，连贯的",
+      "promptMeaning": "adj. 一致的，连贯的",
+      "pos": [
+        "adj"
+      ],
+      "aliases": [],
+      "senses": [
+        "一致的",
+        "连贯的"
+      ]
+    },
+    {
+      "id": 119,
+      "word": "constant",
+      "phonetic": "/ˈkɒnstənt/",
+      "phonetics": [
+        "/ˈkɒnstənt/"
+      ],
+      "meaning": "adj. 持续的，恒定的",
+      "promptMeaning": "adj. 持续的，恒定的",
+      "pos": [
+        "adj"
+      ],
+      "aliases": [],
+      "senses": [
+        "持续的",
+        "恒定的"
+      ]
+    },
+    {
+      "id": 120,
+      "word": "construct",
+      "phonetic": "/kənˈstrʌkt/",
+      "phonetics": [
+        "/kənˈstrʌkt/"
+      ],
+      "meaning": "v. 建造，构建",
+      "promptMeaning": "v. 建造，构建",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "建造",
+        "构建"
+      ]
+    },
+    {
+      "id": 121,
+      "word": "consult",
+      "phonetic": "/kənˈsʌlt/",
+      "phonetics": [
+        "/kənˈsʌlt/"
+      ],
+      "meaning": "v. 咨询，查阅",
+      "promptMeaning": "v. 咨询，查阅",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "咨询",
+        "查阅"
+      ]
+    },
+    {
+      "id": 122,
+      "word": "consume",
+      "phonetic": "/kənˈsjuːm/",
+      "phonetics": [
+        "/kənˈsjuːm/"
+      ],
+      "meaning": "v. 消耗；消费",
+      "promptMeaning": "v. 消耗；消费",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "消耗",
+        "消费"
+      ]
+    },
+    {
+      "id": 123,
+      "word": "contemporary",
+      "phonetic": "/kənˈtemprəri/",
+      "phonetics": [
+        "/kənˈtemprəri/"
+      ],
+      "meaning": "adj. 当代的",
+      "promptMeaning": "adj. 当代的",
+      "pos": [
+        "adj"
+      ],
+      "aliases": [],
+      "senses": [
+        "当代的"
+      ]
+    },
+    {
+      "id": 124,
+      "word": "context",
+      "phonetic": "/ˈkɒntekst/",
+      "phonetics": [
+        "/ˈkɒntekst/"
+      ],
+      "meaning": "n. 上下文，背景",
+      "promptMeaning": "n. 上下文，背景",
+      "pos": [
+        "n"
+      ],
+      "aliases": [],
+      "senses": [
+        "上下文",
+        "背景"
+      ]
+    },
+    {
+      "id": 125,
+      "word": "contract",
+      "phonetic": "/ˈkɒntrækt/",
+      "phonetics": [
+        "/ˈkɒntrækt/",
+        "/kənˈtrækt/"
+      ],
+      "meaning": "n. 合同；v. 收缩",
+      "promptMeaning": "n. 合同；v. 收缩",
+      "pos": [
+        "n",
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "合同",
+        "收缩"
+      ]
+    },
+    {
+      "id": 126,
+      "word": "contradict",
+      "phonetic": "/ˌkɒntrəˈdɪkt/",
+      "phonetics": [
+        "/ˌkɒntrəˈdɪkt/"
+      ],
+      "meaning": "v. 反驳，与…矛盾",
+      "promptMeaning": "v. 反驳，与…矛盾",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "反驳",
+        "与…矛盾"
+      ]
+    },
+    {
+      "id": 127,
+      "word": "contribute",
+      "phonetic": "/kənˈtrɪbjuːt/",
+      "phonetics": [
+        "/kənˈtrɪbjuːt/"
+      ],
+      "meaning": "v. 贡献；促成",
+      "promptMeaning": "v. 贡献；促成",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "贡献",
+        "促成"
+      ]
+    },
+    {
+      "id": 128,
+      "word": "convene",
+      "phonetic": "/kənˈviːn/",
+      "phonetics": [
+        "/kənˈviːn/"
+      ],
+      "meaning": "v. 召集，开会",
+      "promptMeaning": "v. 召集，开会",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "召集",
+        "开会"
+      ]
+    },
+    {
+      "id": 129,
+      "word": "conventional",
+      "phonetic": "/kənˈvenʃənl/",
+      "phonetics": [
+        "/kənˈvenʃənl/"
+      ],
+      "meaning": "adj. 传统的，常规的",
+      "promptMeaning": "adj. 传统的，常规的",
+      "pos": [
+        "adj"
+      ],
+      "aliases": [],
+      "senses": [
+        "传统的",
+        "常规的"
+      ]
+    },
+    {
+      "id": 130,
+      "word": "convey",
+      "phonetic": "/kənˈveɪ/",
+      "phonetics": [
+        "/kənˈveɪ/"
+      ],
+      "meaning": "v. 传达，传递",
+      "promptMeaning": "v. 传达，传递",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "传达",
+        "传递"
+      ]
+    },
+    {
+      "id": 131,
+      "word": "convince",
+      "phonetic": "/kənˈvɪns/",
+      "phonetics": [
+        "/kənˈvɪns/"
+      ],
+      "meaning": "v. 说服，使确信",
+      "promptMeaning": "v. 说服，使确信",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "说服",
+        "使确信"
+      ]
+    },
+    {
+      "id": 132,
+      "word": "cooperate",
+      "phonetic": "/kəʊˈɒpəreɪt/",
+      "phonetics": [
+        "/kəʊˈɒpəreɪt/"
+      ],
+      "meaning": "v. 合作，协作",
+      "promptMeaning": "v. 合作，协作",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "合作",
+        "协作"
+      ]
+    },
+    {
+      "id": 133,
+      "word": "coordinate",
+      "phonetic": "/kəʊˈɔːdɪneɪt/",
+      "phonetics": [
+        "/kəʊˈɔːdɪneɪt/"
+      ],
+      "meaning": "v. 协调",
+      "promptMeaning": "v. 协调",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "协调"
+      ]
+    },
+    {
+      "id": 134,
+      "word": "correspond",
+      "phonetic": "/ˌkɒrəˈspɒnd/",
+      "phonetics": [
+        "/ˌkɒrəˈspɒnd/"
+      ],
+      "meaning": "v. 符合；通信",
+      "promptMeaning": "v. 符合；通信",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "符合",
+        "通信"
+      ]
+    },
+    {
+      "id": 135,
+      "word": "corrupt",
+      "phonetic": "/kəˈrʌpt/",
+      "phonetics": [
+        "/kəˈrʌpt/"
+      ],
+      "meaning": "adj. 腐败的 v. 腐蚀",
+      "promptMeaning": "adj. 腐败的 v. 腐蚀",
+      "pos": [
+        "adj",
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "腐败的 腐蚀",
+        "腐败的腐蚀"
+      ]
+    },
+    {
+      "id": 136,
+      "word": "costly",
+      "phonetic": "/ˈkɒstli/",
+      "phonetics": [
+        "/ˈkɒstli/"
+      ],
+      "meaning": "adj. 昂贵的",
+      "promptMeaning": "adj. 昂贵的",
+      "pos": [
+        "adj"
+      ],
+      "aliases": [],
+      "senses": [
+        "昂贵的"
+      ]
+    },
+    {
+      "id": 137,
+      "word": "council",
+      "phonetic": "/ˈkaʊnsl/",
+      "phonetics": [
+        "/ˈkaʊnsl/"
+      ],
+      "meaning": "n. 委员会，理事会",
+      "promptMeaning": "n. 委员会，理事会",
+      "pos": [
+        "n"
+      ],
+      "aliases": [],
+      "senses": [
+        "委员会",
+        "理事会"
+      ]
+    },
+    {
+      "id": 138,
+      "word": "crucial",
+      "phonetic": "/ˈkruːʃl/",
+      "phonetics": [
+        "/ˈkruːʃl/"
+      ],
+      "meaning": "adj. 至关重要的",
+      "promptMeaning": "adj. 至关重要的",
+      "pos": [
+        "adj"
+      ],
+      "aliases": [],
+      "senses": [
+        "至关重要的"
+      ]
+    },
+    {
+      "id": 139,
+      "word": "cultivate",
+      "phonetic": "/ˈkʌltɪveɪt/",
+      "phonetics": [
+        "/ˈkʌltɪveɪt/"
+      ],
+      "meaning": "v. 培养；耕种",
+      "promptMeaning": "v. 培养；耕种",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "培养",
+        "耕种"
+      ]
+    },
+    {
+      "id": 140,
+      "word": "cumulative",
+      "phonetic": "/ˈkjuːmjələtɪv/",
+      "phonetics": [
+        "/ˈkjuːmjələtɪv/"
+      ],
+      "meaning": "adj. 累积的",
+      "promptMeaning": "adj. 累积的",
+      "pos": [
+        "adj"
+      ],
+      "aliases": [],
+      "senses": [
+        "累积的"
+      ]
+    },
+    {
+      "id": 141,
+      "word": "curb",
+      "phonetic": "/kɜːb/",
+      "phonetics": [
+        "/kɜːb/"
+      ],
+      "meaning": "v. 控制，抑制",
+      "promptMeaning": "v. 控制，抑制",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "控制",
+        "抑制"
+      ]
+    },
+    {
+      "id": 142,
+      "word": "decade",
+      "phonetic": "/ˈdekeɪd/",
+      "phonetics": [
+        "/ˈdekeɪd/"
+      ],
+      "meaning": "n. 十年",
+      "promptMeaning": "n. 十年",
+      "pos": [
+        "n"
+      ],
+      "aliases": [],
+      "senses": [
+        "十年"
+      ]
+    },
+    {
+      "id": 143,
+      "word": "decay",
+      "phonetic": "/dɪˈkeɪ/",
+      "phonetics": [
+        "/dɪˈkeɪ/"
+      ],
+      "meaning": "v./n. 衰退，腐烂",
+      "promptMeaning": "v./n. 衰退，腐烂",
+      "pos": [
+        "v",
+        "n"
+      ],
+      "aliases": [],
+      "senses": [
+        "衰退",
+        "腐烂"
+      ]
+    },
+    {
+      "id": 144,
+      "word": "deceive",
+      "phonetic": "/dɪˈsiːv/",
+      "phonetics": [
+        "/dɪˈsiːv/"
+      ],
+      "meaning": "v. 欺骗，蒙蔽",
+      "promptMeaning": "v. 欺骗，蒙蔽",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "欺骗",
+        "蒙蔽"
+      ]
+    },
+    {
+      "id": 145,
+      "word": "deduce",
+      "phonetic": "/dɪˈdjuːs/",
+      "phonetics": [
+        "/dɪˈdjuːs/"
+      ],
+      "meaning": "v. 演绎，推断",
+      "promptMeaning": "v. 演绎，推断",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "演绎",
+        "推断"
+      ]
+    },
+    {
+      "id": 146,
+      "word": "defect",
+      "phonetic": "/ˈdiːfekt/",
+      "phonetics": [
+        "/ˈdiːfekt/"
+      ],
+      "meaning": "n. 缺陷，瑕疵",
+      "promptMeaning": "n. 缺陷，瑕疵",
+      "pos": [
+        "n"
+      ],
+      "aliases": [],
+      "senses": [
+        "缺陷",
+        "瑕疵"
+      ]
+    },
+    {
+      "id": 147,
+      "word": "definite",
+      "phonetic": "/ˈdefɪnət/",
+      "phonetics": [
+        "/ˈdefɪnət/"
+      ],
+      "meaning": "adj. 明确的，确定的",
+      "promptMeaning": "adj. 明确的，确定的",
+      "pos": [
+        "adj"
+      ],
+      "aliases": [],
+      "senses": [
+        "明确的",
+        "确定的"
+      ]
+    },
+    {
+      "id": 148,
+      "word": "delegate",
+      "phonetic": "/ˈdelɪɡeɪt/",
+      "phonetics": [
+        "/ˈdelɪɡeɪt/"
+      ],
+      "meaning": "v. 委派，授权",
+      "promptMeaning": "v. 委派，授权",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "委派",
+        "授权"
+      ]
+    },
+    {
+      "id": 149,
+      "word": "deliberate",
+      "phonetic": "/dɪˈlɪbərət/",
+      "phonetics": [
+        "/dɪˈlɪbərət/"
+      ],
+      "meaning": "adj. 故意的",
+      "promptMeaning": "adj. 故意的",
+      "pos": [
+        "adj"
+      ],
+      "aliases": [],
+      "senses": [
+        "故意的"
+      ]
+    },
+    {
+      "id": 150,
+      "word": "demonstrate",
+      "phonetic": "/ˈdemənstreɪt/",
+      "phonetics": [
+        "/ˈdemənstreɪt/"
+      ],
+      "meaning": "v. 证明；展示",
+      "promptMeaning": "v. 证明；展示",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "证明",
+        "展示"
+      ]
+    },
+    {
+      "id": 151,
+      "word": "dense",
+      "phonetic": "/dens/",
+      "phonetics": [
+        "/dens/"
+      ],
+      "meaning": "adj. 稠密的，浓密的",
+      "promptMeaning": "adj. 稠密的，浓密的",
+      "pos": [
+        "adj"
+      ],
+      "aliases": [],
+      "senses": [
+        "稠密的",
+        "浓密的"
+      ]
+    },
+    {
+      "id": 152,
+      "word": "deny",
+      "phonetic": "/dɪˈnaɪ/",
+      "phonetics": [
+        "/dɪˈnaɪ/"
+      ],
+      "meaning": "v. 否认，拒绝",
+      "promptMeaning": "v. 否认，拒绝",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "否认",
+        "拒绝"
+      ]
+    },
+    {
+      "id": 153,
+      "word": "depart",
+      "phonetic": "/dɪˈpɑːt/",
+      "phonetics": [
+        "/dɪˈpɑːt/"
+      ],
+      "meaning": "v. 离开，出发",
+      "promptMeaning": "v. 离开，出发",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "离开",
+        "出发"
+      ]
+    },
+    {
+      "id": 154,
+      "word": "deposit",
+      "phonetic": "/dɪˈpɒzɪt/",
+      "phonetics": [
+        "/dɪˈpɒzɪt/"
+      ],
+      "meaning": "n. 存款；沉积物 v. 存放",
+      "promptMeaning": "n. 存款；沉积物 v. 存放",
+      "pos": [
+        "n",
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "存款",
+        "沉积物 存放",
+        "沉积物存放"
+      ]
+    },
+    {
+      "id": 155,
+      "word": "depress",
+      "phonetic": "/dɪˈpres/",
+      "phonetics": [
+        "/dɪˈpres/"
+      ],
+      "meaning": "v. 使沮丧；压低",
+      "promptMeaning": "v. 使沮丧；压低",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "使沮丧",
+        "压低"
+      ]
+    },
+    {
+      "id": 156,
+      "word": "derive",
+      "phonetic": "/dɪˈraɪv/",
+      "phonetics": [
+        "/dɪˈraɪv/"
+      ],
+      "meaning": "v. 源自，获得",
+      "promptMeaning": "v. 源自，获得",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "源自",
+        "获得"
+      ]
+    },
+    {
+      "id": 157,
+      "word": "descend",
+      "phonetic": "/dɪˈsend/",
+      "phonetics": [
+        "/dɪˈsend/"
+      ],
+      "meaning": "v. 下降，降临",
+      "promptMeaning": "v. 下降，降临",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "下降",
+        "降临"
+      ]
+    },
+    {
+      "id": 158,
+      "word": "designate",
+      "phonetic": "/ˈdezɪɡneɪt/",
+      "phonetics": [
+        "/ˈdezɪɡneɪt/"
+      ],
+      "meaning": "v. 指定，命名",
+      "promptMeaning": "v. 指定，命名",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "指定",
+        "命名"
+      ]
+    },
+    {
+      "id": 159,
+      "word": "despair",
+      "phonetic": "/dɪˈspeə(r)/",
+      "phonetics": [
+        "/dɪˈspeə(r)/"
+      ],
+      "meaning": "n./v. 绝望",
+      "promptMeaning": "n./v. 绝望",
+      "pos": [
+        "n",
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "绝望"
+      ]
+    },
+    {
+      "id": 160,
+      "word": "detect",
+      "phonetic": "/dɪˈtekt/",
+      "phonetics": [
+        "/dɪˈtekt/"
+      ],
+      "meaning": "v. 察觉，探测",
+      "promptMeaning": "v. 察觉，探测",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "察觉",
+        "探测"
+      ]
+    },
+    {
+      "id": 161,
+      "word": "deteriorate",
+      "phonetic": "/dɪˈtɪəriəreɪt/",
+      "phonetics": [
+        "/dɪˈtɪəriəreɪt/"
+      ],
+      "meaning": "v. 恶化，退化",
+      "promptMeaning": "v. 恶化，退化",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "恶化",
+        "退化"
+      ]
+    },
+    {
+      "id": 162,
+      "word": "determine",
+      "phonetic": "/dɪˈtɜːmɪn/",
+      "phonetics": [
+        "/dɪˈtɜːmɪn/"
+      ],
+      "meaning": "v. 决定，确定",
+      "promptMeaning": "v. 决定，确定",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "决定",
+        "确定"
+      ]
+    },
+    {
+      "id": 163,
+      "word": "devise",
+      "phonetic": "/dɪˈvaɪz/",
+      "phonetics": [
+        "/dɪˈvaɪz/"
+      ],
+      "meaning": "v. 设计，发明",
+      "promptMeaning": "v. 设计，发明",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "设计",
+        "发明"
+      ]
+    },
+    {
+      "id": 164,
+      "word": "diagnose",
+      "phonetic": "/ˈdaɪəɡnəʊz/",
+      "phonetics": [
+        "/ˈdaɪəɡnəʊz/"
+      ],
+      "meaning": "v. 诊断，判断",
+      "promptMeaning": "v. 诊断，判断",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "诊断",
+        "判断"
+      ]
+    },
+    {
+      "id": 165,
+      "word": "diminish",
+      "phonetic": "/dɪˈmɪnɪʃ/",
+      "phonetics": [
+        "/dɪˈmɪnɪʃ/"
+      ],
+      "meaning": "v. 减少，降低",
+      "promptMeaning": "v. 减少，降低",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "减少",
+        "降低"
+      ]
+    },
+    {
+      "id": 166,
+      "word": "discard",
+      "phonetic": "/dɪsˈkɑːd/",
+      "phonetics": [
+        "/dɪsˈkɑːd/"
+      ],
+      "meaning": "v. 丢弃，抛弃",
+      "promptMeaning": "v. 丢弃，抛弃",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "丢弃",
+        "抛弃"
+      ]
+    },
+    {
+      "id": 167,
+      "word": "disclose",
+      "phonetic": "/dɪsˈkləʊz/",
+      "phonetics": [
+        "/dɪsˈkləʊz/"
+      ],
+      "meaning": "v. 揭露，公开",
+      "promptMeaning": "v. 揭露，公开",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "揭露",
+        "公开"
+      ]
+    },
+    {
+      "id": 168,
+      "word": "discount",
+      "phonetic": "/ˈdɪskaʊnt/",
+      "phonetics": [
+        "/ˈdɪskaʊnt/"
+      ],
+      "meaning": "n. 折扣",
+      "promptMeaning": "n. 折扣",
+      "pos": [
+        "n"
+      ],
+      "aliases": [],
+      "senses": [
+        "折扣"
+      ]
+    },
+    {
+      "id": 169,
+      "word": "discourage",
+      "phonetic": "/dɪsˈkʌrɪdʒ/",
+      "phonetics": [
+        "/dɪsˈkʌrɪdʒ/"
+      ],
+      "meaning": "v. 使气馁，阻碍",
+      "promptMeaning": "v. 使气馁，阻碍",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "使气馁",
+        "阻碍"
+      ]
+    },
+    {
+      "id": 170,
+      "word": "disguise",
+      "phonetic": "/dɪsˈɡaɪz/",
+      "phonetics": [
+        "/dɪsˈɡaɪz/"
+      ],
+      "meaning": "v./n. 伪装",
+      "promptMeaning": "v./n. 伪装",
+      "pos": [
+        "v",
+        "n"
+      ],
+      "aliases": [],
+      "senses": [
+        "伪装"
+      ]
+    },
+    {
+      "id": 171,
+      "word": "dismiss",
+      "phonetic": "/dɪsˈmɪs/",
+      "phonetics": [
+        "/dɪsˈmɪs/"
+      ],
+      "meaning": "v. 驳回；解散",
+      "promptMeaning": "v. 驳回；解散",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "驳回",
+        "解散"
+      ]
+    },
+    {
+      "id": 172,
+      "word": "displace",
+      "phonetic": "/dɪsˈpleɪs/",
+      "phonetics": [
+        "/dɪsˈpleɪs/"
+      ],
+      "meaning": "v. 取代；迫使离开",
+      "promptMeaning": "v. 取代；迫使离开",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "取代",
+        "迫使离开"
+      ]
+    },
+    {
+      "id": 173,
+      "word": "dispose",
+      "phonetic": "/dɪˈspəʊz/",
+      "phonetics": [
+        "/dɪˈspəʊz/"
+      ],
+      "meaning": "v. 处理，安排",
+      "promptMeaning": "v. 处理，安排",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "处理",
+        "安排"
+      ]
+    },
+    {
+      "id": 174,
+      "word": "distinct",
+      "phonetic": "/dɪˈstɪŋkt/",
+      "phonetics": [
+        "/dɪˈstɪŋkt/"
+      ],
+      "meaning": "adj. 明显不同的",
+      "promptMeaning": "adj. 明显不同的",
+      "pos": [
+        "adj"
+      ],
+      "aliases": [],
+      "senses": [
+        "明显不同的"
+      ]
+    },
+    {
+      "id": 175,
+      "word": "distinguish",
+      "phonetic": "/dɪˈstɪŋɡwɪʃ/",
+      "phonetics": [
+        "/dɪˈstɪŋɡwɪʃ/"
+      ],
+      "meaning": "v. 区分，辨别",
+      "promptMeaning": "v. 区分，辨别",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "区分",
+        "辨别"
+      ]
+    },
+    {
+      "id": 176,
+      "word": "distort",
+      "phonetic": "/dɪˈstɔːt/",
+      "phonetics": [
+        "/dɪˈstɔːt/"
+      ],
+      "meaning": "v. 扭曲，歪曲",
+      "promptMeaning": "v. 扭曲，歪曲",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "扭曲",
+        "歪曲"
+      ]
+    },
+    {
+      "id": 177,
+      "word": "distribute",
+      "phonetic": "/dɪˈstrɪbjuːt/",
+      "phonetics": [
+        "/dɪˈstrɪbjuːt/"
+      ],
+      "meaning": "v. 分配，分发",
+      "promptMeaning": "v. 分配，分发",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "分配",
+        "分发"
+      ]
+    },
+    {
+      "id": 178,
+      "word": "divert",
+      "phonetic": "/daɪˈvɜːt/",
+      "phonetics": [
+        "/daɪˈvɜːt/"
+      ],
+      "meaning": "v. 转移，使转向",
+      "promptMeaning": "v. 转移，使转向",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "转移",
+        "使转向"
+      ]
+    },
+    {
+      "id": 179,
+      "word": "dominate",
+      "phonetic": "/ˈdɒmɪneɪt/",
+      "phonetics": [
+        "/ˈdɒmɪneɪt/"
+      ],
+      "meaning": "v. 支配，占主导",
+      "promptMeaning": "v. 支配，占主导",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "支配",
+        "占主导"
+      ]
+    },
+    {
+      "id": 180,
+      "word": "donate",
+      "phonetic": "/dəʊˈneɪt/",
+      "phonetics": [
+        "/dəʊˈneɪt/"
+      ],
+      "meaning": "v. 捐赠",
+      "promptMeaning": "v. 捐赠",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "捐赠"
+      ]
+    },
+    {
+      "id": 181,
+      "word": "draft",
+      "phonetic": "/drɑːft/",
+      "phonetics": [
+        "/drɑːft/"
+      ],
+      "meaning": "n. 草稿 v. 起草",
+      "promptMeaning": "n. 草稿 v. 起草",
+      "pos": [
+        "n",
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "草稿 起草",
+        "草稿起草"
+      ]
+    },
+    {
+      "id": 182,
+      "word": "drift",
+      "phonetic": "/drɪft/",
+      "phonetics": [
+        "/drɪft/"
+      ],
+      "meaning": "v./n. 漂流，漂移",
+      "promptMeaning": "v./n. 漂流，漂移",
+      "pos": [
+        "v",
+        "n"
+      ],
+      "aliases": [],
+      "senses": [
+        "漂流",
+        "漂移"
+      ]
+    },
+    {
+      "id": 183,
+      "word": "durable",
+      "phonetic": "/ˈdjʊərəbl/",
+      "phonetics": [
+        "/ˈdjʊərəbl/"
+      ],
+      "meaning": "adj. 耐用的，持久的",
+      "promptMeaning": "adj. 耐用的，持久的",
+      "pos": [
+        "adj"
+      ],
+      "aliases": [],
+      "senses": [
+        "耐用的",
+        "持久的"
+      ]
+    },
+    {
+      "id": 184,
+      "word": "dynamic",
+      "phonetic": "/daɪˈnæmɪk/",
+      "phonetics": [
+        "/daɪˈnæmɪk/"
+      ],
+      "meaning": "adj. 动态的，有活力的",
+      "promptMeaning": "adj. 动态的，有活力的",
+      "pos": [
+        "adj"
+      ],
+      "aliases": [],
+      "senses": [
+        "动态的",
+        "有活力的"
+      ]
+    },
+    {
+      "id": 185,
+      "word": "elaborate",
+      "phonetic": "/ɪˈlæbərət/",
+      "phonetics": [
+        "/ɪˈlæbərət/",
+        "/ɪˈlæbəreɪt/"
+      ],
+      "meaning": "adj. 详尽的；v. 详述",
+      "promptMeaning": "adj. 详尽的；v. 详述",
+      "pos": [
+        "adj",
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "详尽的",
+        "详述"
+      ]
+    },
+    {
+      "id": 186,
+      "word": "eliminate",
+      "phonetic": "/ɪˈlɪmɪneɪt/",
+      "phonetics": [
+        "/ɪˈlɪmɪneɪt/"
+      ],
+      "meaning": "v. 消除，排除",
+      "promptMeaning": "v. 消除，排除",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "消除",
+        "排除"
+      ]
+    },
+    {
+      "id": 187,
+      "word": "embed",
+      "phonetic": "/ɪmˈbed/",
+      "phonetics": [
+        "/ɪmˈbed/"
+      ],
+      "meaning": "v. 嵌入，植入",
+      "promptMeaning": "v. 嵌入，植入",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "嵌入",
+        "植入"
+      ]
+    },
+    {
+      "id": 188,
+      "word": "emerge",
+      "phonetic": "/ɪˈmɜːdʒ/",
+      "phonetics": [
+        "/ɪˈmɜːdʒ/"
+      ],
+      "meaning": "v. 浮现，出现",
+      "promptMeaning": "v. 浮现，出现",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "浮现",
+        "出现"
+      ]
+    },
+    {
+      "id": 189,
+      "word": "emphasize",
+      "phonetic": "/ˈemfəsaɪz/",
+      "phonetics": [
+        "/ˈemfəsaɪz/"
+      ],
+      "meaning": "v. 强调，着重",
+      "promptMeaning": "v. 强调，着重",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "强调",
+        "着重"
+      ]
+    },
+    {
+      "id": 190,
+      "word": "enforce",
+      "phonetic": "/ɪnˈfɔːs/",
+      "phonetics": [
+        "/ɪnˈfɔːs/"
+      ],
+      "meaning": "v. 实施，强制执行",
+      "promptMeaning": "v. 实施，强制执行",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "实施",
+        "强制执行"
+      ]
+    },
+    {
+      "id": 191,
+      "word": "engage",
+      "phonetic": "/ɪnˈɡeɪdʒ/",
+      "phonetics": [
+        "/ɪnˈɡeɪdʒ/"
+      ],
+      "meaning": "v. 参与；吸引",
+      "promptMeaning": "v. 参与；吸引",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "参与",
+        "吸引"
+      ]
+    },
+    {
+      "id": 192,
+      "word": "enhance",
+      "phonetic": "/ɪnˈhɑːns/",
+      "phonetics": [
+        "/ɪnˈhɑːns/"
+      ],
+      "meaning": "v. 增强，提高",
+      "promptMeaning": "v. 增强，提高",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "增强",
+        "提高"
+      ]
+    },
+    {
+      "id": 193,
+      "word": "entail",
+      "phonetic": "/ɪnˈteɪl/",
+      "phonetics": [
+        "/ɪnˈteɪl/"
+      ],
+      "meaning": "v. 使必然需要，牵涉",
+      "promptMeaning": "v. 使必然需要，牵涉",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "使必然需要",
+        "牵涉"
+      ]
+    },
+    {
+      "id": 194,
+      "word": "enterprise",
+      "phonetic": "/ˈentəpraɪz/",
+      "phonetics": [
+        "/ˈentəpraɪz/"
+      ],
+      "meaning": "n. 企业；事业心",
+      "promptMeaning": "n. 企业；事业心",
+      "pos": [
+        "n"
+      ],
+      "aliases": [],
+      "senses": [
+        "企业",
+        "事业心"
+      ]
+    },
+    {
+      "id": 195,
+      "word": "entitle",
+      "phonetic": "/ɪnˈtaɪtl/",
+      "phonetics": [
+        "/ɪnˈtaɪtl/"
+      ],
+      "meaning": "v. 使享有权利；命名",
+      "promptMeaning": "v. 使享有权利；命名",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "使享有权利",
+        "命名"
+      ]
+    },
+    {
+      "id": 196,
+      "word": "equivalent",
+      "phonetic": "/ɪˈkwɪvələnt/",
+      "phonetics": [
+        "/ɪˈkwɪvələnt/"
+      ],
+      "meaning": "adj. 等价的，等同的",
+      "promptMeaning": "adj. 等价的，等同的",
+      "pos": [
+        "adj"
+      ],
+      "aliases": [],
+      "senses": [
+        "等价的",
+        "等同的"
+      ]
+    },
+    {
+      "id": 197,
+      "word": "erect",
+      "phonetic": "/ɪˈrekt/",
+      "phonetics": [
+        "/ɪˈrekt/"
+      ],
+      "meaning": "v. 建立 adj. 直立的",
+      "promptMeaning": "v. 建立 adj. 直立的",
+      "pos": [
+        "v",
+        "adj"
+      ],
+      "aliases": [],
+      "senses": [
+        "建立 直立的",
+        "建立直立的"
+      ]
+    },
+    {
+      "id": 198,
+      "word": "erode",
+      "phonetic": "/ɪˈrəʊd/",
+      "phonetics": [
+        "/ɪˈrəʊd/"
+      ],
+      "meaning": "v. 侵蚀，腐蚀",
+      "promptMeaning": "v. 侵蚀，腐蚀",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "侵蚀",
+        "腐蚀"
+      ]
+    },
+    {
+      "id": 199,
+      "word": "escalate",
+      "phonetic": "/ˈeskəleɪt/",
+      "phonetics": [
+        "/ˈeskəleɪt/"
+      ],
+      "meaning": "v. 升级，加剧",
+      "promptMeaning": "v. 升级，加剧",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "升级",
+        "加剧"
+      ]
+    },
+    {
+      "id": 200,
+      "word": "estimate",
+      "phonetic": "/ˈestɪmeɪt/",
+      "phonetics": [
+        "/ˈestɪmeɪt/",
+        "/ˈestɪmət/"
+      ],
+      "meaning": "v. 估计；n. 估算",
+      "promptMeaning": "v. 估计；n. 估算",
+      "pos": [
+        "v",
+        "n"
+      ],
+      "aliases": [],
+      "senses": [
+        "估计",
+        "估算"
+      ]
+    },
+    {
+      "id": 201,
+      "word": "evaluate",
+      "phonetic": "/ɪˈvæljueɪt/",
+      "phonetics": [
+        "/ɪˈvæljueɪt/"
+      ],
+      "meaning": "v. 评估，评价",
+      "promptMeaning": "v. 评估，评价",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "评估",
+        "评价"
+      ]
+    },
+    {
+      "id": 202,
+      "word": "evaporate",
+      "phonetic": "/ɪˈvæpəreɪt/",
+      "phonetics": [
+        "/ɪˈvæpəreɪt/"
+      ],
+      "meaning": "v. 蒸发，消失",
+      "promptMeaning": "v. 蒸发，消失",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "蒸发",
+        "消失"
+      ]
+    },
+    {
+      "id": 203,
+      "word": "evolve",
+      "phonetic": "/ɪˈvɒlv/",
+      "phonetics": [
+        "/ɪˈvɒlv/"
+      ],
+      "meaning": "v. 进化，逐步发展",
+      "promptMeaning": "v. 进化，逐步发展",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "进化",
+        "逐步发展"
+      ]
+    },
+    {
+      "id": 204,
+      "word": "exceed",
+      "phonetic": "/ɪkˈsiːd/",
+      "phonetics": [
+        "/ɪkˈsiːd/"
+      ],
+      "meaning": "v. 超过，超出",
+      "promptMeaning": "v. 超过，超出",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "超过",
+        "超出"
+      ]
+    },
+    {
+      "id": 205,
+      "word": "exclude",
+      "phonetic": "/ɪkˈskluːd/",
+      "phonetics": [
+        "/ɪkˈskluːd/"
+      ],
+      "meaning": "v. 排除，不包含",
+      "promptMeaning": "v. 排除，不包含",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "排除",
+        "不包含"
+      ]
+    },
+    {
+      "id": 206,
+      "word": "execute",
+      "phonetic": "/ˈeksɪkjuːt/",
+      "phonetics": [
+        "/ˈeksɪkjuːt/"
+      ],
+      "meaning": "v. 执行，实施",
+      "promptMeaning": "v. 执行，实施",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "执行",
+        "实施"
+      ]
+    },
+    {
+      "id": 207,
+      "word": "exert",
+      "phonetic": "/ɪɡˈzɜːt/",
+      "phonetics": [
+        "/ɪɡˈzɜːt/"
+      ],
+      "meaning": "v. 施加（影响、压力）",
+      "promptMeaning": "v. 施加（影响、压力）",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "施加（影响",
+        "施加影响",
+        "压力）",
+        "压力"
+      ]
+    },
+    {
+      "id": 208,
+      "word": "exhaust",
+      "phonetic": "/ɪɡˈzɔːst/",
+      "phonetics": [
+        "/ɪɡˈzɔːst/"
+      ],
+      "meaning": "v. 耗尽；使疲惫",
+      "promptMeaning": "v. 耗尽；使疲惫",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "耗尽",
+        "使疲惫"
+      ]
+    },
+    {
+      "id": 209,
+      "word": "exhibit",
+      "phonetic": "/ɪɡˈzɪbɪt/",
+      "phonetics": [
+        "/ɪɡˈzɪbɪt/"
+      ],
+      "meaning": "v. 展示，表现出",
+      "promptMeaning": "v. 展示，表现出",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "展示",
+        "表现出"
+      ]
+    },
+    {
+      "id": 210,
+      "word": "exploit",
+      "phonetic": "/ɪkˈsplɔɪt/",
+      "phonetics": [
+        "/ɪkˈsplɔɪt/"
+      ],
+      "meaning": "v. 开发；利用",
+      "promptMeaning": "v. 开发；利用",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "开发",
+        "利用"
+      ]
+    },
+    {
+      "id": 211,
+      "word": "explore",
+      "phonetic": "/ɪkˈsplɔː(r)/",
+      "phonetics": [
+        "/ɪkˈsplɔː(r)/"
+      ],
+      "meaning": "v. 探索，探究",
+      "promptMeaning": "v. 探索，探究",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "探索",
+        "探究"
+      ]
+    },
+    {
+      "id": 212,
+      "word": "export",
+      "phonetic": "/ˈekspɔːt/",
+      "phonetics": [
+        "/ˈekspɔːt/",
+        "/ɪkˈspɔːt/"
+      ],
+      "meaning": "n. 出口；v. 输出",
+      "promptMeaning": "n. 出口；v. 输出",
+      "pos": [
+        "n",
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "出口",
+        "输出"
+      ]
+    },
+    {
+      "id": 213,
+      "word": "expose",
+      "phonetic": "/ɪkˈspəʊz/",
+      "phonetics": [
+        "/ɪkˈspəʊz/"
+      ],
+      "meaning": "v. 暴露，使接触",
+      "promptMeaning": "v. 暴露，使接触",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "暴露",
+        "使接触"
+      ]
+    },
+    {
+      "id": 214,
+      "word": "extend",
+      "phonetic": "/ɪkˈstend/",
+      "phonetics": [
+        "/ɪkˈstend/"
+      ],
+      "meaning": "v. 延伸，扩大",
+      "promptMeaning": "v. 延伸，扩大",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "延伸",
+        "扩大"
+      ]
+    },
+    {
+      "id": 215,
+      "word": "extract",
+      "phonetic": "/ɪkˈstrækt/",
+      "phonetics": [
+        "/ɪkˈstrækt/",
+        "/ˈekstrækt/"
+      ],
+      "meaning": "v. 提取；n. 摘录",
+      "promptMeaning": "v. 提取；n. 摘录",
+      "pos": [
+        "v",
+        "n"
+      ],
+      "aliases": [],
+      "senses": [
+        "提取",
+        "摘录"
+      ]
+    },
+    {
+      "id": 216,
+      "word": "facilitate",
+      "phonetic": "/fəˈsɪlɪteɪt/",
+      "phonetics": [
+        "/fəˈsɪlɪteɪt/"
+      ],
+      "meaning": "v. 促进，使便利",
+      "promptMeaning": "v. 促进，使便利",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "促进",
+        "使便利"
+      ]
+    },
+    {
+      "id": 217,
+      "word": "factor",
+      "phonetic": "/ˈfæktə(r)/",
+      "phonetics": [
+        "/ˈfæktə(r)/"
+      ],
+      "meaning": "n. 因素，要素",
+      "promptMeaning": "n. 因素，要素",
+      "pos": [
+        "n"
+      ],
+      "aliases": [],
+      "senses": [
+        "因素",
+        "要素"
+      ]
+    },
+    {
+      "id": 218,
+      "word": "feasible",
+      "phonetic": "/ˈfiːzəbl/",
+      "phonetics": [
+        "/ˈfiːzəbl/"
+      ],
+      "meaning": "adj. 可行的",
+      "promptMeaning": "adj. 可行的",
+      "pos": [
+        "adj"
+      ],
+      "aliases": [],
+      "senses": [
+        "可行的"
+      ]
+    },
+    {
+      "id": 219,
+      "word": "fertile",
+      "phonetic": "/ˈfɜːtaɪl/",
+      "phonetics": [
+        "/ˈfɜːtaɪl/"
+      ],
+      "meaning": "adj. 肥沃的；丰富的",
+      "promptMeaning": "adj. 肥沃的；丰富的",
+      "pos": [
+        "adj"
+      ],
+      "aliases": [],
+      "senses": [
+        "肥沃的",
+        "丰富的"
+      ]
+    },
+    {
+      "id": 220,
+      "word": "fluctuate",
+      "phonetic": "/ˈflʌktʃueɪt/",
+      "phonetics": [
+        "/ˈflʌktʃueɪt/"
+      ],
+      "meaning": "v. 波动，起伏",
+      "promptMeaning": "v. 波动，起伏",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "波动",
+        "起伏"
+      ]
+    },
+    {
+      "id": 221,
+      "word": "formulate",
+      "phonetic": "/ˈfɔːmjuleɪt/",
+      "phonetics": [
+        "/ˈfɔːmjuleɪt/"
+      ],
+      "meaning": "v. 制定，构想",
+      "promptMeaning": "v. 制定，构想",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "制定",
+        "构想"
+      ]
+    },
+    {
+      "id": 222,
+      "word": "foundation",
+      "phonetic": "/faʊnˈdeɪʃn/",
+      "phonetics": [
+        "/faʊnˈdeɪʃn/"
+      ],
+      "meaning": "n. 基础，基金会",
+      "promptMeaning": "n. 基础，基金会",
+      "pos": [
+        "n"
+      ],
+      "aliases": [],
+      "senses": [
+        "基础",
+        "基金会"
+      ]
+    },
+    {
+      "id": 223,
+      "word": "fragment",
+      "phonetic": "/ˈfræɡmənt/",
+      "phonetics": [
+        "/ˈfræɡmənt/"
+      ],
+      "meaning": "n. 碎片，片段",
+      "promptMeaning": "n. 碎片，片段",
+      "pos": [
+        "n"
+      ],
+      "aliases": [],
+      "senses": [
+        "碎片",
+        "片段"
+      ]
+    },
+    {
+      "id": 224,
+      "word": "function",
+      "phonetic": "/ˈfʌŋkʃn/",
+      "phonetics": [
+        "/ˈfʌŋkʃn/"
+      ],
+      "meaning": "n. 功能 v. 起作用",
+      "promptMeaning": "n. 功能 v. 起作用",
+      "pos": [
+        "n",
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "功能 起作用",
+        "功能起作用"
+      ]
+    },
+    {
+      "id": 225,
+      "word": "fundamental",
+      "phonetic": "/ˌfʌndəˈmentl/",
+      "phonetics": [
+        "/ˌfʌndəˈmentl/"
+      ],
+      "meaning": "adj. 根本的，基础的",
+      "promptMeaning": "adj. 根本的，基础的",
+      "pos": [
+        "adj"
+      ],
+      "aliases": [],
+      "senses": [
+        "根本的",
+        "基础的"
+      ]
+    },
+    {
+      "id": 226,
+      "word": "furnish",
+      "phonetic": "/ˈfɜːnɪʃ/",
+      "phonetics": [
+        "/ˈfɜːnɪʃ/"
+      ],
+      "meaning": "v. 配备，提供",
+      "promptMeaning": "v. 配备，提供",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "配备",
+        "提供"
+      ]
+    },
+    {
+      "id": 227,
+      "word": "gap",
+      "phonetic": "/ɡæp/",
+      "phonetics": [
+        "/ɡæp/"
+      ],
+      "meaning": "n. 缺口，差距",
+      "promptMeaning": "n. 缺口，差距",
+      "pos": [
+        "n"
+      ],
+      "aliases": [],
+      "senses": [
+        "缺口",
+        "差距"
+      ]
+    },
+    {
+      "id": 228,
+      "word": "generate",
+      "phonetic": "/ˈdʒenəreɪt/",
+      "phonetics": [
+        "/ˈdʒenəreɪt/"
+      ],
+      "meaning": "v. 产生，生成",
+      "promptMeaning": "v. 产生，生成",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "产生",
+        "生成"
+      ]
+    },
+    {
+      "id": 229,
+      "word": "genuine",
+      "phonetic": "/ˈdʒenjuɪn/",
+      "phonetics": [
+        "/ˈdʒenjuɪn/"
+      ],
+      "meaning": "adj. 真实的，真诚的",
+      "promptMeaning": "adj. 真实的，真诚的",
+      "pos": [
+        "adj"
+      ],
+      "aliases": [],
+      "senses": [
+        "真实的",
+        "真诚的"
+      ]
+    },
+    {
+      "id": 230,
+      "word": "govern",
+      "phonetic": "/ˈɡʌvn/",
+      "phonetics": [
+        "/ˈɡʌvn/"
+      ],
+      "meaning": "v. 统治；支配",
+      "promptMeaning": "v. 统治；支配",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "统治",
+        "支配"
+      ]
+    },
+    {
+      "id": 231,
+      "word": "guarantee",
+      "phonetic": "/ˌɡærənˈtiː/",
+      "phonetics": [
+        "/ˌɡærənˈtiː/"
+      ],
+      "meaning": "v./n. 保证，担保",
+      "promptMeaning": "v./n. 保证，担保",
+      "pos": [
+        "v",
+        "n"
+      ],
+      "aliases": [],
+      "senses": [
+        "保证",
+        "担保"
+      ]
+    },
+    {
+      "id": 232,
+      "word": "hamper",
+      "phonetic": "/ˈhæmpə(r)/",
+      "phonetics": [
+        "/ˈhæmpə(r)/"
+      ],
+      "meaning": "v. 妨碍，阻碍",
+      "promptMeaning": "v. 妨碍，阻碍",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "妨碍",
+        "阻碍"
+      ]
+    },
+    {
+      "id": 233,
+      "word": "harness",
+      "phonetic": "/ˈhɑːnɪs/",
+      "phonetics": [
+        "/ˈhɑːnɪs/"
+      ],
+      "meaning": "v. 利用，控制",
+      "promptMeaning": "v. 利用，控制",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "利用",
+        "控制"
+      ]
+    },
+    {
+      "id": 234,
+      "word": "hierarchy",
+      "phonetic": "/ˈhaɪərɑːki/",
+      "phonetics": [
+        "/ˈhaɪərɑːki/"
+      ],
+      "meaning": "n. 等级制度",
+      "promptMeaning": "n. 等级制度",
+      "pos": [
+        "n"
+      ],
+      "aliases": [],
+      "senses": [
+        "等级制度"
+      ]
+    },
+    {
+      "id": 235,
+      "word": "hinder",
+      "phonetic": "/ˈhɪndə(r)/",
+      "phonetics": [
+        "/ˈhɪndə(r)/"
+      ],
+      "meaning": "v. 阻碍，妨碍",
+      "promptMeaning": "v. 阻碍，妨碍",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "阻碍",
+        "妨碍"
+      ]
+    },
+    {
+      "id": 236,
+      "word": "homogeneous",
+      "phonetic": "/ˌhɒməˈdʒiːniəs/",
+      "phonetics": [
+        "/ˌhɒməˈdʒiːniəs/"
+      ],
+      "meaning": "adj. 同质的",
+      "promptMeaning": "adj. 同质的",
+      "pos": [
+        "adj"
+      ],
+      "aliases": [],
+      "senses": [
+        "同质的"
+      ]
+    },
+    {
+      "id": 237,
+      "word": "identify",
+      "phonetic": "/aɪˈdentɪfaɪ/",
+      "phonetics": [
+        "/aɪˈdentɪfaɪ/"
+      ],
+      "meaning": "v. 识别，确认",
+      "promptMeaning": "v. 识别，确认",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "识别",
+        "确认"
+      ]
+    },
+    {
+      "id": 238,
+      "word": "ignore",
+      "phonetic": "/ɪɡˈnɔː(r)/",
+      "phonetics": [
+        "/ɪɡˈnɔː(r)/"
+      ],
+      "meaning": "v. 忽视，不理睬",
+      "promptMeaning": "v. 忽视，不理睬",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "忽视",
+        "不理睬"
+      ]
+    },
+    {
+      "id": 239,
+      "word": "illustrate",
+      "phonetic": "/ˈɪləstreɪt/",
+      "phonetics": [
+        "/ˈɪləstreɪt/"
+      ],
+      "meaning": "v. 说明，举例",
+      "promptMeaning": "v. 说明，举例",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "说明",
+        "举例"
+      ]
+    },
+    {
+      "id": 240,
+      "word": "imitate",
+      "phonetic": "/ˈɪmɪteɪt/",
+      "phonetics": [
+        "/ˈɪmɪteɪt/"
+      ],
+      "meaning": "v. 模仿，仿效",
+      "promptMeaning": "v. 模仿，仿效",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "模仿",
+        "仿效"
+      ]
+    },
+    {
+      "id": 241,
+      "word": "impact",
+      "phonetic": "/ˈɪmpækt/",
+      "phonetics": [
+        "/ˈɪmpækt/",
+        "/ɪmˈpækt/"
+      ],
+      "meaning": "n. 影响；v. 冲击",
+      "promptMeaning": "n. 影响；v. 冲击",
+      "pos": [
+        "n",
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "影响",
+        "冲击"
+      ]
+    },
+    {
+      "id": 242,
+      "word": "implement",
+      "phonetic": "/ˈɪmplɪment/",
+      "phonetics": [
+        "/ˈɪmplɪment/"
+      ],
+      "meaning": "v. 实施，执行",
+      "promptMeaning": "v. 实施，执行",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "实施",
+        "执行"
+      ]
+    },
+    {
+      "id": 243,
+      "word": "imply",
+      "phonetic": "/ɪmˈplaɪ/",
+      "phonetics": [
+        "/ɪmˈplaɪ/"
+      ],
+      "meaning": "v. 暗示，意味着",
+      "promptMeaning": "v. 暗示，意味着",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "暗示",
+        "意味着"
+      ]
+    },
+    {
+      "id": 244,
+      "word": "impose",
+      "phonetic": "/ɪmˈpəʊz/",
+      "phonetics": [
+        "/ɪmˈpəʊz/"
+      ],
+      "meaning": "v. 强加，征收",
+      "promptMeaning": "v. 强加，征收",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "强加",
+        "征收"
+      ]
+    },
+    {
+      "id": 245,
+      "word": "inadequate",
+      "phonetic": "/ɪnˈædɪkwət/",
+      "phonetics": [
+        "/ɪnˈædɪkwət/"
+      ],
+      "meaning": "adj. 不足的，不充分的",
+      "promptMeaning": "adj. 不足的，不充分的",
+      "pos": [
+        "adj"
+      ],
+      "aliases": [],
+      "senses": [
+        "不足的",
+        "不充分的"
+      ]
+    },
+    {
+      "id": 246,
+      "word": "incorporate",
+      "phonetic": "/ɪnˈkɔːpəreɪt/",
+      "phonetics": [
+        "/ɪnˈkɔːpəreɪt/"
+      ],
+      "meaning": "v. 纳入，合并",
+      "promptMeaning": "v. 纳入，合并",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "纳入",
+        "合并"
+      ]
+    },
+    {
+      "id": 247,
+      "word": "index",
+      "phonetic": "/ˈɪndeks/",
+      "phonetics": [
+        "/ˈɪndeks/"
+      ],
+      "meaning": "n. 索引；指数",
+      "promptMeaning": "n. 索引；指数",
+      "pos": [
+        "n"
+      ],
+      "aliases": [],
+      "senses": [
+        "索引",
+        "指数"
+      ]
+    },
+    {
+      "id": 248,
+      "word": "indicate",
+      "phonetic": "/ˈɪndɪkeɪt/",
+      "phonetics": [
+        "/ˈɪndɪkeɪt/"
+      ],
+      "meaning": "v. 表明，指示",
+      "promptMeaning": "v. 表明，指示",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "表明",
+        "指示"
+      ]
+    },
+    {
+      "id": 249,
+      "word": "induce",
+      "phonetic": "/ɪnˈdjuːs/",
+      "phonetics": [
+        "/ɪnˈdjuːs/"
+      ],
+      "meaning": "v. 诱导，引起",
+      "promptMeaning": "v. 诱导，引起",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "诱导",
+        "引起"
+      ]
+    },
+    {
+      "id": 250,
+      "word": "inevitable",
+      "phonetic": "/ɪnˈevɪtəbl/",
+      "phonetics": [
+        "/ɪnˈevɪtəbl/"
+      ],
+      "meaning": "adj. 不可避免的",
+      "promptMeaning": "adj. 不可避免的",
+      "pos": [
+        "adj"
+      ],
+      "aliases": [],
+      "senses": [
+        "不可避免的"
+      ]
+    },
+    {
+      "id": 251,
+      "word": "infect",
+      "phonetic": "/ɪnˈfekt/",
+      "phonetics": [
+        "/ɪnˈfekt/"
+      ],
+      "meaning": "v. 感染，传染",
+      "promptMeaning": "v. 感染，传染",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "感染",
+        "传染"
+      ]
+    },
+    {
+      "id": 252,
+      "word": "infer",
+      "phonetic": "/ɪnˈfɜː(r)/",
+      "phonetics": [
+        "/ɪnˈfɜː(r)/"
+      ],
+      "meaning": "v. 推断，推论",
+      "promptMeaning": "v. 推断，推论",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "推断",
+        "推论"
+      ]
+    },
+    {
+      "id": 253,
+      "word": "inhibit",
+      "phonetic": "/ɪnˈhɪbɪt/",
+      "phonetics": [
+        "/ɪnˈhɪbɪt/"
+      ],
+      "meaning": "v. 抑制，阻止",
+      "promptMeaning": "v. 抑制，阻止",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "抑制",
+        "阻止"
+      ]
+    },
+    {
+      "id": 254,
+      "word": "initiate",
+      "phonetic": "/ɪˈnɪʃieɪt/",
+      "phonetics": [
+        "/ɪˈnɪʃieɪt/"
+      ],
+      "meaning": "v. 发起，启动",
+      "promptMeaning": "v. 发起，启动",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "发起",
+        "启动"
+      ]
+    },
+    {
+      "id": 255,
+      "word": "inject",
+      "phonetic": "/ɪnˈdʒekt/",
+      "phonetics": [
+        "/ɪnˈdʒekt/"
+      ],
+      "meaning": "v. 注射，注入",
+      "promptMeaning": "v. 注射，注入",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "注射",
+        "注入"
+      ]
+    },
+    {
+      "id": 256,
+      "word": "inland",
+      "phonetic": "/ˈɪnlænd/",
+      "phonetics": [
+        "/ˈɪnlænd/"
+      ],
+      "meaning": "adj. 内陆的",
+      "promptMeaning": "adj. 内陆的",
+      "pos": [
+        "adj"
+      ],
+      "aliases": [],
+      "senses": [
+        "内陆的"
+      ]
+    },
+    {
+      "id": 257,
+      "word": "insight",
+      "phonetic": "/ˈɪnsaɪt/",
+      "phonetics": [
+        "/ˈɪnsaɪt/"
+      ],
+      "meaning": "n. 洞察力，深刻理解",
+      "promptMeaning": "n. 洞察力，深刻理解",
+      "pos": [
+        "n"
+      ],
+      "aliases": [],
+      "senses": [
+        "洞察力",
+        "深刻理解"
+      ]
+    },
+    {
+      "id": 258,
+      "word": "inspect",
+      "phonetic": "/ɪnˈspekt/",
+      "phonetics": [
+        "/ɪnˈspekt/"
+      ],
+      "meaning": "v. 检查，视察",
+      "promptMeaning": "v. 检查，视察",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "检查",
+        "视察"
+      ]
+    },
+    {
+      "id": 259,
+      "word": "install",
+      "phonetic": "/ɪnˈstɔːl/",
+      "phonetics": [
+        "/ɪnˈstɔːl/"
+      ],
+      "meaning": "v. 安装，设置",
+      "promptMeaning": "v. 安装，设置",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "安装",
+        "设置"
+      ]
+    },
+    {
+      "id": 260,
+      "word": "institute",
+      "phonetic": "/ˈɪnstɪtjuːt/",
+      "phonetics": [
+        "/ˈɪnstɪtjuːt/"
+      ],
+      "meaning": "n. 机构，学院",
+      "promptMeaning": "n. 机构，学院",
+      "pos": [
+        "n"
+      ],
+      "aliases": [],
+      "senses": [
+        "机构",
+        "学院"
+      ]
+    },
+    {
+      "id": 261,
+      "word": "instruct",
+      "phonetic": "/ɪnˈstrʌkt/",
+      "phonetics": [
+        "/ɪnˈstrʌkt/"
+      ],
+      "meaning": "v. 指导，指示",
+      "promptMeaning": "v. 指导，指示",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "指导",
+        "指示"
+      ]
+    },
+    {
+      "id": 262,
+      "word": "integrate",
+      "phonetic": "/ˈɪntɪɡreɪt/",
+      "phonetics": [
+        "/ˈɪntɪɡreɪt/"
+      ],
+      "meaning": "v. 整合，融合",
+      "promptMeaning": "v. 整合，融合",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "整合",
+        "融合"
+      ]
+    },
+    {
+      "id": 263,
+      "word": "intend",
+      "phonetic": "/ɪnˈtend/",
+      "phonetics": [
+        "/ɪnˈtend/"
+      ],
+      "meaning": "v. 打算，意欲",
+      "promptMeaning": "v. 打算，意欲",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "打算",
+        "意欲"
+      ]
+    },
+    {
+      "id": 264,
+      "word": "interfere",
+      "phonetic": "/ˌɪntəˈfɪə(r)/",
+      "phonetics": [
+        "/ˌɪntəˈfɪə(r)/"
+      ],
+      "meaning": "v. 干涉，干扰",
+      "promptMeaning": "v. 干涉，干扰",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "干涉",
+        "干扰"
+      ]
+    },
+    {
+      "id": 265,
+      "word": "intermediate",
+      "phonetic": "/ˌɪntəˈmiːdiət/",
+      "phonetics": [
+        "/ˌɪntəˈmiːdiət/"
+      ],
+      "meaning": "adj. 中级的",
+      "promptMeaning": "adj. 中级的",
+      "pos": [
+        "adj"
+      ],
+      "aliases": [],
+      "senses": [
+        "中级的"
+      ]
+    },
+    {
+      "id": 266,
+      "word": "internal",
+      "phonetic": "/ɪnˈtɜːnl/",
+      "phonetics": [
+        "/ɪnˈtɜːnl/"
+      ],
+      "meaning": "adj. 内部的，国内的",
+      "promptMeaning": "adj. 内部的，国内的",
+      "pos": [
+        "adj"
+      ],
+      "aliases": [],
+      "senses": [
+        "内部的",
+        "国内的"
+      ]
+    },
+    {
+      "id": 267,
+      "word": "interpret",
+      "phonetic": "/ɪnˈtɜːprɪt/",
+      "phonetics": [
+        "/ɪnˈtɜːprɪt/"
+      ],
+      "meaning": "v. 解释，口译",
+      "promptMeaning": "v. 解释，口译",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "解释",
+        "口译"
+      ]
+    },
+    {
+      "id": 268,
+      "word": "interval",
+      "phonetic": "/ˈɪntəvl/",
+      "phonetics": [
+        "/ˈɪntəvl/"
+      ],
+      "meaning": "n. 间隔，间歇",
+      "promptMeaning": "n. 间隔，间歇",
+      "pos": [
+        "n"
+      ],
+      "aliases": [],
+      "senses": [
+        "间隔",
+        "间歇"
+      ]
+    },
+    {
+      "id": 269,
+      "word": "intervene",
+      "phonetic": "/ˌɪntəˈviːn/",
+      "phonetics": [
+        "/ˌɪntəˈviːn/"
+      ],
+      "meaning": "v. 干预，介入",
+      "promptMeaning": "v. 干预，介入",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "干预",
+        "介入"
+      ]
+    },
+    {
+      "id": 270,
+      "word": "intricate",
+      "phonetic": "/ˈɪntrɪkət/",
+      "phonetics": [
+        "/ˈɪntrɪkət/"
+      ],
+      "meaning": "adj. 错综复杂的",
+      "promptMeaning": "adj. 错综复杂的",
+      "pos": [
+        "adj"
+      ],
+      "aliases": [],
+      "senses": [
+        "错综复杂的"
+      ]
+    },
+    {
+      "id": 271,
+      "word": "introduce",
+      "phonetic": "/ˌɪntrəˈdjuːs/",
+      "phonetics": [
+        "/ˌɪntrəˈdjuːs/"
+      ],
+      "meaning": "v. 引进，介绍",
+      "promptMeaning": "v. 引进，介绍",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "引进",
+        "介绍"
+      ]
+    },
+    {
+      "id": 272,
+      "word": "invade",
+      "phonetic": "/ɪnˈveɪd/",
+      "phonetics": [
+        "/ɪnˈveɪd/"
+      ],
+      "meaning": "v. 入侵，侵扰",
+      "promptMeaning": "v. 入侵，侵扰",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "入侵",
+        "侵扰"
+      ]
+    },
+    {
+      "id": 273,
+      "word": "invent",
+      "phonetic": "/ɪnˈvent/",
+      "phonetics": [
+        "/ɪnˈvent/"
+      ],
+      "meaning": "v. 发明，创造",
+      "promptMeaning": "v. 发明，创造",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "发明",
+        "创造"
+      ]
+    },
+    {
+      "id": 274,
+      "word": "invest",
+      "phonetic": "/ɪnˈvest/",
+      "phonetics": [
+        "/ɪnˈvest/"
+      ],
+      "meaning": "v. 投资；投入",
+      "promptMeaning": "v. 投资；投入",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "投资",
+        "投入"
+      ]
+    },
+    {
+      "id": 275,
+      "word": "involve",
+      "phonetic": "/ɪnˈvɒlv/",
+      "phonetics": [
+        "/ɪnˈvɒlv/"
+      ],
+      "meaning": "v. 包含，牵涉",
+      "promptMeaning": "v. 包含，牵涉",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "包含",
+        "牵涉"
+      ]
+    },
+    {
+      "id": 276,
+      "word": "isolate",
+      "phonetic": "/ˈaɪsəleɪt/",
+      "phonetics": [
+        "/ˈaɪsəleɪt/"
+      ],
+      "meaning": "v. 隔离，使孤立",
+      "promptMeaning": "v. 隔离，使孤立",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "隔离",
+        "使孤立"
+      ]
+    },
+    {
+      "id": 277,
+      "word": "joint",
+      "phonetic": "/dʒɔɪnt/",
+      "phonetics": [
+        "/dʒɔɪnt/"
+      ],
+      "meaning": "adj. 联合的 n. 关节",
+      "promptMeaning": "adj. 联合的 n. 关节",
+      "pos": [
+        "adj",
+        "n"
+      ],
+      "aliases": [],
+      "senses": [
+        "联合的 关节",
+        "联合的关节"
+      ]
+    },
+    {
+      "id": 278,
+      "word": "justify",
+      "phonetic": "/ˈdʒʌstɪfaɪ/",
+      "phonetics": [
+        "/ˈdʒʌstɪfaɪ/"
+      ],
+      "meaning": "v. 证明合理，辩解",
+      "promptMeaning": "v. 证明合理，辩解",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "证明合理",
+        "辩解"
+      ]
+    },
+    {
+      "id": 279,
+      "word": "label",
+      "phonetic": "/ˈleɪbl/",
+      "phonetics": [
+        "/ˈleɪbl/"
+      ],
+      "meaning": "n. 标签 v. 标记",
+      "promptMeaning": "n. 标签 v. 标记",
+      "pos": [
+        "n",
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "标签 标记",
+        "标签标记"
+      ]
+    },
+    {
+      "id": 280,
+      "word": "lag",
+      "phonetic": "/læɡ/",
+      "phonetics": [
+        "/læɡ/"
+      ],
+      "meaning": "v./n. 滞后，落后",
+      "promptMeaning": "v./n. 滞后，落后",
+      "pos": [
+        "v",
+        "n"
+      ],
+      "aliases": [],
+      "senses": [
+        "滞后",
+        "落后"
+      ]
+    },
+    {
+      "id": 281,
+      "word": "layer",
+      "phonetic": "/ˈleɪə(r)/",
+      "phonetics": [
+        "/ˈleɪə(r)/"
+      ],
+      "meaning": "n. 层，层次",
+      "promptMeaning": "n. 层，层次",
+      "pos": [
+        "n"
+      ],
+      "aliases": [],
+      "senses": [
+        "层",
+        "层次"
+      ]
+    },
+    {
+      "id": 282,
+      "word": "lean",
+      "phonetic": "/liːn/",
+      "phonetics": [
+        "/liːn/"
+      ],
+      "meaning": "v. 倾斜 adj. 精简的",
+      "promptMeaning": "v. 倾斜 adj. 精简的",
+      "pos": [
+        "v",
+        "adj"
+      ],
+      "aliases": [],
+      "senses": [
+        "倾斜 精简的",
+        "倾斜精简的"
+      ]
+    },
+    {
+      "id": 283,
+      "word": "levy",
+      "phonetic": "/ˈlevi/",
+      "phonetics": [
+        "/ˈlevi/"
+      ],
+      "meaning": "v. 征收（税）",
+      "promptMeaning": "v. 征收（税）",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "征收",
+        "征收税"
+      ]
+    },
+    {
+      "id": 284,
+      "word": "liable",
+      "phonetic": "/ˈlaɪəbl/",
+      "phonetics": [
+        "/ˈlaɪəbl/"
+      ],
+      "meaning": "adj. 易于…的；负有责任",
+      "promptMeaning": "adj. 易于…的；负有责任",
+      "pos": [
+        "adj"
+      ],
+      "aliases": [],
+      "senses": [
+        "易于…的",
+        "负有责任"
+      ]
+    },
+    {
+      "id": 285,
+      "word": "liberal",
+      "phonetic": "/ˈlɪbərəl/",
+      "phonetics": [
+        "/ˈlɪbərəl/"
+      ],
+      "meaning": "adj. 开明的；自由的",
+      "promptMeaning": "adj. 开明的；自由的",
+      "pos": [
+        "adj"
+      ],
+      "aliases": [],
+      "senses": [
+        "开明的",
+        "自由的"
+      ]
+    },
+    {
+      "id": 286,
+      "word": "license",
+      "phonetic": "/ˈlaɪsns/",
+      "phonetics": [
+        "/ˈlaɪsns/"
+      ],
+      "meaning": "n. 执照，许可",
+      "promptMeaning": "n. 执照，许可",
+      "pos": [
+        "n"
+      ],
+      "aliases": [],
+      "senses": [
+        "执照",
+        "许可"
+      ]
+    },
+    {
+      "id": 287,
+      "word": "likelihood",
+      "phonetic": "/ˈlaɪklihʊd/",
+      "phonetics": [
+        "/ˈlaɪklihʊd/"
+      ],
+      "meaning": "n. 可能性",
+      "promptMeaning": "n. 可能性",
+      "pos": [
+        "n"
+      ],
+      "aliases": [],
+      "senses": [
+        "可能性"
+      ]
+    },
+    {
+      "id": 288,
+      "word": "limited",
+      "phonetic": "/ˈlɪmɪtɪd/",
+      "phonetics": [
+        "/ˈlɪmɪtɪd/"
+      ],
+      "meaning": "adj. 有限的",
+      "promptMeaning": "adj. 有限的",
+      "pos": [
+        "adj"
+      ],
+      "aliases": [],
+      "senses": [
+        "有限的"
+      ]
+    },
+    {
+      "id": 289,
+      "word": "link",
+      "phonetic": "/lɪŋk/",
+      "phonetics": [
+        "/lɪŋk/"
+      ],
+      "meaning": "v./n. 连接，关联",
+      "promptMeaning": "v./n. 连接，关联",
+      "pos": [
+        "v",
+        "n"
+      ],
+      "aliases": [],
+      "senses": [
+        "连接",
+        "关联"
+      ]
+    },
+    {
+      "id": 290,
+      "word": "literacy",
+      "phonetic": "/ˈlɪtərəsi/",
+      "phonetics": [
+        "/ˈlɪtərəsi/"
+      ],
+      "meaning": "n. 读写能力",
+      "promptMeaning": "n. 读写能力",
+      "pos": [
+        "n"
+      ],
+      "aliases": [],
+      "senses": [
+        "读写能力"
+      ]
+    },
+    {
+      "id": 291,
+      "word": "locate",
+      "phonetic": "/ləʊˈkeɪt/",
+      "phonetics": [
+        "/ləʊˈkeɪt/"
+      ],
+      "meaning": "v. 定位，坐落于",
+      "promptMeaning": "v. 定位，坐落于",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "定位",
+        "坐落于"
+      ]
+    },
+    {
+      "id": 292,
+      "word": "logical",
+      "phonetic": "/ˈlɒdʒɪkl/",
+      "phonetics": [
+        "/ˈlɒdʒɪkl/"
+      ],
+      "meaning": "adj. 合乎逻辑的",
+      "promptMeaning": "adj. 合乎逻辑的",
+      "pos": [
+        "adj"
+      ],
+      "aliases": [],
+      "senses": [
+        "合乎逻辑的"
+      ]
+    },
+    {
+      "id": 293,
+      "word": "lump",
+      "phonetic": "/lʌmp/",
+      "phonetics": [
+        "/lʌmp/"
+      ],
+      "meaning": "n. 块 v. 合并",
+      "promptMeaning": "n. 块 v. 合并",
+      "pos": [
+        "n",
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "块 合并",
+        "块合并"
+      ]
+    },
+    {
+      "id": 294,
+      "word": "maintain",
+      "phonetic": "/meɪnˈteɪn/",
+      "phonetics": [
+        "/meɪnˈteɪn/"
+      ],
+      "meaning": "v. 维持；主张",
+      "promptMeaning": "v. 维持；主张",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "维持",
+        "主张"
+      ]
+    },
+    {
+      "id": 295,
+      "word": "manifest",
+      "phonetic": "/ˈmænɪfest/",
+      "phonetics": [
+        "/ˈmænɪfest/"
+      ],
+      "meaning": "adj. 明显的 v. 显现",
+      "promptMeaning": "adj. 明显的 v. 显现",
+      "pos": [
+        "adj",
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "明显的 显现",
+        "明显的显现"
+      ]
+    },
+    {
+      "id": 296,
+      "word": "manipulate",
+      "phonetic": "/məˈnɪpjuleɪt/",
+      "phonetics": [
+        "/məˈnɪpjuleɪt/"
+      ],
+      "meaning": "v. 操纵，操控",
+      "promptMeaning": "v. 操纵，操控",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "操纵",
+        "操控"
+      ]
+    },
+    {
+      "id": 297,
+      "word": "marginal",
+      "phonetic": "/ˈmɑːdʒɪnl/",
+      "phonetics": [
+        "/ˈmɑːdʒɪnl/"
+      ],
+      "meaning": "adj. 微小的，边缘的",
+      "promptMeaning": "adj. 微小的，边缘的",
+      "pos": [
+        "adj"
+      ],
+      "aliases": [],
+      "senses": [
+        "微小的",
+        "边缘的"
+      ]
+    },
+    {
+      "id": 298,
+      "word": "mature",
+      "phonetic": "/məˈtʃʊə(r)/",
+      "phonetics": [
+        "/məˈtʃʊə(r)/"
+      ],
+      "meaning": "adj. 成熟的",
+      "promptMeaning": "adj. 成熟的",
+      "pos": [
+        "adj"
+      ],
+      "aliases": [],
+      "senses": [
+        "成熟的"
+      ]
+    },
+    {
+      "id": 299,
+      "word": "maximum",
+      "phonetic": "/ˈmæksɪməm/",
+      "phonetics": [
+        "/ˈmæksɪməm/"
+      ],
+      "meaning": "adj. 最大的 n. 最大值",
+      "promptMeaning": "adj. 最大的 n. 最大值",
+      "pos": [
+        "adj",
+        "n"
+      ],
+      "aliases": [],
+      "senses": [
+        "最大的 最大值",
+        "最大的最大值"
+      ]
+    },
+    {
+      "id": 300,
+      "word": "mechanism",
+      "phonetic": "/ˈmekənɪzəm/",
+      "phonetics": [
+        "/ˈmekənɪzəm/"
+      ],
+      "meaning": "n. 机制，机理",
+      "promptMeaning": "n. 机制，机理",
+      "pos": [
+        "n"
+      ],
+      "aliases": [],
+      "senses": [
+        "机制",
+        "机理"
+      ]
+    },
+    {
+      "id": 301,
+      "word": "medium",
+      "phonetic": "/ˈmiːdiəm/",
+      "phonetics": [
+        "/ˈmiːdiəm/"
+      ],
+      "meaning": "n. 媒介，中间物 adj. 中等的",
+      "promptMeaning": "n. 媒介，中间物 adj. 中等的",
+      "pos": [
+        "n",
+        "adj"
+      ],
+      "aliases": [],
+      "senses": [
+        "媒介",
+        "中间物 中等的",
+        "中间物中等的"
+      ]
+    },
+    {
+      "id": 302,
+      "word": "merge",
+      "phonetic": "/mɜːdʒ/",
+      "phonetics": [
+        "/mɜːdʒ/"
+      ],
+      "meaning": "v. 合并，融合",
+      "promptMeaning": "v. 合并，融合",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "合并",
+        "融合"
+      ]
+    },
+    {
+      "id": 303,
+      "word": "merit",
+      "phonetic": "/ˈmerɪt/",
+      "phonetics": [
+        "/ˈmerɪt/"
+      ],
+      "meaning": "n. 优点，价值",
+      "promptMeaning": "n. 优点，价值",
+      "pos": [
+        "n"
+      ],
+      "aliases": [],
+      "senses": [
+        "优点",
+        "价值"
+      ]
+    },
+    {
+      "id": 304,
+      "word": "migrate",
+      "phonetic": "/ˈmaɪɡreɪt/",
+      "phonetics": [
+        "/ˈmaɪɡreɪt/"
+      ],
+      "meaning": "v. 迁移，迁徙",
+      "promptMeaning": "v. 迁移，迁徙",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "迁移",
+        "迁徙"
+      ]
+    },
+    {
+      "id": 305,
+      "word": "minimum",
+      "phonetic": "/ˈmɪnɪməm/",
+      "phonetics": [
+        "/ˈmɪnɪməm/"
+      ],
+      "meaning": "adj. 最小的 n. 最小值",
+      "promptMeaning": "adj. 最小的 n. 最小值",
+      "pos": [
+        "adj",
+        "n"
+      ],
+      "aliases": [],
+      "senses": [
+        "最小的 最小值",
+        "最小的最小值"
+      ]
+    },
+    {
+      "id": 306,
+      "word": "minor",
+      "phonetic": "/ˈmaɪnə(r)/",
+      "phonetics": [
+        "/ˈmaɪnə(r)/"
+      ],
+      "meaning": "adj. 次要的，较小的",
+      "promptMeaning": "adj. 次要的，较小的",
+      "pos": [
+        "adj"
+      ],
+      "aliases": [],
+      "senses": [
+        "次要的",
+        "较小的"
+      ]
+    },
+    {
+      "id": 307,
+      "word": "mirror",
+      "phonetic": "/ˈmɪrə(r)/",
+      "phonetics": [
+        "/ˈmɪrə(r)/"
+      ],
+      "meaning": "n. 镜子 v. 反映",
+      "promptMeaning": "n. 镜子 v. 反映",
+      "pos": [
+        "n",
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "镜子 反映",
+        "镜子反映"
+      ]
+    },
+    {
+      "id": 308,
+      "word": "mobile",
+      "phonetic": "/ˈməʊbaɪl/",
+      "phonetics": [
+        "/ˈməʊbaɪl/"
+      ],
+      "meaning": "adj. 可移动的",
+      "promptMeaning": "adj. 可移动的",
+      "pos": [
+        "adj"
+      ],
+      "aliases": [],
+      "senses": [
+        "可移动的"
+      ]
+    },
+    {
+      "id": 309,
+      "word": "modify",
+      "phonetic": "/ˈmɒdɪfaɪ/",
+      "phonetics": [
+        "/ˈmɒdɪfaɪ/"
+      ],
+      "meaning": "v. 修改，调整",
+      "promptMeaning": "v. 修改，调整",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "修改",
+        "调整"
+      ]
+    },
+    {
+      "id": 310,
+      "word": "monitor",
+      "phonetic": "/ˈmɒnɪtə(r)/",
+      "phonetics": [
+        "/ˈmɒnɪtə(r)/"
+      ],
+      "meaning": "v. 监控 n. 监视器",
+      "promptMeaning": "v. 监控 n. 监视器",
+      "pos": [
+        "v",
+        "n"
+      ],
+      "aliases": [],
+      "senses": [
+        "监控 监视器",
+        "监控监视器"
+      ]
+    },
+    {
+      "id": 311,
+      "word": "monopoly",
+      "phonetic": "/məˈnɒpəli/",
+      "phonetics": [
+        "/məˈnɒpəli/"
+      ],
+      "meaning": "n. 垄断",
+      "promptMeaning": "n. 垄断",
+      "pos": [
+        "n"
+      ],
+      "aliases": [],
+      "senses": [
+        "垄断"
+      ]
+    },
+    {
+      "id": 312,
+      "word": "moral",
+      "phonetic": "/ˈmɒrəl/",
+      "phonetics": [
+        "/ˈmɒrəl/"
+      ],
+      "meaning": "adj. 道德的",
+      "promptMeaning": "adj. 道德的",
+      "pos": [
+        "adj"
+      ],
+      "aliases": [],
+      "senses": [
+        "道德的"
+      ]
+    },
+    {
+      "id": 313,
+      "word": "mortal",
+      "phonetic": "/ˈmɔːtl/",
+      "phonetics": [
+        "/ˈmɔːtl/"
+      ],
+      "meaning": "adj. 致命的；终有一死的",
+      "promptMeaning": "adj. 致命的；终有一死的",
+      "pos": [
+        "adj"
+      ],
+      "aliases": [],
+      "senses": [
+        "致命的",
+        "终有一死的"
+      ]
+    },
+    {
+      "id": 314,
+      "word": "motivate",
+      "phonetic": "/ˈməʊtɪveɪt/",
+      "phonetics": [
+        "/ˈməʊtɪveɪt/"
+      ],
+      "meaning": "v. 激励，激发",
+      "promptMeaning": "v. 激励，激发",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "激励",
+        "激发"
+      ]
+    },
+    {
+      "id": 315,
+      "word": "mutual",
+      "phonetic": "/ˈmjuːtʃuəl/",
+      "phonetics": [
+        "/ˈmjuːtʃuəl/"
+      ],
+      "meaning": "adj. 相互的，共同的",
+      "promptMeaning": "adj. 相互的，共同的",
+      "pos": [
+        "adj"
+      ],
+      "aliases": [],
+      "senses": [
+        "相互的",
+        "共同的"
+      ]
+    },
+    {
+      "id": 316,
+      "word": "narrow",
+      "phonetic": "/ˈnærəʊ/",
+      "phonetics": [
+        "/ˈnærəʊ/"
+      ],
+      "meaning": "adj. 狭窄的 v. 缩小",
+      "promptMeaning": "adj. 狭窄的 v. 缩小",
+      "pos": [
+        "adj",
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "狭窄的 缩小",
+        "狭窄的缩小"
+      ]
+    },
+    {
+      "id": 317,
+      "word": "negate",
+      "phonetic": "/nɪˈɡeɪt/",
+      "phonetics": [
+        "/nɪˈɡeɪt/"
+      ],
+      "meaning": "v. 否定，抵消",
+      "promptMeaning": "v. 否定，抵消",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "否定",
+        "抵消"
+      ]
+    },
+    {
+      "id": 318,
+      "word": "negotiate",
+      "phonetic": "/nɪˈɡəʊʃieɪt/",
+      "phonetics": [
+        "/nɪˈɡəʊʃieɪt/"
+      ],
+      "meaning": "v. 谈判，协商",
+      "promptMeaning": "v. 谈判，协商",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "谈判",
+        "协商"
+      ]
+    },
+    {
+      "id": 319,
+      "word": "neutral",
+      "phonetic": "/ˈnjuːtrəl/",
+      "phonetics": [
+        "/ˈnjuːtrəl/"
+      ],
+      "meaning": "adj. 中立的",
+      "promptMeaning": "adj. 中立的",
+      "pos": [
+        "adj"
+      ],
+      "aliases": [],
+      "senses": [
+        "中立的"
+      ]
+    },
+    {
+      "id": 320,
+      "word": "nonetheless",
+      "phonetic": "/ˌnʌnðəˈles/",
+      "phonetics": [
+        "/ˌnʌnðəˈles/"
+      ],
+      "meaning": "adv. 尽管如此",
+      "promptMeaning": "adv. 尽管如此",
+      "pos": [
+        "adv"
+      ],
+      "aliases": [],
+      "senses": [
+        "尽管如此"
+      ]
+    },
+    {
+      "id": 321,
+      "word": "norm",
+      "phonetic": "/nɔːm/",
+      "phonetics": [
+        "/nɔːm/"
+      ],
+      "meaning": "n. 规范，标准",
+      "promptMeaning": "n. 规范，标准",
+      "pos": [
+        "n"
+      ],
+      "aliases": [],
+      "senses": [
+        "规范",
+        "标准"
+      ]
+    },
+    {
+      "id": 322,
+      "word": "notable",
+      "phonetic": "/ˈnəʊtəbl/",
+      "phonetics": [
+        "/ˈnəʊtəbl/"
+      ],
+      "meaning": "adj. 显著的，著名的",
+      "promptMeaning": "adj. 显著的，著名的",
+      "pos": [
+        "adj"
+      ],
+      "aliases": [],
+      "senses": [
+        "显著的",
+        "著名的"
+      ]
+    },
+    {
+      "id": 323,
+      "word": "notify",
+      "phonetic": "/ˈnəʊtɪfaɪ/",
+      "phonetics": [
+        "/ˈnəʊtɪfaɪ/"
+      ],
+      "meaning": "v. 通知，告知",
+      "promptMeaning": "v. 通知，告知",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "通知",
+        "告知"
+      ]
+    },
+    {
+      "id": 324,
+      "word": "nourish",
+      "phonetic": "/ˈnʌrɪʃ/",
+      "phonetics": [
+        "/ˈnʌrɪʃ/"
+      ],
+      "meaning": "v. 滋养，培育",
+      "promptMeaning": "v. 滋养，培育",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "滋养",
+        "培育"
+      ]
+    },
+    {
+      "id": 325,
+      "word": "novel",
+      "phonetic": "/ˈnɒvl/",
+      "phonetics": [
+        "/ˈnɒvl/"
+      ],
+      "meaning": "adj. 新颖的 n. 小说",
+      "promptMeaning": "adj. 新颖的 n. 小说",
+      "pos": [
+        "adj",
+        "n"
+      ],
+      "aliases": [],
+      "senses": [
+        "新颖的 小说",
+        "新颖的小说"
+      ]
+    },
+    {
+      "id": 326,
+      "word": "nuclear",
+      "phonetic": "/ˈnjuːkliə(r)/",
+      "phonetics": [
+        "/ˈnjuːkliə(r)/"
+      ],
+      "meaning": "adj. 核的，原子核的",
+      "promptMeaning": "adj. 核的，原子核的",
+      "pos": [
+        "adj"
+      ],
+      "aliases": [],
+      "senses": [
+        "核的",
+        "原子核的"
+      ]
+    },
+    {
+      "id": 327,
+      "word": "objective",
+      "phonetic": "/əbˈdʒektɪv/",
+      "phonetics": [
+        "/əbˈdʒektɪv/"
+      ],
+      "meaning": "adj. 客观的 n. 目标",
+      "promptMeaning": "adj. 客观的 n. 目标",
+      "pos": [
+        "adj",
+        "n"
+      ],
+      "aliases": [],
+      "senses": [
+        "客观的 目标",
+        "客观的目标"
+      ]
+    },
+    {
+      "id": 328,
+      "word": "obscure",
+      "phonetic": "/əbˈskjʊə(r)/",
+      "phonetics": [
+        "/əbˈskjʊə(r)/"
+      ],
+      "meaning": "adj. 晦涩的 v. 掩盖",
+      "promptMeaning": "adj. 晦涩的 v. 掩盖",
+      "pos": [
+        "adj",
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "晦涩的 掩盖",
+        "晦涩的掩盖"
+      ]
+    },
+    {
+      "id": 329,
+      "word": "obtain",
+      "phonetic": "/əbˈteɪn/",
+      "phonetics": [
+        "/əbˈteɪn/"
+      ],
+      "meaning": "v. 获得，得到",
+      "promptMeaning": "v. 获得，得到",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "获得",
+        "得到"
+      ]
+    },
+    {
+      "id": 330,
+      "word": "obvious",
+      "phonetic": "/ˈɒbviəs/",
+      "phonetics": [
+        "/ˈɒbviəs/"
+      ],
+      "meaning": "adj. 明显的",
+      "promptMeaning": "adj. 明显的",
+      "pos": [
+        "adj"
+      ],
+      "aliases": [],
+      "senses": [
+        "明显的"
+      ]
+    },
+    {
+      "id": 331,
+      "word": "occupy",
+      "phonetic": "/ˈɒkjupaɪ/",
+      "phonetics": [
+        "/ˈɒkjupaɪ/"
+      ],
+      "meaning": "v. 占据，占用",
+      "promptMeaning": "v. 占据，占用",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "占据",
+        "占用"
+      ]
+    },
+    {
+      "id": 332,
+      "word": "offset",
+      "phonetic": "/ˈɒfset/",
+      "phonetics": [
+        "/ˈɒfset/"
+      ],
+      "meaning": "v. 抵消，弥补",
+      "promptMeaning": "v. 抵消，弥补",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "抵消",
+        "弥补"
+      ]
+    },
+    {
+      "id": 333,
+      "word": "omit",
+      "phonetic": "/əˈmɪt/",
+      "phonetics": [
+        "/əˈmɪt/"
+      ],
+      "meaning": "v. 省略，遗漏",
+      "promptMeaning": "v. 省略，遗漏",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "省略",
+        "遗漏"
+      ]
+    },
+    {
+      "id": 334,
+      "word": "ongoing",
+      "phonetic": "/ˈɒnɡəʊɪŋ/",
+      "phonetics": [
+        "/ˈɒnɡəʊɪŋ/"
+      ],
+      "meaning": "adj. 持续进行的",
+      "promptMeaning": "adj. 持续进行的",
+      "pos": [
+        "adj"
+      ],
+      "aliases": [],
+      "senses": [
+        "持续进行的"
+      ]
+    },
+    {
+      "id": 335,
+      "word": "operate",
+      "phonetic": "/ˈɒpəreɪt/",
+      "phonetics": [
+        "/ˈɒpəreɪt/"
+      ],
+      "meaning": "v. 操作，运转",
+      "promptMeaning": "v. 操作，运转",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "操作",
+        "运转"
+      ]
+    },
+    {
+      "id": 336,
+      "word": "opponent",
+      "phonetic": "/əˈpəʊnənt/",
+      "phonetics": [
+        "/əˈpəʊnənt/"
+      ],
+      "meaning": "n. 对手，反对者",
+      "promptMeaning": "n. 对手，反对者",
+      "pos": [
+        "n"
+      ],
+      "aliases": [],
+      "senses": [
+        "对手",
+        "反对者"
+      ]
+    },
+    {
+      "id": 337,
+      "word": "optimal",
+      "phonetic": "/ˈɒptɪməl/",
+      "phonetics": [
+        "/ˈɒptɪməl/"
+      ],
+      "meaning": "adj. 最佳的",
+      "promptMeaning": "adj. 最佳的",
+      "pos": [
+        "adj"
+      ],
+      "aliases": [],
+      "senses": [
+        "最佳的"
+      ]
+    },
+    {
+      "id": 338,
+      "word": "orbit",
+      "phonetic": "/ˈɔːbɪt/",
+      "phonetics": [
+        "/ˈɔːbɪt/"
+      ],
+      "meaning": "n. 轨道 v. 环绕",
+      "promptMeaning": "n. 轨道 v. 环绕",
+      "pos": [
+        "n",
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "轨道 环绕",
+        "轨道环绕"
+      ]
+    },
+    {
+      "id": 339,
+      "word": "organic",
+      "phonetic": "/ɔːˈɡænɪk/",
+      "phonetics": [
+        "/ɔːˈɡænɪk/"
+      ],
+      "meaning": "adj. 有机的",
+      "promptMeaning": "adj. 有机的",
+      "pos": [
+        "adj"
+      ],
+      "aliases": [],
+      "senses": [
+        "有机的"
+      ]
+    },
+    {
+      "id": 340,
+      "word": "orient",
+      "phonetic": "/ˈɔːriənt/",
+      "phonetics": [
+        "/ˈɔːriənt/"
+      ],
+      "meaning": "v. 使适应；确定方向",
+      "promptMeaning": "v. 使适应；确定方向",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "使适应",
+        "确定方向"
+      ]
+    },
+    {
+      "id": 341,
+      "word": "originate",
+      "phonetic": "/əˈrɪdʒɪneɪt/",
+      "phonetics": [
+        "/əˈrɪdʒɪneɪt/"
+      ],
+      "meaning": "v. 起源于，发源",
+      "promptMeaning": "v. 起源于，发源",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "起源于",
+        "发源"
+      ]
+    },
+    {
+      "id": 342,
+      "word": "output",
+      "phonetic": "/ˈaʊtpʊt/",
+      "phonetics": [
+        "/ˈaʊtpʊt/"
+      ],
+      "meaning": "n. 产出，产量",
+      "promptMeaning": "n. 产出，产量",
+      "pos": [
+        "n"
+      ],
+      "aliases": [],
+      "senses": [
+        "产出",
+        "产量"
+      ]
+    },
+    {
+      "id": 343,
+      "word": "overall",
+      "phonetic": "/ˌəʊvərˈɔːl/",
+      "phonetics": [
+        "/ˌəʊvərˈɔːl/"
+      ],
+      "meaning": "adj. 总体的",
+      "promptMeaning": "adj. 总体的",
+      "pos": [
+        "adj"
+      ],
+      "aliases": [],
+      "senses": [
+        "总体的"
+      ]
+    },
+    {
+      "id": 344,
+      "word": "overlap",
+      "phonetic": "/ˌəʊvəˈlæp/",
+      "phonetics": [
+        "/ˌəʊvəˈlæp/"
+      ],
+      "meaning": "v./n. 重叠",
+      "promptMeaning": "v./n. 重叠",
+      "pos": [
+        "v",
+        "n"
+      ],
+      "aliases": [],
+      "senses": [
+        "重叠"
+      ]
+    },
+    {
+      "id": 345,
+      "word": "overlook",
+      "phonetic": "/ˌəʊvəˈlʊk/",
+      "phonetics": [
+        "/ˌəʊvəˈlʊk/"
+      ],
+      "meaning": "v. 忽视；俯瞰",
+      "promptMeaning": "v. 忽视；俯瞰",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "忽视",
+        "俯瞰"
+      ]
+    },
+    {
+      "id": 346,
+      "word": "pace",
+      "phonetic": "/peɪs/",
+      "phonetics": [
+        "/peɪs/"
+      ],
+      "meaning": "n. 速度，步伐",
+      "promptMeaning": "n. 速度，步伐",
+      "pos": [
+        "n"
+      ],
+      "aliases": [],
+      "senses": [
+        "速度",
+        "步伐"
+      ]
+    },
+    {
+      "id": 347,
+      "word": "panel",
+      "phonetic": "/ˈpænl/",
+      "phonetics": [
+        "/ˈpænl/"
+      ],
+      "meaning": "n. 面板；专家组",
+      "promptMeaning": "n. 面板；专家组",
+      "pos": [
+        "n"
+      ],
+      "aliases": [],
+      "senses": [
+        "面板",
+        "专家组"
+      ]
+    },
+    {
+      "id": 348,
+      "word": "parallel",
+      "phonetic": "/ˈpærəlel/",
+      "phonetics": [
+        "/ˈpærəlel/"
+      ],
+      "meaning": "adj. 平行的",
+      "promptMeaning": "adj. 平行的",
+      "pos": [
+        "adj"
+      ],
+      "aliases": [],
+      "senses": [
+        "平行的"
+      ]
+    },
+    {
+      "id": 349,
+      "word": "participant",
+      "phonetic": "/pɑːˈtɪsɪpənt/",
+      "phonetics": [
+        "/pɑːˈtɪsɪpənt/"
+      ],
+      "meaning": "n. 参与者",
+      "promptMeaning": "n. 参与者",
+      "pos": [
+        "n"
+      ],
+      "aliases": [],
+      "senses": [
+        "参与者"
+      ]
+    },
+    {
+      "id": 350,
+      "word": "penetrate",
+      "phonetic": "/ˈpenɪtreɪt/",
+      "phonetics": [
+        "/ˈpenɪtreɪt/"
+      ],
+      "meaning": "v. 穿透，渗入",
+      "promptMeaning": "v. 穿透，渗入",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "穿透",
+        "渗入"
+      ]
+    },
+    {
+      "id": 351,
+      "word": "perceive",
+      "phonetic": "/pəˈsiːv/",
+      "phonetics": [
+        "/pəˈsiːv/"
+      ],
+      "meaning": "v. 感知，理解",
+      "promptMeaning": "v. 感知，理解",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "感知",
+        "理解"
+      ]
+    },
+    {
+      "id": 352,
+      "word": "permanent",
+      "phonetic": "/ˈpɜːmənənt/",
+      "phonetics": [
+        "/ˈpɜːmənənt/"
+      ],
+      "meaning": "adj. 永久的",
+      "promptMeaning": "adj. 永久的",
+      "pos": [
+        "adj"
+      ],
+      "aliases": [],
+      "senses": [
+        "永久的"
+      ]
+    },
+    {
+      "id": 353,
+      "word": "persist",
+      "phonetic": "/pəˈsɪst/",
+      "phonetics": [
+        "/pəˈsɪst/"
+      ],
+      "meaning": "v. 坚持，持续",
+      "promptMeaning": "v. 坚持，持续",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "坚持",
+        "持续"
+      ]
+    },
+    {
+      "id": 354,
+      "word": "perspective",
+      "phonetic": "/pəˈspektɪv/",
+      "phonetics": [
+        "/pəˈspektɪv/"
+      ],
+      "meaning": "n. 视角，观点",
+      "promptMeaning": "n. 视角，观点",
+      "pos": [
+        "n"
+      ],
+      "aliases": [],
+      "senses": [
+        "视角",
+        "观点"
+      ]
+    },
+    {
+      "id": 355,
+      "word": "phase",
+      "phonetic": "/feɪz/",
+      "phonetics": [
+        "/feɪz/"
+      ],
+      "meaning": "n. 阶段，时期",
+      "promptMeaning": "n. 阶段，时期",
+      "pos": [
+        "n"
+      ],
+      "aliases": [],
+      "senses": [
+        "阶段",
+        "时期"
+      ]
+    },
+    {
+      "id": 356,
+      "word": "phenomenon",
+      "phonetic": "/fəˈnɒmɪnən/",
+      "phonetics": [
+        "/fəˈnɒmɪnən/"
+      ],
+      "meaning": "n. 现象",
+      "promptMeaning": "n. 现象",
+      "pos": [
+        "n"
+      ],
+      "aliases": [],
+      "senses": [
+        "现象"
+      ]
+    },
+    {
+      "id": 357,
+      "word": "physical",
+      "phonetic": "/ˈfɪzɪkl/",
+      "phonetics": [
+        "/ˈfɪzɪkl/"
+      ],
+      "meaning": "adj. 物理的，身体的",
+      "promptMeaning": "adj. 物理的，身体的",
+      "pos": [
+        "adj"
+      ],
+      "aliases": [],
+      "senses": [
+        "物理的",
+        "身体的"
+      ]
+    },
+    {
+      "id": 358,
+      "word": "pitch",
+      "phonetic": "/pɪtʃ/",
+      "phonetics": [
+        "/pɪtʃ/"
+      ],
+      "meaning": "v. 推销；投掷 n. 音调",
+      "promptMeaning": "v. 推销；投掷 n. 音调",
+      "pos": [
+        "v",
+        "n"
+      ],
+      "aliases": [],
+      "senses": [
+        "推销",
+        "投掷 音调",
+        "投掷音调"
+      ]
+    },
+    {
+      "id": 359,
+      "word": "plausible",
+      "phonetic": "/ˈplɔːzəbl/",
+      "phonetics": [
+        "/ˈplɔːzəbl/"
+      ],
+      "meaning": "adj. 貌似合理的",
+      "promptMeaning": "adj. 貌似合理的",
+      "pos": [
+        "adj"
+      ],
+      "aliases": [],
+      "senses": [
+        "貌似合理的"
+      ]
+    },
+    {
+      "id": 360,
+      "word": "polar",
+      "phonetic": "/ˈpəʊlə(r)/",
+      "phonetics": [
+        "/ˈpəʊlə(r)/"
+      ],
+      "meaning": "adj. 极地的；截然相反的",
+      "promptMeaning": "adj. 极地的；截然相反的",
+      "pos": [
+        "adj"
+      ],
+      "aliases": [],
+      "senses": [
+        "极地的",
+        "截然相反的"
+      ]
+    },
+    {
+      "id": 361,
+      "word": "policy",
+      "phonetic": "/ˈpɒləsi/",
+      "phonetics": [
+        "/ˈpɒləsi/"
+      ],
+      "meaning": "n. 政策，方针",
+      "promptMeaning": "n. 政策，方针",
+      "pos": [
+        "n"
+      ],
+      "aliases": [],
+      "senses": [
+        "政策",
+        "方针"
+      ]
+    },
+    {
+      "id": 362,
+      "word": "pose",
+      "phonetic": "/pəʊz/",
+      "phonetics": [
+        "/pəʊz/"
+      ],
+      "meaning": "v. 造成；摆姿势",
+      "promptMeaning": "v. 造成；摆姿势",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "造成",
+        "摆姿势"
+      ]
+    },
+    {
+      "id": 363,
+      "word": "positive",
+      "phonetic": "/ˈpɒzətɪv/",
+      "phonetics": [
+        "/ˈpɒzətɪv/"
+      ],
+      "meaning": "adj. 积极的，肯定的",
+      "promptMeaning": "adj. 积极的，肯定的",
+      "pos": [
+        "adj"
+      ],
+      "aliases": [],
+      "senses": [
+        "积极的",
+        "肯定的"
+      ]
+    },
+    {
+      "id": 364,
+      "word": "potential",
+      "phonetic": "/pəˈtenʃl/",
+      "phonetics": [
+        "/pəˈtenʃl/"
+      ],
+      "meaning": "adj. 潜在的 n. 潜力",
+      "promptMeaning": "adj. 潜在的 n. 潜力",
+      "pos": [
+        "adj",
+        "n"
+      ],
+      "aliases": [],
+      "senses": [
+        "潜在的 潜力",
+        "潜在的潜力"
+      ]
+    },
+    {
+      "id": 365,
+      "word": "practicable",
+      "phonetic": "/ˈpræktɪkəbl/",
+      "phonetics": [
+        "/ˈpræktɪkəbl/"
+      ],
+      "meaning": "adj. 可行的",
+      "promptMeaning": "adj. 可行的",
+      "pos": [
+        "adj"
+      ],
+      "aliases": [],
+      "senses": [
+        "可行的"
+      ]
+    },
+    {
+      "id": 366,
+      "word": "precede",
+      "phonetic": "/prɪˈsiːd/",
+      "phonetics": [
+        "/prɪˈsiːd/"
+      ],
+      "meaning": "v. 在…之前，先于",
+      "promptMeaning": "v. 在…之前，先于",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "在…之前",
+        "先于"
+      ]
+    },
+    {
+      "id": 367,
+      "word": "precious",
+      "phonetic": "/ˈpreʃəs/",
+      "phonetics": [
+        "/ˈpreʃəs/"
+      ],
+      "meaning": "adj. 珍贵的",
+      "promptMeaning": "adj. 珍贵的",
+      "pos": [
+        "adj"
+      ],
+      "aliases": [],
+      "senses": [
+        "珍贵的"
+      ]
+    },
+    {
+      "id": 368,
+      "word": "precise",
+      "phonetic": "/prɪˈsaɪs/",
+      "phonetics": [
+        "/prɪˈsaɪs/"
+      ],
+      "meaning": "adj. 精确的",
+      "promptMeaning": "adj. 精确的",
+      "pos": [
+        "adj"
+      ],
+      "aliases": [],
+      "senses": [
+        "精确的"
+      ]
+    },
+    {
+      "id": 369,
+      "word": "predict",
+      "phonetic": "/prɪˈdɪkt/",
+      "phonetics": [
+        "/prɪˈdɪkt/"
+      ],
+      "meaning": "v. 预测，预言",
+      "promptMeaning": "v. 预测，预言",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "预测",
+        "预言"
+      ]
+    },
+    {
+      "id": 370,
+      "word": "predominant",
+      "phonetic": "/prɪˈdɒmɪnənt/",
+      "phonetics": [
+        "/prɪˈdɒmɪnənt/"
+      ],
+      "meaning": "adj. 占主导的",
+      "promptMeaning": "adj. 占主导的",
+      "pos": [
+        "adj"
+      ],
+      "aliases": [],
+      "senses": [
+        "占主导的"
+      ]
+    },
+    {
+      "id": 371,
+      "word": "premise",
+      "phonetic": "/ˈpremɪs/",
+      "phonetics": [
+        "/ˈpremɪs/"
+      ],
+      "meaning": "n. 前提",
+      "promptMeaning": "n. 前提",
+      "pos": [
+        "n"
+      ],
+      "aliases": [],
+      "senses": [
+        "前提"
+      ]
+    },
+    {
+      "id": 372,
+      "word": "prescribe",
+      "phonetic": "/prɪˈskraɪb/",
+      "phonetics": [
+        "/prɪˈskraɪb/"
+      ],
+      "meaning": "v. 规定；开处方",
+      "promptMeaning": "v. 规定；开处方",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "规定",
+        "开处方"
+      ]
+    },
+    {
+      "id": 373,
+      "word": "preserve",
+      "phonetic": "/prɪˈzɜːv/",
+      "phonetics": [
+        "/prɪˈzɜːv/"
+      ],
+      "meaning": "v. 保护，保存",
+      "promptMeaning": "v. 保护，保存",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "保护",
+        "保存"
+      ]
+    },
+    {
+      "id": 374,
+      "word": "presume",
+      "phonetic": "/prɪˈzjuːm/",
+      "phonetics": [
+        "/prɪˈzjuːm/"
+      ],
+      "meaning": "v. 假定，推测",
+      "promptMeaning": "v. 假定，推测",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "假定",
+        "推测"
+      ]
+    },
+    {
+      "id": 375,
+      "word": "prevail",
+      "phonetic": "/prɪˈveɪl/",
+      "phonetics": [
+        "/prɪˈveɪl/"
+      ],
+      "meaning": "v. 盛行，获胜",
+      "promptMeaning": "v. 盛行，获胜",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "盛行",
+        "获胜"
+      ]
+    },
+    {
+      "id": 376,
+      "word": "primary",
+      "phonetic": "/ˈpraɪməri/",
+      "phonetics": [
+        "/ˈpraɪməri/"
+      ],
+      "meaning": "adj. 首要的，初级的",
+      "promptMeaning": "adj. 首要的，初级的",
+      "pos": [
+        "adj"
+      ],
+      "aliases": [],
+      "senses": [
+        "首要的",
+        "初级的"
+      ]
+    },
+    {
+      "id": 377,
+      "word": "prior",
+      "phonetic": "/ˈpraɪə(r)/",
+      "phonetics": [
+        "/ˈpraɪə(r)/"
+      ],
+      "meaning": "adj. 先前的，优先的",
+      "promptMeaning": "adj. 先前的，优先的",
+      "pos": [
+        "adj"
+      ],
+      "aliases": [],
+      "senses": [
+        "先前的",
+        "优先的"
+      ]
+    },
+    {
+      "id": 378,
+      "word": "private",
+      "phonetic": "/ˈpraɪvət/",
+      "phonetics": [
+        "/ˈpraɪvət/"
+      ],
+      "meaning": "adj. 私人的",
+      "promptMeaning": "adj. 私人的",
+      "pos": [
+        "adj"
+      ],
+      "aliases": [],
+      "senses": [
+        "私人的"
+      ]
+    },
+    {
+      "id": 379,
+      "word": "proceed",
+      "phonetic": "/prəˈsiːd/",
+      "phonetics": [
+        "/prəˈsiːd/"
+      ],
+      "meaning": "v. 继续进行",
+      "promptMeaning": "v. 继续进行",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "继续进行"
+      ]
+    },
+    {
+      "id": 380,
+      "word": "prohibit",
+      "phonetic": "/prəˈhɪbɪt/",
+      "phonetics": [
+        "/prəˈhɪbɪt/"
+      ],
+      "meaning": "v. 禁止，阻止",
+      "promptMeaning": "v. 禁止，阻止",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "禁止",
+        "阻止"
+      ]
+    },
+    {
+      "id": 381,
+      "word": "prominent",
+      "phonetic": "/ˈprɒmɪnənt/",
+      "phonetics": [
+        "/ˈprɒmɪnənt/"
+      ],
+      "meaning": "adj. 突出的，著名的",
+      "promptMeaning": "adj. 突出的，著名的",
+      "pos": [
+        "adj"
+      ],
+      "aliases": [],
+      "senses": [
+        "突出的",
+        "著名的"
+      ]
+    },
+    {
+      "id": 382,
+      "word": "promote",
+      "phonetic": "/prəˈməʊt/",
+      "phonetics": [
+        "/prəˈməʊt/"
+      ],
+      "meaning": "v. 促进，推广",
+      "promptMeaning": "v. 促进，推广",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "促进",
+        "推广"
+      ]
+    },
+    {
+      "id": 383,
+      "word": "prompt",
+      "phonetic": "/prɒmpt/",
+      "phonetics": [
+        "/prɒmpt/"
+      ],
+      "meaning": "adj. 迅速的 v. 促使",
+      "promptMeaning": "adj. 迅速的 v. 促使",
+      "pos": [
+        "adj",
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "迅速的 促使",
+        "迅速的促使"
+      ]
+    },
+    {
+      "id": 384,
+      "word": "proportion",
+      "phonetic": "/prəˈpɔːʃn/",
+      "phonetics": [
+        "/prəˈpɔːʃn/"
+      ],
+      "meaning": "n. 比例，份额",
+      "promptMeaning": "n. 比例，份额",
+      "pos": [
+        "n"
+      ],
+      "aliases": [],
+      "senses": [
+        "比例",
+        "份额"
+      ]
+    },
+    {
+      "id": 385,
+      "word": "prospect",
+      "phonetic": "/ˈprɒspekt/",
+      "phonetics": [
+        "/ˈprɒspekt/"
+      ],
+      "meaning": "n. 前景，可能性",
+      "promptMeaning": "n. 前景，可能性",
+      "pos": [
+        "n"
+      ],
+      "aliases": [],
+      "senses": [
+        "前景",
+        "可能性"
+      ]
+    },
+    {
+      "id": 386,
+      "word": "prosper",
+      "phonetic": "/ˈprɒspə(r)/",
+      "phonetics": [
+        "/ˈprɒspə(r)/"
+      ],
+      "meaning": "v. 繁荣，兴旺",
+      "promptMeaning": "v. 繁荣，兴旺",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "繁荣",
+        "兴旺"
+      ]
+    },
+    {
+      "id": 387,
+      "word": "provoke",
+      "phonetic": "/prəˈvəʊk/",
+      "phonetics": [
+        "/prəˈvəʊk/"
+      ],
+      "meaning": "v. 激起，引发",
+      "promptMeaning": "v. 激起，引发",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "激起",
+        "引发"
+      ]
+    },
+    {
+      "id": 388,
+      "word": "pursue",
+      "phonetic": "/pəˈsjuː/",
+      "phonetics": [
+        "/pəˈsjuː/"
+      ],
+      "meaning": "v. 追求，从事",
+      "promptMeaning": "v. 追求，从事",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "追求",
+        "从事"
+      ]
+    },
+    {
+      "id": 389,
+      "word": "qualify",
+      "phonetic": "/ˈkwɒlɪfaɪ/",
+      "phonetics": [
+        "/ˈkwɒlɪfaɪ/"
+      ],
+      "meaning": "v. 使合格，限定",
+      "promptMeaning": "v. 使合格，限定",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "使合格",
+        "限定"
+      ]
+    },
+    {
+      "id": 390,
+      "word": "quote",
+      "phonetic": "/kwəʊt/",
+      "phonetics": [
+        "/kwəʊt/"
+      ],
+      "meaning": "v. 引用，引述",
+      "promptMeaning": "v. 引用，引述",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "引用",
+        "引述"
+      ]
+    },
+    {
+      "id": 391,
+      "word": "radical",
+      "phonetic": "/ˈrædɪkl/",
+      "phonetics": [
+        "/ˈrædɪkl/"
+      ],
+      "meaning": "adj. 激进的；根本的",
+      "promptMeaning": "adj. 激进的；根本的",
+      "pos": [
+        "adj"
+      ],
+      "aliases": [],
+      "senses": [
+        "激进的",
+        "根本的"
+      ]
+    },
+    {
+      "id": 392,
+      "word": "random",
+      "phonetic": "/ˈrændəm/",
+      "phonetics": [
+        "/ˈrændəm/"
+      ],
+      "meaning": "adj. 随机的",
+      "promptMeaning": "adj. 随机的",
+      "pos": [
+        "adj"
+      ],
+      "aliases": [],
+      "senses": [
+        "随机的"
+      ]
+    },
+    {
+      "id": 393,
+      "word": "range",
+      "phonetic": "/reɪndʒ/",
+      "phonetics": [
+        "/reɪndʒ/"
+      ],
+      "meaning": "n. 范围 v. 涵盖",
+      "promptMeaning": "n. 范围 v. 涵盖",
+      "pos": [
+        "n",
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "范围 涵盖",
+        "范围涵盖"
+      ]
+    },
+    {
+      "id": 394,
+      "word": "rare",
+      "phonetic": "/reə(r)/",
+      "phonetics": [
+        "/reə(r)/"
+      ],
+      "meaning": "adj. 稀有的",
+      "promptMeaning": "adj. 稀有的",
+      "pos": [
+        "adj"
+      ],
+      "aliases": [],
+      "senses": [
+        "稀有的"
+      ]
+    },
+    {
+      "id": 395,
+      "word": "rational",
+      "phonetic": "/ˈræʃnəl/",
+      "phonetics": [
+        "/ˈræʃnəl/"
+      ],
+      "meaning": "adj. 理性的，合理的",
+      "promptMeaning": "adj. 理性的，合理的",
+      "pos": [
+        "adj"
+      ],
+      "aliases": [],
+      "senses": [
+        "理性的",
+        "合理的"
+      ]
+    },
+    {
+      "id": 396,
+      "word": "react",
+      "phonetic": "/riˈækt/",
+      "phonetics": [
+        "/riˈækt/"
+      ],
+      "meaning": "v. 反应，作出回应",
+      "promptMeaning": "v. 反应，作出回应",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "反应",
+        "作出回应"
+      ]
+    },
+    {
+      "id": 397,
+      "word": "realistic",
+      "phonetic": "/ˌriːəˈlɪstɪk/",
+      "phonetics": [
+        "/ˌriːəˈlɪstɪk/"
+      ],
+      "meaning": "adj. 现实的",
+      "promptMeaning": "adj. 现实的",
+      "pos": [
+        "adj"
+      ],
+      "aliases": [],
+      "senses": [
+        "现实的"
+      ]
+    },
+    {
+      "id": 398,
+      "word": "recall",
+      "phonetic": "/rɪˈkɔːl/",
+      "phonetics": [
+        "/rɪˈkɔːl/"
+      ],
+      "meaning": "v. 回忆，召回",
+      "promptMeaning": "v. 回忆，召回",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "回忆",
+        "召回"
+      ]
+    },
+    {
+      "id": 399,
+      "word": "recognise",
+      "phonetic": "/ˈrekəɡnaɪz/",
+      "phonetics": [
+        "/ˈrekəɡnaɪz/"
+      ],
+      "meaning": "v. 认出，承认",
+      "promptMeaning": "v. 认出，承认",
+      "pos": [
+        "v"
+      ],
+      "aliases": [
+        "recognize"
+      ],
+      "senses": [
+        "认出",
+        "承认"
+      ]
+    },
+    {
+      "id": 400,
+      "word": "recover",
+      "phonetic": "/rɪˈkʌvə(r)/",
+      "phonetics": [
+        "/rɪˈkʌvə(r)/"
+      ],
+      "meaning": "v. 恢复，复原",
+      "promptMeaning": "v. 恢复，复原",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "恢复",
+        "复原"
+      ]
+    },
+    {
+      "id": 401,
+      "word": "refine",
+      "phonetic": "/rɪˈfaɪn/",
+      "phonetics": [
+        "/rɪˈfaɪn/"
+      ],
+      "meaning": "v. 精炼，完善",
+      "promptMeaning": "v. 精炼，完善",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "精炼",
+        "完善"
+      ]
+    },
+    {
+      "id": 402,
+      "word": "reflect",
+      "phonetic": "/rɪˈflekt/",
+      "phonetics": [
+        "/rɪˈflekt/"
+      ],
+      "meaning": "v. 反射；反思",
+      "promptMeaning": "v. 反射；反思",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "反射",
+        "反思"
+      ]
+    },
+    {
+      "id": 403,
+      "word": "reform",
+      "phonetic": "/rɪˈfɔːm/",
+      "phonetics": [
+        "/rɪˈfɔːm/"
+      ],
+      "meaning": "v./n. 改革，改良",
+      "promptMeaning": "v./n. 改革，改良",
+      "pos": [
+        "v",
+        "n"
+      ],
+      "aliases": [],
+      "senses": [
+        "改革",
+        "改良"
+      ]
+    },
+    {
+      "id": 404,
+      "word": "refresh",
+      "phonetic": "/rɪˈfreʃ/",
+      "phonetics": [
+        "/rɪˈfreʃ/"
+      ],
+      "meaning": "v. 更新，使恢复活力",
+      "promptMeaning": "v. 更新，使恢复活力",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "更新",
+        "使恢复活力"
+      ]
+    },
+    {
+      "id": 405,
+      "word": "regardless",
+      "phonetic": "/rɪˈɡɑːdləs/",
+      "phonetics": [
+        "/rɪˈɡɑːdləs/"
+      ],
+      "meaning": "adv. 不管怎样",
+      "promptMeaning": "adv. 不管怎样",
+      "pos": [
+        "adv"
+      ],
+      "aliases": [],
+      "senses": [
+        "不管怎样"
+      ]
+    },
+    {
+      "id": 406,
+      "word": "regulate",
+      "phonetic": "/ˈreɡjuleɪt/",
+      "phonetics": [
+        "/ˈreɡjuleɪt/"
+      ],
+      "meaning": "v. 管控，调节",
+      "promptMeaning": "v. 管控，调节",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "管控",
+        "调节"
+      ]
+    },
+    {
+      "id": 407,
+      "word": "reinforce",
+      "phonetic": "/ˌriːɪnˈfɔːs/",
+      "phonetics": [
+        "/ˌriːɪnˈfɔːs/"
+      ],
+      "meaning": "v. 加强，加固",
+      "promptMeaning": "v. 加强，加固",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "加强",
+        "加固"
+      ]
+    },
+    {
+      "id": 408,
+      "word": "relate",
+      "phonetic": "/rɪˈleɪt/",
+      "phonetics": [
+        "/rɪˈleɪt/"
+      ],
+      "meaning": "v. 联系，有关联",
+      "promptMeaning": "v. 联系，有关联",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "联系",
+        "有关联"
+      ]
+    },
+    {
+      "id": 409,
+      "word": "release",
+      "phonetic": "/rɪˈliːs/",
+      "phonetics": [
+        "/rɪˈliːs/"
+      ],
+      "meaning": "v./n. 释放，发布",
+      "promptMeaning": "v./n. 释放，发布",
+      "pos": [
+        "v",
+        "n"
+      ],
+      "aliases": [],
+      "senses": [
+        "释放",
+        "发布"
+      ]
+    },
+    {
+      "id": 410,
+      "word": "relevant",
+      "phonetic": "/ˈreləvənt/",
+      "phonetics": [
+        "/ˈreləvənt/"
+      ],
+      "meaning": "adj. 相关的",
+      "promptMeaning": "adj. 相关的",
+      "pos": [
+        "adj"
+      ],
+      "aliases": [],
+      "senses": [
+        "相关的"
+      ]
+    },
+    {
+      "id": 411,
+      "word": "reliable",
+      "phonetic": "/rɪˈlaɪəbl/",
+      "phonetics": [
+        "/rɪˈlaɪəbl/"
+      ],
+      "meaning": "adj. 可靠的",
+      "promptMeaning": "adj. 可靠的",
+      "pos": [
+        "adj"
+      ],
+      "aliases": [],
+      "senses": [
+        "可靠的"
+      ]
+    },
+    {
+      "id": 412,
+      "word": "relieve",
+      "phonetic": "/rɪˈliːv/",
+      "phonetics": [
+        "/rɪˈliːv/"
+      ],
+      "meaning": "v. 减轻，缓解",
+      "promptMeaning": "v. 减轻，缓解",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "减轻",
+        "缓解"
+      ]
+    },
+    {
+      "id": 413,
+      "word": "rely",
+      "phonetic": "/rɪˈlaɪ/",
+      "phonetics": [
+        "/rɪˈlaɪ/"
+      ],
+      "meaning": "v. 依靠，依赖",
+      "promptMeaning": "v. 依靠，依赖",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "依靠",
+        "依赖"
+      ]
+    },
+    {
+      "id": 414,
+      "word": "remove",
+      "phonetic": "/rɪˈmuːv/",
+      "phonetics": [
+        "/rɪˈmuːv/"
+      ],
+      "meaning": "v. 移除，去掉",
+      "promptMeaning": "v. 移除，去掉",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "移除",
+        "去掉"
+      ]
+    },
+    {
+      "id": 415,
+      "word": "render",
+      "phonetic": "/ˈrendə(r)/",
+      "phonetics": [
+        "/ˈrendə(r)/"
+      ],
+      "meaning": "v. 使得；提供",
+      "promptMeaning": "v. 使得；提供",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "使得",
+        "提供"
+      ]
+    },
+    {
+      "id": 416,
+      "word": "renew",
+      "phonetic": "/rɪˈnjuː/",
+      "phonetics": [
+        "/rɪˈnjuː/"
+      ],
+      "meaning": "v. 更新，续期",
+      "promptMeaning": "v. 更新，续期",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "更新",
+        "续期"
+      ]
+    },
+    {
+      "id": 417,
+      "word": "replace",
+      "phonetic": "/rɪˈpleɪs/",
+      "phonetics": [
+        "/rɪˈpleɪs/"
+      ],
+      "meaning": "v. 取代，替换",
+      "promptMeaning": "v. 取代，替换",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "取代",
+        "替换"
+      ]
+    },
+    {
+      "id": 418,
+      "word": "represent",
+      "phonetic": "/ˌreprɪˈzent/",
+      "phonetics": [
+        "/ˌreprɪˈzent/"
+      ],
+      "meaning": "v. 代表，表现",
+      "promptMeaning": "v. 代表，表现",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "代表",
+        "表现"
+      ]
+    },
+    {
+      "id": 419,
+      "word": "reproduce",
+      "phonetic": "/ˌriːprəˈdjuːs/",
+      "phonetics": [
+        "/ˌriːprəˈdjuːs/"
+      ],
+      "meaning": "v. 复制，繁殖",
+      "promptMeaning": "v. 复制，繁殖",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "复制",
+        "繁殖"
+      ]
+    },
+    {
+      "id": 420,
+      "word": "reputation",
+      "phonetic": "/ˌrepjuˈteɪʃn/",
+      "phonetics": [
+        "/ˌrepjuˈteɪʃn/"
+      ],
+      "meaning": "n. 名声，声誉",
+      "promptMeaning": "n. 名声，声誉",
+      "pos": [
+        "n"
+      ],
+      "aliases": [],
+      "senses": [
+        "名声",
+        "声誉"
+      ]
+    },
+    {
+      "id": 421,
+      "word": "rescue",
+      "phonetic": "/ˈreskjuː/",
+      "phonetics": [
+        "/ˈreskjuː/"
+      ],
+      "meaning": "v./n. 营救，救援",
+      "promptMeaning": "v./n. 营救，救援",
+      "pos": [
+        "v",
+        "n"
+      ],
+      "aliases": [],
+      "senses": [
+        "营救",
+        "救援"
+      ]
+    },
+    {
+      "id": 422,
+      "word": "resemble",
+      "phonetic": "/rɪˈzembl/",
+      "phonetics": [
+        "/rɪˈzembl/"
+      ],
+      "meaning": "v. 像，类似于",
+      "promptMeaning": "v. 像，类似于",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "像",
+        "类似于"
+      ]
+    },
+    {
+      "id": 423,
+      "word": "reserve",
+      "phonetic": "/rɪˈzɜːv/",
+      "phonetics": [
+        "/rɪˈzɜːv/"
+      ],
+      "meaning": "v. 保留 n. 储备",
+      "promptMeaning": "v. 保留 n. 储备",
+      "pos": [
+        "v",
+        "n"
+      ],
+      "aliases": [],
+      "senses": [
+        "保留 储备",
+        "保留储备"
+      ]
+    },
+    {
+      "id": 424,
+      "word": "reside",
+      "phonetic": "/rɪˈzaɪd/",
+      "phonetics": [
+        "/rɪˈzaɪd/"
+      ],
+      "meaning": "v. 居住，存在于",
+      "promptMeaning": "v. 居住，存在于",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "居住",
+        "存在于"
+      ]
+    },
+    {
+      "id": 425,
+      "word": "resolve",
+      "phonetic": "/rɪˈzɒlv/",
+      "phonetics": [
+        "/rɪˈzɒlv/"
+      ],
+      "meaning": "v. 解决；决心",
+      "promptMeaning": "v. 解决；决心",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "解决",
+        "决心"
+      ]
+    },
+    {
+      "id": 426,
+      "word": "resort",
+      "phonetic": "/rɪˈzɔːt/",
+      "phonetics": [
+        "/rɪˈzɔːt/"
+      ],
+      "meaning": "v. 诉诸，求助于",
+      "promptMeaning": "v. 诉诸，求助于",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "诉诸",
+        "求助于"
+      ]
+    },
+    {
+      "id": 427,
+      "word": "restrict",
+      "phonetic": "/rɪˈstrɪkt/",
+      "phonetics": [
+        "/rɪˈstrɪkt/"
+      ],
+      "meaning": "v. 限制，约束",
+      "promptMeaning": "v. 限制，约束",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "限制",
+        "约束"
+      ]
+    },
+    {
+      "id": 428,
+      "word": "retain",
+      "phonetic": "/rɪˈteɪn/",
+      "phonetics": [
+        "/rɪˈteɪn/"
+      ],
+      "meaning": "v. 保留，保持",
+      "promptMeaning": "v. 保留，保持",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "保留",
+        "保持"
+      ]
+    },
+    {
+      "id": 429,
+      "word": "reveal",
+      "phonetic": "/rɪˈviːl/",
+      "phonetics": [
+        "/rɪˈviːl/"
+      ],
+      "meaning": "v. 揭示，显露",
+      "promptMeaning": "v. 揭示，显露",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "揭示",
+        "显露"
+      ]
+    },
+    {
+      "id": 430,
+      "word": "revise",
+      "phonetic": "/rɪˈvaɪz/",
+      "phonetics": [
+        "/rɪˈvaɪz/"
+      ],
+      "meaning": "v. 修订，复习",
+      "promptMeaning": "v. 修订，复习",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "修订",
+        "复习"
+      ]
+    },
+    {
+      "id": 431,
+      "word": "rigid",
+      "phonetic": "/ˈrɪdʒɪd/",
+      "phonetics": [
+        "/ˈrɪdʒɪd/"
+      ],
+      "meaning": "adj. 僵硬的，死板的",
+      "promptMeaning": "adj. 僵硬的，死板的",
+      "pos": [
+        "adj"
+      ],
+      "aliases": [],
+      "senses": [
+        "僵硬的",
+        "死板的"
+      ]
+    },
+    {
+      "id": 432,
+      "word": "rival",
+      "phonetic": "/ˈraɪvl/",
+      "phonetics": [
+        "/ˈraɪvl/"
+      ],
+      "meaning": "n. 对手 adj. 竞争的",
+      "promptMeaning": "n. 对手 adj. 竞争的",
+      "pos": [
+        "n",
+        "adj"
+      ],
+      "aliases": [],
+      "senses": [
+        "对手 竞争的",
+        "对手竞争的"
+      ]
+    },
+    {
+      "id": 433,
+      "word": "rotate",
+      "phonetic": "/rəʊˈteɪt/",
+      "phonetics": [
+        "/rəʊˈteɪt/"
+      ],
+      "meaning": "v. 旋转，轮换",
+      "promptMeaning": "v. 旋转，轮换",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "旋转",
+        "轮换"
+      ]
+    },
+    {
+      "id": 434,
+      "word": "routine",
+      "phonetic": "/ruːˈtiːn/",
+      "phonetics": [
+        "/ruːˈtiːn/"
+      ],
+      "meaning": "n. 常规，惯例",
+      "promptMeaning": "n. 常规，惯例",
+      "pos": [
+        "n"
+      ],
+      "aliases": [],
+      "senses": [
+        "常规",
+        "惯例"
+      ]
+    },
+    {
+      "id": 435,
+      "word": "sacrifice",
+      "phonetic": "/ˈsækrɪfaɪs/",
+      "phonetics": [
+        "/ˈsækrɪfaɪs/"
+      ],
+      "meaning": "n./v. 牺牲",
+      "promptMeaning": "n./v. 牺牲",
+      "pos": [
+        "n",
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "牺牲"
+      ]
+    },
+    {
+      "id": 436,
+      "word": "sanction",
+      "phonetic": "/ˈsæŋkʃn/",
+      "phonetics": [
+        "/ˈsæŋkʃn/"
+      ],
+      "meaning": "n./v. 批准；制裁",
+      "promptMeaning": "n./v. 批准；制裁",
+      "pos": [
+        "n",
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "批准",
+        "制裁"
+      ]
+    },
+    {
+      "id": 437,
+      "word": "scarce",
+      "phonetic": "/skeəs/",
+      "phonetics": [
+        "/skeəs/"
+      ],
+      "meaning": "adj. 稀缺的",
+      "promptMeaning": "adj. 稀缺的",
+      "pos": [
+        "adj"
+      ],
+      "aliases": [],
+      "senses": [
+        "稀缺的"
+      ]
+    },
+    {
+      "id": 438,
+      "word": "scatter",
+      "phonetic": "/ˈskætə(r)/",
+      "phonetics": [
+        "/ˈskætə(r)/"
+      ],
+      "meaning": "v. 分散，散播",
+      "promptMeaning": "v. 分散，散播",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "分散",
+        "散播"
+      ]
+    },
+    {
+      "id": 439,
+      "word": "scheme",
+      "phonetic": "/skiːm/",
+      "phonetics": [
+        "/skiːm/"
+      ],
+      "meaning": "n. 方案，计划",
+      "promptMeaning": "n. 方案，计划",
+      "pos": [
+        "n"
+      ],
+      "aliases": [],
+      "senses": [
+        "方案",
+        "计划"
+      ]
+    },
+    {
+      "id": 440,
+      "word": "scope",
+      "phonetic": "/skəʊp/",
+      "phonetics": [
+        "/skəʊp/"
+      ],
+      "meaning": "n. 范围，余地",
+      "promptMeaning": "n. 范围，余地",
+      "pos": [
+        "n"
+      ],
+      "aliases": [],
+      "senses": [
+        "范围",
+        "余地"
+      ]
+    },
+    {
+      "id": 441,
+      "word": "secure",
+      "phonetic": "/sɪˈkjʊə(r)/",
+      "phonetics": [
+        "/sɪˈkjʊə(r)/"
+      ],
+      "meaning": "adj. 安全的 v. 获得",
+      "promptMeaning": "adj. 安全的 v. 获得",
+      "pos": [
+        "adj",
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "安全的 获得",
+        "安全的获得"
+      ]
+    },
+    {
+      "id": 442,
+      "word": "segment",
+      "phonetic": "/ˈseɡmənt/",
+      "phonetics": [
+        "/ˈseɡmənt/"
+      ],
+      "meaning": "n. 片段，部分",
+      "promptMeaning": "n. 片段，部分",
+      "pos": [
+        "n"
+      ],
+      "aliases": [],
+      "senses": [
+        "片段",
+        "部分"
+      ]
+    },
+    {
+      "id": 443,
+      "word": "select",
+      "phonetic": "/sɪˈlekt/",
+      "phonetics": [
+        "/sɪˈlekt/"
+      ],
+      "meaning": "v. 挑选 adj. 精选的",
+      "promptMeaning": "v. 挑选 adj. 精选的",
+      "pos": [
+        "v",
+        "adj"
+      ],
+      "aliases": [],
+      "senses": [
+        "挑选 精选的",
+        "挑选精选的"
+      ]
+    },
+    {
+      "id": 444,
+      "word": "sensible",
+      "phonetic": "/ˈsensəbl/",
+      "phonetics": [
+        "/ˈsensəbl/"
+      ],
+      "meaning": "adj. 明智的，合理的",
+      "promptMeaning": "adj. 明智的，合理的",
+      "pos": [
+        "adj"
+      ],
+      "aliases": [],
+      "senses": [
+        "明智的",
+        "合理的"
+      ]
+    },
+    {
+      "id": 445,
+      "word": "sensitive",
+      "phonetic": "/ˈsensətɪv/",
+      "phonetics": [
+        "/ˈsensətɪv/"
+      ],
+      "meaning": "adj. 敏感的",
+      "promptMeaning": "adj. 敏感的",
+      "pos": [
+        "adj"
+      ],
+      "aliases": [],
+      "senses": [
+        "敏感的"
+      ]
+    },
+    {
+      "id": 446,
+      "word": "sequence",
+      "phonetic": "/ˈsiːkwəns/",
+      "phonetics": [
+        "/ˈsiːkwəns/"
+      ],
+      "meaning": "n. 顺序，序列",
+      "promptMeaning": "n. 顺序，序列",
+      "pos": [
+        "n"
+      ],
+      "aliases": [],
+      "senses": [
+        "顺序",
+        "序列"
+      ]
+    },
+    {
+      "id": 447,
+      "word": "settle",
+      "phonetic": "/ˈsetl/",
+      "phonetics": [
+        "/ˈsetl/"
+      ],
+      "meaning": "v. 解决；定居",
+      "promptMeaning": "v. 解决；定居",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "解决",
+        "定居"
+      ]
+    },
+    {
+      "id": 448,
+      "word": "severe",
+      "phonetic": "/sɪˈvɪə(r)/",
+      "phonetics": [
+        "/sɪˈvɪə(r)/"
+      ],
+      "meaning": "adj. 严重的，严厉的",
+      "promptMeaning": "adj. 严重的，严厉的",
+      "pos": [
+        "adj"
+      ],
+      "aliases": [],
+      "senses": [
+        "严重的",
+        "严厉的"
+      ]
+    },
+    {
+      "id": 449,
+      "word": "shift",
+      "phonetic": "/ʃɪft/",
+      "phonetics": [
+        "/ʃɪft/"
+      ],
+      "meaning": "v./n. 转移，转变",
+      "promptMeaning": "v./n. 转移，转变",
+      "pos": [
+        "v",
+        "n"
+      ],
+      "aliases": [],
+      "senses": [
+        "转移",
+        "转变"
+      ]
+    },
+    {
+      "id": 450,
+      "word": "significant",
+      "phonetic": "/sɪɡˈnɪfɪkənt/",
+      "phonetics": [
+        "/sɪɡˈnɪfɪkənt/"
+      ],
+      "meaning": "adj. 重大的，显著的",
+      "promptMeaning": "adj. 重大的，显著的",
+      "pos": [
+        "adj"
+      ],
+      "aliases": [],
+      "senses": [
+        "重大的",
+        "显著的"
+      ]
+    },
+    {
+      "id": 451,
+      "word": "similar",
+      "phonetic": "/ˈsɪmələ(r)/",
+      "phonetics": [
+        "/ˈsɪmələ(r)/"
+      ],
+      "meaning": "adj. 相似的",
+      "promptMeaning": "adj. 相似的",
+      "pos": [
+        "adj"
+      ],
+      "aliases": [],
+      "senses": [
+        "相似的"
+      ]
+    },
+    {
+      "id": 452,
+      "word": "simulate",
+      "phonetic": "/ˈsɪmjuleɪt/",
+      "phonetics": [
+        "/ˈsɪmjuleɪt/"
+      ],
+      "meaning": "v. 模拟，模仿",
+      "promptMeaning": "v. 模拟，模仿",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "模拟",
+        "模仿"
+      ]
+    },
+    {
+      "id": 453,
+      "word": "site",
+      "phonetic": "/saɪt/",
+      "phonetics": [
+        "/saɪt/"
+      ],
+      "meaning": "n. 地点，场所",
+      "promptMeaning": "n. 地点，场所",
+      "pos": [
+        "n"
+      ],
+      "aliases": [],
+      "senses": [
+        "地点",
+        "场所"
+      ]
+    },
+    {
+      "id": 454,
+      "word": "sketch",
+      "phonetic": "/sketʃ/",
+      "phonetics": [
+        "/sketʃ/"
+      ],
+      "meaning": "n. 草图 v. 草拟",
+      "promptMeaning": "n. 草图 v. 草拟",
+      "pos": [
+        "n",
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "草图 草拟",
+        "草图草拟"
+      ]
+    },
+    {
+      "id": 455,
+      "word": "sophisticated",
+      "phonetic": "/səˈfɪstɪkeɪtɪd/",
+      "phonetics": [
+        "/səˈfɪstɪkeɪtɪd/"
+      ],
+      "meaning": "adj. 精密的；老练的",
+      "promptMeaning": "adj. 精密的；老练的",
+      "pos": [
+        "adj"
+      ],
+      "aliases": [],
+      "senses": [
+        "精密的",
+        "老练的"
+      ]
+    },
+    {
+      "id": 456,
+      "word": "source",
+      "phonetic": "/sɔːs/",
+      "phonetics": [
+        "/sɔːs/"
+      ],
+      "meaning": "n. 来源，源头",
+      "promptMeaning": "n. 来源，源头",
+      "pos": [
+        "n"
+      ],
+      "aliases": [],
+      "senses": [
+        "来源",
+        "源头"
+      ]
+    },
+    {
+      "id": 457,
+      "word": "span",
+      "phonetic": "/spæn/",
+      "phonetics": [
+        "/spæn/"
+      ],
+      "meaning": "n. 跨度，一段时间",
+      "promptMeaning": "n. 跨度，一段时间",
+      "pos": [
+        "n"
+      ],
+      "aliases": [],
+      "senses": [
+        "跨度",
+        "一段时间"
+      ]
+    },
+    {
+      "id": 458,
+      "word": "specialize",
+      "phonetic": "/ˈspeʃəlaɪz/",
+      "phonetics": [
+        "/ˈspeʃəlaɪz/"
+      ],
+      "meaning": "v. 专攻，专门研究",
+      "promptMeaning": "v. 专攻，专门研究",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "专攻",
+        "专门研究"
+      ]
+    },
+    {
+      "id": 459,
+      "word": "stable",
+      "phonetic": "/ˈsteɪbl/",
+      "phonetics": [
+        "/ˈsteɪbl/"
+      ],
+      "meaning": "adj. 稳定的",
+      "promptMeaning": "adj. 稳定的",
+      "pos": [
+        "adj"
+      ],
+      "aliases": [],
+      "senses": [
+        "稳定的"
+      ]
+    },
+    {
+      "id": 460,
+      "word": "statistic",
+      "phonetic": "/stəˈtɪstɪk/",
+      "phonetics": [
+        "/stəˈtɪstɪk/"
+      ],
+      "meaning": "n. 统计数据",
+      "promptMeaning": "n. 统计数据",
+      "pos": [
+        "n"
+      ],
+      "aliases": [],
+      "senses": [
+        "统计数据"
+      ]
+    },
+    {
+      "id": 461,
+      "word": "steady",
+      "phonetic": "/ˈstedi/",
+      "phonetics": [
+        "/ˈstedi/"
+      ],
+      "meaning": "adj. 稳定的，平稳的",
+      "promptMeaning": "adj. 稳定的，平稳的",
+      "pos": [
+        "adj"
+      ],
+      "aliases": [],
+      "senses": [
+        "稳定的",
+        "平稳的"
+      ]
+    },
+    {
+      "id": 462,
+      "word": "stimulate",
+      "phonetic": "/ˈstɪmjuleɪt/",
+      "phonetics": [
+        "/ˈstɪmjuleɪt/"
+      ],
+      "meaning": "v. 刺激，激发",
+      "promptMeaning": "v. 刺激，激发",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "刺激",
+        "激发"
+      ]
+    },
+    {
+      "id": 463,
+      "word": "strategy",
+      "phonetic": "/ˈstrætədʒi/",
+      "phonetics": [
+        "/ˈstrætədʒi/"
+      ],
+      "meaning": "n. 策略，战略",
+      "promptMeaning": "n. 策略，战略",
+      "pos": [
+        "n"
+      ],
+      "aliases": [],
+      "senses": [
+        "策略",
+        "战略"
+      ]
+    },
+    {
+      "id": 464,
+      "word": "stress",
+      "phonetic": "/stres/",
+      "phonetics": [
+        "/stres/"
+      ],
+      "meaning": "n./v. 压力；强调",
+      "promptMeaning": "n./v. 压力；强调",
+      "pos": [
+        "n",
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "压力",
+        "强调"
+      ]
+    },
+    {
+      "id": 465,
+      "word": "subsequent",
+      "phonetic": "/ˈsʌbsɪkwənt/",
+      "phonetics": [
+        "/ˈsʌbsɪkwənt/"
+      ],
+      "meaning": "adj. 随后的",
+      "promptMeaning": "adj. 随后的",
+      "pos": [
+        "adj"
+      ],
+      "aliases": [],
+      "senses": [
+        "随后的"
+      ]
+    },
+    {
+      "id": 466,
+      "word": "substantial",
+      "phonetic": "/səbˈstænʃl/",
+      "phonetics": [
+        "/səbˈstænʃl/"
+      ],
+      "meaning": "adj. 大量的；实质的",
+      "promptMeaning": "adj. 大量的；实质的",
+      "pos": [
+        "adj"
+      ],
+      "aliases": [],
+      "senses": [
+        "大量的",
+        "实质的"
+      ]
+    },
+    {
+      "id": 467,
+      "word": "substitute",
+      "phonetic": "/ˈsʌbstɪtjuːt/",
+      "phonetics": [
+        "/ˈsʌbstɪtjuːt/"
+      ],
+      "meaning": "n. 替代品 v. 替代",
+      "promptMeaning": "n. 替代品 v. 替代",
+      "pos": [
+        "n",
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "替代品 替代",
+        "替代品替代"
+      ]
+    },
+    {
+      "id": 468,
+      "word": "successive",
+      "phonetic": "/səkˈsesɪv/",
+      "phonetics": [
+        "/səkˈsesɪv/"
+      ],
+      "meaning": "adj. 连续的",
+      "promptMeaning": "adj. 连续的",
+      "pos": [
+        "adj"
+      ],
+      "aliases": [],
+      "senses": [
+        "连续的"
+      ]
+    },
+    {
+      "id": 469,
+      "word": "sufficient",
+      "phonetic": "/səˈfɪʃnt/",
+      "phonetics": [
+        "/səˈfɪʃnt/"
+      ],
+      "meaning": "adj. 充足的",
+      "promptMeaning": "adj. 充足的",
+      "pos": [
+        "adj"
+      ],
+      "aliases": [],
+      "senses": [
+        "充足的"
+      ]
+    },
+    {
+      "id": 470,
+      "word": "supervise",
+      "phonetic": "/ˈsuːpəvaɪz/",
+      "phonetics": [
+        "/ˈsuːpəvaɪz/"
+      ],
+      "meaning": "v. 监督，管理",
+      "promptMeaning": "v. 监督，管理",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "监督",
+        "管理"
+      ]
+    },
+    {
+      "id": 471,
+      "word": "supplement",
+      "phonetic": "/ˈsʌplɪmənt/",
+      "phonetics": [
+        "/ˈsʌplɪmənt/"
+      ],
+      "meaning": "n./v. 补充",
+      "promptMeaning": "n./v. 补充",
+      "pos": [
+        "n",
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "补充"
+      ]
+    },
+    {
+      "id": 472,
+      "word": "suppress",
+      "phonetic": "/səˈpres/",
+      "phonetics": [
+        "/səˈpres/"
+      ],
+      "meaning": "v. 压制，抑制",
+      "promptMeaning": "v. 压制，抑制",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "压制",
+        "抑制"
+      ]
+    },
+    {
+      "id": 473,
+      "word": "surge",
+      "phonetic": "/sɜːdʒ/",
+      "phonetics": [
+        "/sɜːdʒ/"
+      ],
+      "meaning": "v./n. 激增，汹涌",
+      "promptMeaning": "v./n. 激增，汹涌",
+      "pos": [
+        "v",
+        "n"
+      ],
+      "aliases": [],
+      "senses": [
+        "激增",
+        "汹涌"
+      ]
+    },
+    {
+      "id": 474,
+      "word": "survey",
+      "phonetic": "/ˈsɜːveɪ/",
+      "phonetics": [
+        "/ˈsɜːveɪ/",
+        "/səˈveɪ/"
+      ],
+      "meaning": "n. 调查；v. 勘测",
+      "promptMeaning": "n. 调查；v. 勘测",
+      "pos": [
+        "n",
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "调查",
+        "勘测"
+      ]
+    },
+    {
+      "id": 475,
+      "word": "sustain",
+      "phonetic": "/səˈsteɪn/",
+      "phonetics": [
+        "/səˈsteɪn/"
+      ],
+      "meaning": "v. 维持，支撑",
+      "promptMeaning": "v. 维持，支撑",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "维持",
+        "支撑"
+      ]
+    },
+    {
+      "id": 476,
+      "word": "switch",
+      "phonetic": "/swɪtʃ/",
+      "phonetics": [
+        "/swɪtʃ/"
+      ],
+      "meaning": "v./n. 转换，开关",
+      "promptMeaning": "v./n. 转换，开关",
+      "pos": [
+        "v",
+        "n"
+      ],
+      "aliases": [],
+      "senses": [
+        "转换",
+        "开关"
+      ]
+    },
+    {
+      "id": 477,
+      "word": "symbol",
+      "phonetic": "/ˈsɪmbl/",
+      "phonetics": [
+        "/ˈsɪmbl/"
+      ],
+      "meaning": "n. 象征，符号",
+      "promptMeaning": "n. 象征，符号",
+      "pos": [
+        "n"
+      ],
+      "aliases": [],
+      "senses": [
+        "象征",
+        "符号"
+      ]
+    },
+    {
+      "id": 478,
+      "word": "temporary",
+      "phonetic": "/ˈtemprəri/",
+      "phonetics": [
+        "/ˈtemprəri/"
+      ],
+      "meaning": "adj. 临时的",
+      "promptMeaning": "adj. 临时的",
+      "pos": [
+        "adj"
+      ],
+      "aliases": [],
+      "senses": [
+        "临时的"
+      ]
+    },
+    {
+      "id": 479,
+      "word": "tend",
+      "phonetic": "/tend/",
+      "phonetics": [
+        "/tend/"
+      ],
+      "meaning": "v. 倾向于；照料",
+      "promptMeaning": "v. 倾向于；照料",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "倾向于",
+        "照料"
+      ]
+    },
+    {
+      "id": 480,
+      "word": "tension",
+      "phonetic": "/ˈtenʃn/",
+      "phonetics": [
+        "/ˈtenʃn/"
+      ],
+      "meaning": "n. 紧张，张力",
+      "promptMeaning": "n. 紧张，张力",
+      "pos": [
+        "n"
+      ],
+      "aliases": [],
+      "senses": [
+        "紧张",
+        "张力"
+      ]
+    },
+    {
+      "id": 481,
+      "word": "terminal",
+      "phonetic": "/ˈtɜːmɪnl/",
+      "phonetics": [
+        "/ˈtɜːmɪnl/"
+      ],
+      "meaning": "adj. 末端的 n. 终端",
+      "promptMeaning": "adj. 末端的 n. 终端",
+      "pos": [
+        "adj",
+        "n"
+      ],
+      "aliases": [],
+      "senses": [
+        "末端的 终端",
+        "末端的终端"
+      ]
+    },
+    {
+      "id": 482,
+      "word": "theme",
+      "phonetic": "/θiːm/",
+      "phonetics": [
+        "/θiːm/"
+      ],
+      "meaning": "n. 主题",
+      "promptMeaning": "n. 主题",
+      "pos": [
+        "n"
+      ],
+      "aliases": [],
+      "senses": [
+        "主题"
+      ]
+    },
+    {
+      "id": 483,
+      "word": "theoretical",
+      "phonetic": "/ˌθiːəˈretɪkl/",
+      "phonetics": [
+        "/ˌθiːəˈretɪkl/"
+      ],
+      "meaning": "adj. 理论上的",
+      "promptMeaning": "adj. 理论上的",
+      "pos": [
+        "adj"
+      ],
+      "aliases": [],
+      "senses": [
+        "理论上的"
+      ]
+    },
+    {
+      "id": 484,
+      "word": "trace",
+      "phonetic": "/treɪs/",
+      "phonetics": [
+        "/treɪs/"
+      ],
+      "meaning": "v. 追踪，追溯",
+      "promptMeaning": "v. 追踪，追溯",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "追踪",
+        "追溯"
+      ]
+    },
+    {
+      "id": 485,
+      "word": "transform",
+      "phonetic": "/trænsˈfɔːm/",
+      "phonetics": [
+        "/trænsˈfɔːm/"
+      ],
+      "meaning": "v. 转变，改造",
+      "promptMeaning": "v. 转变，改造",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "转变",
+        "改造"
+      ]
+    },
+    {
+      "id": 486,
+      "word": "transmit",
+      "phonetic": "/trænsˈmɪt/",
+      "phonetics": [
+        "/trænsˈmɪt/"
+      ],
+      "meaning": "v. 传输，传播",
+      "promptMeaning": "v. 传输，传播",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "传输",
+        "传播"
+      ]
+    },
+    {
+      "id": 487,
+      "word": "trigger",
+      "phonetic": "/ˈtrɪɡə(r)/",
+      "phonetics": [
+        "/ˈtrɪɡə(r)/"
+      ],
+      "meaning": "v. 触发，引发",
+      "promptMeaning": "v. 触发，引发",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "触发",
+        "引发"
+      ]
+    },
+    {
+      "id": 488,
+      "word": "trivial",
+      "phonetic": "/ˈtrɪviəl/",
+      "phonetics": [
+        "/ˈtrɪviəl/"
+      ],
+      "meaning": "adj. 琐碎的，不重要的",
+      "promptMeaning": "adj. 琐碎的，不重要的",
+      "pos": [
+        "adj"
+      ],
+      "aliases": [],
+      "senses": [
+        "琐碎的",
+        "不重要的"
+      ]
+    },
+    {
+      "id": 489,
+      "word": "undertake",
+      "phonetic": "/ˌʌndəˈteɪk/",
+      "phonetics": [
+        "/ˌʌndəˈteɪk/"
+      ],
+      "meaning": "v. 承担，着手做",
+      "promptMeaning": "v. 承担，着手做",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "承担",
+        "着手做"
+      ]
+    },
+    {
+      "id": 490,
+      "word": "uniform",
+      "phonetic": "/ˈjuːnɪfɔːm/",
+      "phonetics": [
+        "/ˈjuːnɪfɔːm/"
+      ],
+      "meaning": "adj. 统一的，一致的",
+      "promptMeaning": "adj. 统一的，一致的",
+      "pos": [
+        "adj"
+      ],
+      "aliases": [],
+      "senses": [
+        "统一的",
+        "一致的"
+      ]
+    },
+    {
+      "id": 491,
+      "word": "unique",
+      "phonetic": "/juˈniːk/",
+      "phonetics": [
+        "/juˈniːk/"
+      ],
+      "meaning": "adj. 独特的",
+      "promptMeaning": "adj. 独特的",
+      "pos": [
+        "adj"
+      ],
+      "aliases": [],
+      "senses": [
+        "独特的"
+      ]
+    },
+    {
+      "id": 492,
+      "word": "update",
+      "phonetic": "/ˌʌpˈdeɪt/",
+      "phonetics": [
+        "/ˌʌpˈdeɪt/",
+        "/ˈʌpdeɪt/"
+      ],
+      "meaning": "v. 更新；n. 更新版",
+      "promptMeaning": "v. 更新；n. 更新版",
+      "pos": [
+        "v",
+        "n"
+      ],
+      "aliases": [],
+      "senses": [
+        "更新",
+        "更新版"
+      ]
+    },
+    {
+      "id": 493,
+      "word": "utility",
+      "phonetic": "/juːˈtɪləti/",
+      "phonetics": [
+        "/juːˈtɪləti/"
+      ],
+      "meaning": "n. 效用，公用设施",
+      "promptMeaning": "n. 效用，公用设施",
+      "pos": [
+        "n"
+      ],
+      "aliases": [],
+      "senses": [
+        "效用",
+        "公用设施"
+      ]
+    },
+    {
+      "id": 494,
+      "word": "vacuum",
+      "phonetic": "/ˈvækjuəm/",
+      "phonetics": [
+        "/ˈvækjuəm/"
+      ],
+      "meaning": "n. 真空",
+      "promptMeaning": "n. 真空",
+      "pos": [
+        "n"
+      ],
+      "aliases": [],
+      "senses": [
+        "真空"
+      ]
+    },
+    {
+      "id": 495,
+      "word": "valid",
+      "phonetic": "/ˈvælɪd/",
+      "phonetics": [
+        "/ˈvælɪd/"
+      ],
+      "meaning": "adj. 有效的",
+      "promptMeaning": "adj. 有效的",
+      "pos": [
+        "adj"
+      ],
+      "aliases": [],
+      "senses": [
+        "有效的"
+      ]
+    },
+    {
+      "id": 496,
+      "word": "vary",
+      "phonetic": "/ˈveəri/",
+      "phonetics": [
+        "/ˈveəri/"
+      ],
+      "meaning": "v. 变化，改变",
+      "promptMeaning": "v. 变化，改变",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "变化",
+        "改变"
+      ]
+    },
+    {
+      "id": 497,
+      "word": "verify",
+      "phonetic": "/ˈverɪfaɪ/",
+      "phonetics": [
+        "/ˈverɪfaɪ/"
+      ],
+      "meaning": "v. 核实，验证",
+      "promptMeaning": "v. 核实，验证",
+      "pos": [
+        "v"
+      ],
+      "aliases": [],
+      "senses": [
+        "核实",
+        "验证"
+      ]
+    },
+    {
+      "id": 498,
+      "word": "virtual",
+      "phonetic": "/ˈvɜːtʃuəl/",
+      "phonetics": [
+        "/ˈvɜːtʃuəl/"
+      ],
+      "meaning": "adj. 虚拟的，实质上的",
+      "promptMeaning": "adj. 虚拟的，实质上的",
+      "pos": [
+        "adj"
+      ],
+      "aliases": [],
+      "senses": [
+        "虚拟的",
+        "实质上的"
+      ]
+    },
+    {
+      "id": 499,
+      "word": "visible",
+      "phonetic": "/ˈvɪzəbl/",
+      "phonetics": [
+        "/ˈvɪzəbl/"
+      ],
+      "meaning": "adj. 可见的",
+      "promptMeaning": "adj. 可见的",
+      "pos": [
+        "adj"
+      ],
+      "aliases": [],
+      "senses": [
+        "可见的"
+      ]
+    },
+    {
+      "id": 500,
+      "word": "witness",
+      "phonetic": "/ˈwɪtnəs/",
+      "phonetics": [
+        "/ˈwɪtnəs/"
+      ],
+      "meaning": "v. 见证 n. 目击者",
+      "promptMeaning": "v. 见证 n. 目击者",
+      "pos": [
+        "v",
+        "n"
+      ],
+      "aliases": [],
+      "senses": [
+        "见证 目击者",
+        "见证目击者"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+# 依赖与构建缓存
+node_modules/
+npm-debug.log*
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 含明文 API Key 的本地启动脚本，请勿提交
+start-claude.ps1
+
+# 导出的学习记录备份
+ielts-backup-*.json

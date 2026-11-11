@@ -1,0 +1,76 @@
+{
+  "_note": "同义替换配对练习。每对 from → to；wordId 可选，用于和 wordlist.json 联动展示与发音。",
+  "_copyrightWarning": "以下配对为通用英语表达，演示用原创整理；若替换为剑桥真题同义替换清单或商业备考书内容，公开部署前需获得授权。",
+  "sets": [
+    {
+      "id": "syn-001",
+      "title": "高频形容词与变化动词",
+      "note": "阅读与听力中的常见改写方式",
+      "pairs": [
+        {
+          "from": "important",
+          "to": "crucial",
+          "fromCn": "重要的",
+          "toCn": "至关重要的",
+          "wordId": ""
+        },
+        {
+          "from": "reduce the impact",
+          "to": "mitigate the impact",
+          "fromCn": "减少影响",
+          "toCn": "减轻影响",
+          "wordId": "w001"
+        },
+        {
+          "from": "worsen",
+          "to": "deteriorate",
+          "fromCn": "恶化",
+          "toCn": "恶化，变坏",
+          "wordId": "w002"
+        },
+        {
+          "from": "large",
+          "to": "substantial",
+          "fromCn": "大量的",
+          "toCn": "大量的",
+          "wordId": "w003"
+        }
+      ]
+    },
+    {
+      "id": "syn-002",
+      "title": "写作中的动词升级",
+      "note": "用更准确的动词替换口语化表达",
+      "pairs": [
+        {
+          "from": "put off",
+          "to": "postpone",
+          "fromCn": "推迟",
+          "toCn": "推迟",
+          "wordId": "w102"
+        },
+        {
+          "from": "place",
+          "to": "venue",
+          "fromCn": "地点",
+          "toCn": "场地",
+          "wordId": "w101"
+        },
+        {
+          "from": "serious",
+          "to": "severe",
+          "fromCn": "严重的",
+          "toCn": "严峻的",
+          "wordId": ""
+        },
+        {
+          "from": "solve",
+          "to": "tackle",
+          "fromCn": "解决",
+          "toCn": "应对，处理",
+          "wordId": ""
+        }
+      ]
+    }
+  ]
+}

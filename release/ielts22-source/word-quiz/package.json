@@ -1,0 +1,23 @@
+{
+  "name": "ielts-word-quiz",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "雅思 500 高频词 · 英译汉 / 汉译英 / 选词填空",
+  "scripts": {
+    "parse:words": "node scripts/parse-word-md.mjs",
+    "predev": "npm run parse:words",
+    "dev": "vite",
+    "prebuild": "npm run parse:words",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "echarts": "^5.6.0",
+    "vue": "^3.5.13"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.2.1",
+    "vite": "^6.0.5"
+  }
+}
